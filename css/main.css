@@ -28,6 +28,16 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+
+.leftside_image {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 5px;
+  text-align: center;
+  font-size: 0.8em;
+  font-style: italic;
+}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
