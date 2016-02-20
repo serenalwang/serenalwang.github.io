@@ -33,6 +33,7 @@ p {
 
 .leftside_image {
   float: left;
+  margin-top:3px;
   margin-right: 20px;
   margin-left: 5px;
   margin-bottom: 6px;
