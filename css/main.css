@@ -62,9 +62,9 @@ ul.posts li {
 
 .c-container{
     height:100%;
-    margin-top:100px;
+    margin-top:50px;
     white-space:nowrap;
-    background-color:white;
+    background-color:#FFFFFF;
     /*overflow:auto;*/
     font-size:0;
 }
