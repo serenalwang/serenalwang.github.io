@@ -63,6 +63,7 @@ ul.posts li {
 .c-container{
     height:100%;
     white-space:nowrap;
+    background-color:#00F;
     /*overflow:auto;*/
     font-size:0;
 }
