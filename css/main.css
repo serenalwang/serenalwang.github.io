@@ -63,13 +63,10 @@ ul.posts li {
 .c-container{
     height:100%;
     margin:60px auto;
-}
-.c-container{
     background:rgba(0,0,0,0.1);
     white-space:nowrap;
     overflow:auto;
     font-size:0;
-
 }
 
 .c-squares{
