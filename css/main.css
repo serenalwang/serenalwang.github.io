@@ -61,8 +61,8 @@ ul.posts li {
 /*for responsive square grid*/
 
 html,body,.c-container{
-    height:70%;
-    margin:auto;
+    height:100%;
+    margin:60px auto;
 }
 .c-container{
     background:rgba(0,0,0,0.1);
