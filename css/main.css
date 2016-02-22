@@ -75,14 +75,14 @@ ul.posts li {
 }
 
 .c-link{
-   /* position:relative;
-    display:inline-block;*/
-    height:33.33%;
+    position:relative;
+    display:inline-block;
+    height:40%;
     width:auto;
     font-size:small;
 }
 .c-thumb{
-    max-height:105%;
+    max-height:100%;
     width:auto;
 }
 
