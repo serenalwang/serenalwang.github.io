@@ -68,6 +68,7 @@ html,body,.c-container{
     white-space:nowrap;
     overflow:auto;
     font-size:0;
+    margin:auto;
 }
 
 .c-squares{
