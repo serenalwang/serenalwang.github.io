@@ -77,8 +77,8 @@ ul.posts li {
 .c-link{
     position:relative;
     display:inline-block;
-    height:33.3333%;
-    width:auto;
+    height:30vh;
+    width:30vh;
     font-size:small;
 }
 .c-thumb{
