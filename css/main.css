@@ -65,7 +65,7 @@ ul.posts li {
     margin-top:50px;
     white-space:nowrap;
     background-color:#FFFFFF;
-    /*overflow:auto;*/
+    overflow:auto;
     font-size:0;
 }
 
