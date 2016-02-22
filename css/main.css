@@ -64,10 +64,16 @@ html,body,.c-container{
     height:100%;
 }
 .c-container{
-    background:rgba(255,0,0,0.1);
+    background:rgba(0,0,0,0.1);
     white-space:nowrap;
     overflow:auto;
     font-size:0;
+}
+
+.c-squares{
+    width:30vh;
+    height:30vh;
+    display:inline;
 }
 
 .c-link{
