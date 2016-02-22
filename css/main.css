@@ -84,6 +84,7 @@ ul.posts li {
 .c-thumb{
     height:30vh;
     width:30vh;
+    margin:0;
 }
 
 .c-name{
