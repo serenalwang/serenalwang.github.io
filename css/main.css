@@ -46,6 +46,7 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    color: #d3d3d3;
 }
 
 ul.posts { 
@@ -68,11 +69,11 @@ ul.posts li {
     font-size:0;
 }
 
-.c-squares{
+/*.c-squares{
     width:30vh;
     height:30vh;
     display:inline;
-}
+}*/
 
 .c-link{
     position:relative;
