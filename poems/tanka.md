@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: One
+title: A pair of tanka
 ---
 
 ### A pair of tanka
