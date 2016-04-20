@@ -3,7 +3,7 @@ layout: poem
 title: Poem title
 ---
 
-### A pair of tanka
+### A pair of tanka (and then some)
 
 after the snow  
 &nbsp;sound is stolen from the world  
@@ -18,7 +18,7 @@ sitting beside me quietly
 
 
 
-<span style ="display:inline-block;margin-left:13em;">
+<span style ="display:inline-block;margin-left:12em;">
 after the snow  
 &nbsp;sound falls from a tree top branch  
 a pale green bud  
@@ -31,7 +31,7 @@ to dance again
 &nbsp;
 
 
-<span style ="display:inline-block;font-size: 11pt;margin-left:15em;">
+<span style ="display:inline-block;font-size: 11pt;margin-left:16em;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snow snow snow  
 snow snow snow snow snow  
 &nbsp;&nbsp;&nbsp;snow snow bud snow snow  
