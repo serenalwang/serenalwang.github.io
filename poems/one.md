@@ -18,7 +18,7 @@ sitting beside me quietly
 
 
 
-<span style ="display:inline-block;margin-left:15em;">
+<span style ="display:inline-block;margin-left:13em;">
 after the snow  
 &nbsp;sound falls from a tree top branch  
 a pale green bud  
