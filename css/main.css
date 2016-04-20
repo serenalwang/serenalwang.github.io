@@ -97,9 +97,9 @@ ul.posts li {
 }
 .c-name2{
     z-index:5;
-    background-color:#00F;
+    background-color:#000;
     opacity:0;
-    /* cosmetic */ color:#000;font-size:2em;transition:opacity 500ms;
+    /* cosmetic */ color:#FFF;font-size:2em;transition:opacity 500ms;
 }
 
 .c-link:hover .c-name{
