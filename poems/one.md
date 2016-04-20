@@ -30,8 +30,9 @@ to dance again
 
 &nbsp;
 
+&nbsp;
 
-<span style ="display:inline-block;font-size: 10pt;margin-left:17em;">
+<span style ="display:inline-block;font-size: 10pt;margin-left:18em;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snow snow snow  
 snow snow snow snow snow  
 &nbsp;&nbsp;&nbsp;snow snow bud snow snow  
@@ -45,7 +46,7 @@ snow snow snow snow snow
 &nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snow  
 &nbsp;  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thump  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thump  
 </span>
 
 
