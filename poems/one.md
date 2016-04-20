@@ -10,7 +10,7 @@ Paragraphs are separated
 by a blank line.
 
 Two spaces at the end of a line leave a  
-line break.
+ + line break.
 
 Text attributes _italic_, 
 **bold**, `monospace`.
