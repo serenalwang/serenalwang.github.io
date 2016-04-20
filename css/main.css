@@ -106,6 +106,10 @@ ul.posts li {
     opacity:0.8;
 }
 
+.c-link:hover .c-name2{
+    opacity:0.8;
+}
+
 
 
 /* used class from site css */
