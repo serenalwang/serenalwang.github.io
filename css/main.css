@@ -102,7 +102,7 @@ ul.posts li {
     /* cosmetic */ color:#000;font-size:2em;transition:opacity 500ms;
 }
 
-a.c-link:hover .c-name{
+.c-link:hover .c-name{
     opacity:0.8;
 }
 
