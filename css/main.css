@@ -31,6 +31,10 @@ p {
     color: #333;
 }
 
+p2 {
+    text-indent: 100px;
+}
+
 .leftside_image {
   float: left;
   margin-top:10px;
