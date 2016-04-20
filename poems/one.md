@@ -3,7 +3,7 @@ layout: poem
 title: Poem title
 ---
 
-### A pair of tanka (and then some)
+### A pair of tanka
 
 after the snow  
 &nbsp;sound is stolen from the world  
