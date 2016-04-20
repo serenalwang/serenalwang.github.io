@@ -95,6 +95,13 @@ ul.posts li {
     opacity:0;
     /* cosmetic */ color:#FFF;font-size:2em;transition:opacity 500ms;
 }
+.c-name2{
+    z-index:5;
+    background-color:#00F;
+    opacity:0;
+    /* cosmetic */ color:#000;font-size:2em;transition:opacity 500ms;
+}
+
 a.c-link:hover .c-name{
     opacity:0.8;
 }
