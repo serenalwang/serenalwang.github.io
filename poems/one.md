@@ -11,7 +11,9 @@ white and still
 are my thoughts  
 sitting beside me quietly  
 
-<span style ="display:inline-block;margin-left:7em;">
+
+
+<span style ="display:inline-block;margin-left:10em;">
 after the snow  
 sound falls from a tree top branch  
 a pale green bud  
