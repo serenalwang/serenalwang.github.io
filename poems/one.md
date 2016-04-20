@@ -15,11 +15,12 @@ sitting beside me quietly
 
 
 
-:    after the snow  
-> > > sound falls from a tree top branch  
-> > > a pale green bud  
-> > > saying it is time  
-> > > to dance again  
+<p2>after the snow  
+sound falls from a tree top branch  
+a pale green bud  
+saying it is time  
+to dance again 
+</p2>
 
 
 Poem title
