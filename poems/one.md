@@ -34,15 +34,11 @@ snow snow snow snow snow
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;branch  
 &nbsp;&nbsp;&nbsp;&nbsp;snow  
 &nbsp;&nbsp;snow  
-
-&nbsp;&nbsp;&nbsp;snow
-
-&nbsp;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snow
-	
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thump
-	
+&nbsp;&nbsp;&nbsp;snow  
+&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snow  
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thump  
 </span>
 
 
