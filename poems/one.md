@@ -11,7 +11,17 @@ white and still
 are my thoughts  
 sitting beside me quietly  
 
+<span style ="display:inline-block;margin-left:1em;">
+after the snow
 
+sound falls from a tree top branch
+
+a pale green bud
+
+saying it is time
+
+to dance again
+<\span>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;after the snow  
