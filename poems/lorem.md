@@ -6,7 +6,7 @@ title: lorem ipsum
 ### lorem ipsum
 
 <p style="width:500px;text-align:justify">
-(primal sound) mmmmmmmmm mmmmmmm mmmmmmmmmmmmm mmmmmmm 
+(primal sound) mmmmmmmmm mmmmmmm mmmmmmmmmmmm mmmmm 
 Lorem ipsum dolor sit amet when I wake up every next morning I 
 am still lost in rehearsal am still searching for sleep does not manu-
 facture purpose but what I hear always is song lorem ipsum (rest)
