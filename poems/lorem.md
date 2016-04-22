@@ -16,8 +16,8 @@ no I do not repent sometimes sorry I do not repent but I still want
 to be forgiven sometimes so I cry out to no one lorem ipsum dolor 
 (rest) what about joy I have joyed in shame I have joyed in anguish 
 when I have exhausted every last grrrah what is left you know I am 
-dying to be good I planned to be original like what you can't even
-guess but your plan is not mine (rest) all the minutes I spent being 
+dying to be good I planned to be original like what you can't even guess 
+but I know your plan is not mine (rest) all the minutes I spent being 
 unsure simply break into song you know it you know it lorem ipsum 
 dolor sit amet if I sing to no one loud enough purpose will find me be-
 cause the music never dies the music never dies the music never 
