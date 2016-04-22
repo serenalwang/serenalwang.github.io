@@ -1,9 +1,9 @@
 ---
 layout: poem
-title: somatic poem 0.9
+title: Prologue
 ---
 
-### somatic poem
+(Untitled)
 
 In the morning  
 when you bend over your legs  
