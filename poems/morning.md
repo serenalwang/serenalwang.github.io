@@ -3,7 +3,7 @@ layout: poem
 title: somatic poem 0.9
 ---
 
-### somatic poem 0.9
+### somatic poem
 
 In the morning  
 when you bend over your legs  
