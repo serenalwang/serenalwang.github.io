@@ -23,3 +23,7 @@ dolor sit amet if I sing to no one loud enough purpose will find me be-
 cause the music never dies the music never dies the music never 
 (primal sound) mmmmmmmmmmmmmmmmmmmmmmmmmmmmm 
 </p>
+
+&nbsp;  
+
+<a href="/poems/epilogue" style="float: right;">next ></a>
