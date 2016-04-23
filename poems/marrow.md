@@ -42,3 +42,7 @@ in my bones there is marrow
 and it will make you strong so strong I  
 dug deep with my baby chopstick and sucked for dear  
 marrow  
+
+&nbsp;  
+
+<a href="/poems/tanka" style="float: right;">next ></a>
