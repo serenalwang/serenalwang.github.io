@@ -28,4 +28,4 @@ and your shoulders clawing
 
 &nbsp;  
 
-<a href="/poems/proof" style="float: right;">Next ></a>
+<a href="/poems/proof" style="float: right;">next ></a>
