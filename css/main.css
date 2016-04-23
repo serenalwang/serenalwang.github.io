@@ -59,6 +59,7 @@ footer {
 
 ul li{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: lighter;
     font-size:1em;
     line-height: 1.5em;
     list-style-type: circle;
