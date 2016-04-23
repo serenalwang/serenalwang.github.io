@@ -19,7 +19,6 @@ but
 it is warm  
 in the interior  
 
-&nbsp;  
 
 an afternoon I spend  
 tracing your convexity  
@@ -29,16 +28,13 @@ and
 the density  
 of rationality  
 
-&nbsp;  
 
 gave  
 
-&nbsp;  
 
 given an epsilon  
 of me  
 
-&nbsp;  
 
 the quiet of your breath exists  
 there exists  
