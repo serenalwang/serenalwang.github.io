@@ -98,7 +98,7 @@ ul.posts li {
 
 .c-name{
     z-index:5;
-    background-color:#00F;
+    background-color:#14277D;
     opacity:0;
     /* cosmetic */ color:#FFF;font-size:2em;transition:opacity 500ms;
 }
