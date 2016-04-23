@@ -21,11 +21,11 @@ At my parent’s dinner table there was always marrow
 from the pig bones in the pig bone soup a weekly offering  
 to the hunger gods  
 will be pleased  
-  
+
 
 all the globs of pig bone on my plate  
 the springiness the braininess the fat?  
-suck it all suck it all  
+<i>suck it all suck it all </i>
  
 
 some mornings when I wake up  
@@ -34,7 +34,7 @@ in my bones I remember
 in my bones there is marrow  
 
 
-and it will make you strong so strong I  
+<i>and it will make you strong </i>so strong I  
 dug deep with my baby chopstick and sucked for dear  
 marrow  
 
