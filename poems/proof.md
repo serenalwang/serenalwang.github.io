@@ -9,7 +9,7 @@ title: proof
 Take epsilon of me and  
 epsilon of you  
 
-&nbsp;  
+&nbsp;
 
 in March there is an  
 epsilon of snow  
