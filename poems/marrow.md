@@ -1,9 +1,9 @@
 ---
 layout: poem
-title: Marrow
+title: marrow
 ---
 
-### Marrow
+### marrow
 
 Huddled around one end of the bar top we  
 side-eyed our neighbors, swallowing our salivas when  
