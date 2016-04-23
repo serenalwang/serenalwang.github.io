@@ -16,7 +16,7 @@ I listened
 to the breath of empty space, heavy  
 and desirous, quivering with lust  
 as a vacuum lusts  
-for flakes of skin or dust 
+for flakes of skin or dust  
 so I set aside sleep,  
 and surrendered myself,   
 head first, to its shadowy lip,  
