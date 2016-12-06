@@ -22,7 +22,7 @@ from the pig bones in the pig bone soup a weekly offering
 to the hunger gods  
 will be pleased  
 
-
+<!---
 all the globs of pig bone on my plate  
 the springiness the braininess the fat?  
 <i>suck it all suck it all </i>
@@ -37,6 +37,7 @@ in my bones there is marrow
 <i>and it will make you strong </i>so strong I  
 dug deep with my baby chopstick and sucked for dear  
 marrow  
+-->
 
 &nbsp;  
 
