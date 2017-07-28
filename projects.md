@@ -11,3 +11,5 @@ title: Research
 
 ### Invited Talks
 
+* ***e*** **PCA: High Dimensional Exponential Family PCA** at John Storey's group. Princeton, NJ. April 2017.
+* ***e*** **PCA: High Dimensional Exponential Family PCA** at Program in Applied and Computational Mathematics Certificate Program Oral Presentations. Princeton, NJ. April 2017. *Best Project*
