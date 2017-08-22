@@ -2,16 +2,19 @@
 layout: default
 title: Lydia T Liu
 ---
-<div class="blurb">
 	
-	<img src="img/me4.jpg" alt="Photo" class="leftside_image">
-	<h1>Lydia T. Liu</h1>
-		<p>I am a first year PhD student in Computer Science at University of California, Berkeley, advised by Michael Jordan and Moritz Hardt.
+	
+# Lydia T. Liu #
+
+<img src="img/me4.jpg" alt="Photo" class="leftside_image">
+
+I am a first year PhD student in Computer Science at University of California, Berkeley, advised by Michael Jordan and Moritz Hardt.
 			Previously I obtained my BSE in Operations Research and Financial Engineering from Princeton University, 
 			where I was fortunate to work with Amit Singer and Han Liu. I have also spent a wonderful summer at Microsoft Research Cambridge, 
 			working with Katja Hofmann and Urun Dogan.</p>
-			<p>My interests are in <b>high dimensional statistics</b> and <b>stochastic optimization</b>. For applications,
+
+
+My interests are in <b>high dimensional statistics</b> and <b>stochastic optimization</b>. For applications,
 			I am interested in problems in the empirical sciences, and in artificial intelligence. Read about my
-			<a href="/projects">research</a>.</p>
+			![research]("/projects").
 	<!--<p> I am sometimes a <a href="/writing">poet</a>.</p> -->
-</div><!-- /.blurb -->
