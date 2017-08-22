@@ -16,5 +16,5 @@ I am a first year PhD student in Computer Science at University of California, B
 
 My interests are in __high dimensional statistics__ and __stochastic optimization__. For applications,
 			I am interested in problems in the empirical sciences, and in artificial intelligence. Read about my
-			![research](/projects).
+			![research](/projects/).
 	<!--<p> I am sometimes a <a href="/writing">poet</a>.</p> -->
