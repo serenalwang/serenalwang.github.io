@@ -8,10 +8,8 @@ title: Lydia T Liu
 
 <img src="img/web_prof.jpg" alt="Photo" class="leftside_image">
 
-I am a first year PhD student in Computer Science at University of California, Berkeley, advised by Michael Jordan and Moritz Hardt.
-			Previously I obtained my BSE in Operations Research and Financial Engineering from Princeton University, 
-			where I was fortunate to work with Amit Singer and Han Liu. I have also spent a wonderful summer at Microsoft Research Cambridge, 
-			working with Katja Hofmann and Urun Dogan.
+I am a first year PhD student in Computer Science at University of California, Berkeley, advised by [Michael Jordan](https://people.eecs.berkeley.edu/~jordan/) and [Moritz Hardt](http://www.moritzhardt.com/). I am affliated with [RISELab](http://rise.cs.berkeley.edu/) and [BAIR](http://bair.berkeley.edu/).
+I obtained my BSE in Operations Research and Financial Engineering from Princeton University, where I was fortunate to work with [Amit Singer](https://web.math.princeton.edu/~amits/) and [Han Liu](https://www.princeton.edu/~hanliu/). I have also spent a wonderful summer at Microsoft Research Cambridge, working with Katja Hofmann and Urun Dogan.
 
 
 My interests are in __high dimensional statistics__ and __stochastic optimization__. For applications,
