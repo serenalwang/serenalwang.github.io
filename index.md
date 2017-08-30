@@ -6,7 +6,7 @@ title: Lydia T Liu
 	
 # Lydia T. Liu #
 
-<img src="img/me4.jpg" alt="Photo" class="leftside_image">
+<img src="img/web_prof.jpg" alt="Photo" class="leftside_image">
 
 I am a first year PhD student in Computer Science at University of California, Berkeley, advised by Michael Jordan and Moritz Hardt.
 			Previously I obtained my BSE in Operations Research and Financial Engineering from Princeton University, 
