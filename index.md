@@ -14,5 +14,5 @@ I recently obtained my BSE in Operations Research and Financial Engineering from
 
 My interests are in __high dimensional statistics__ and __stochastic optimization__. For applications,
 			I am interested in problems in the empirical sciences, and in artificial intelligence. Read about my
-			[research](/projects/).
+			[research](/projects).
 	<!--<p> I am sometimes a <a href="/writing">poet</a>.</p> -->
