@@ -48,6 +48,8 @@ p {
   font-size: 0.8em;
   font-style: italic;
   border-radius: 50%;
+  max-width: 40%;
+  height: auto;
 }
 
 footer {
