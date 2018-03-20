@@ -5,7 +5,7 @@ title: Research
 
 ### Publications
 
-* Lydia T. Liu, Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt. **Delayed Impact of Fair Machine Learning.** *arXiv preprint arXiv:1803.04383*, 2018. [[preprint]](http://arxiv.org/abs/1803.04383)
+* Lydia T. Liu, Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt. **Delayed Impact of Fair Machine Learning.** *arXiv preprint arXiv:1803.04383*, 2018. [[preprint]](http://arxiv.org/abs/1803.04383) [[Bloomberg Op-Ed]](https://www.bloomberg.com/view/articles/2018-03-15/computer-algorithms-need-to-know-what-fair-means)
 
 * Lydia T. Liu<sup>\*</sup>, Edgar Dobriban<sup>\*</sup>, and Amit Singer. ***e*****PCA: High Dimensional Exponential Family PCA.** *arXiv preprint arXiv:1611.05550*, 2016. The Annals of Applied Statistics, *to appear*. [[preprint]](http://arxiv.org/abs/1611.05550) [[software]](http://github.com/lydiatliu/epca/)
 
