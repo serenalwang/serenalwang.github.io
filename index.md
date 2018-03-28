@@ -15,5 +15,5 @@ I recently obtained my BSE in [Operations Research and Financial Engineering](ht
 My interests are in __reliable machine learning__, __high-dimensional statistics__, and __stochastic optimization__. For applications, I am interested in problems in the empirical sciences, and in artificial intelligence. Read about my [research](/projects).
 			
 Email: `lydiatliu_at_berkeley_dot_edu`
-			
-	<!--<p> I am sometimes a <a href="/writing">poet</a>.</p> -->
+
+<!--<p> I am sometimes a <a href="/writing">poet</a>.</p> -->
