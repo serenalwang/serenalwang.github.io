@@ -13,7 +13,7 @@ I recently obtained my BSE in [Operations Research and Financial Engineering](ht
 
 I'm excited about __reliable machine learning__, __high-dimensional statistics__, and __stochastic optimization__. For applications, I am interested in problems in the empirical sciences, and in artificial intelligence. Read about my [research](/projects).
 			
-:email: `lydiatliu_at_berkeley_dot_edu`
+Email: `lydiatliu_at_berkeley_dot_edu`
 
 <sub><sup>&alpha;</sup>alphabetical order </sub>
 
