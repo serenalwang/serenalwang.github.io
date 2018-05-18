@@ -15,6 +15,10 @@ title: Research
 
 *<sup>\*</sup>equal contribution*
 
+### Blog posts
+
+* [**Delayed Impact of Fair Machine Learning.**](http://bair.berkeley.edu/blog/2018/05/17/delayed-impact/) Co-authored with Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt. May 2018.
+
 ### Invited Talks
 
 * ***e*****PCA: High Dimensional Exponential Family PCA** at John Storey's group. Princeton, NJ. April 2017. [[slides]](/assets/epca_talk_apr20.pdf)
