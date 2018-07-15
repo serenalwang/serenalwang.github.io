@@ -23,6 +23,6 @@ title: Research
 
 * **Delayed Impact of Fair Machine Learning** at ICML 2018, Best Paper Talk. [[slides]](/assets/icml_talk_2018.pdf)
 
-* ***e*****PCA: High Dimensional Exponential Family PCA** at John Storey's group. Princeton, NJ. April 2017. [[slides]](/assets/epca_talk_apr20.pdf)
-
-* ***e*****PCA: High Dimensional Exponential Family PCA** at Program in Applied and Computational Mathematics Certificate Program Oral Presentations. Princeton, NJ. April 2017. *Best Project*
+* ***e*****PCA: High Dimensional Exponential Family PCA**
+  * at John Storey's group. Princeton, NJ. April 2017. [[slides]](/assets/epca_talk_apr20.pdf)
+  * at Program in Applied and Computational Mathematics Certificate Program Oral Presentations. Princeton, NJ. April 2017. *Best Project*
