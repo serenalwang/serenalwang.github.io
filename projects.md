@@ -3,11 +3,11 @@ layout: default
 title: Research
 ---
 
-### Publications
+## Publications
 
 * Chi Jin<sup>\*</sup>, Lydia T. Liu<sup>\*</sup>, Rong Ge, Michael I. Jordan. **Minimizing Nonconvex Population Risk from Rough Empirical Risk.** *arXiv preprint arXiv:1803.09357*, 2018. [[arxiv]](http://arxiv.org/abs/1803.09357) 
 
-* Lydia T. Liu, Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt. **Delayed Impact of Fair Machine Learning.** *Proceedings of the 35th International Conference on Machine Learning (ICML)*, Stockholm, Sweden, 2018. ***Best Paper Award.*** [[arxiv]](http://arxiv.org/abs/1803.04383) [[Bloomberg Op-Ed]](https://www.bloomberg.com/view/articles/2018-03-15/computer-algorithms-need-to-know-what-fair-means)
+* Lydia T. Liu, Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt. **Delayed Impact of Fair Machine Learning.** *Proceedings of the 35th International Conference on Machine Learning (ICML)*, Stockholm, Sweden, 2018. ***Best Paper Award.*** [[arxiv]](http://arxiv.org/abs/1803.04383) 
 
 * Lydia T. Liu<sup>\*</sup>, Edgar Dobriban<sup>\*</sup>, and Amit Singer. ***e*****PCA: High Dimensional Exponential Family PCA.** *The Annals of Applied Statistics, to appear*. [[arxiv]](http://arxiv.org/abs/1611.05550) [[software]](http://github.com/lydiatliu/epca/)
 
@@ -15,14 +15,21 @@ title: Research
 
 *<sup>\*</sup>equal contribution*
 
-### Blog Posts
+## Blog Posts
 
 * [**Delayed Impact of Fair Machine Learning.**](http://bair.berkeley.edu/blog/2018/05/17/delayed-impact/) Co-authored with Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt. May 2018.
 
-### Invited Talks
+## Invited Talks
 
 * **Delayed Impact of Fair Machine Learning** at ICML 2018, Best Paper Talk. [[slides]](/assets/icml_talk_2018.pdf)
 
 * ***e*****PCA: High Dimensional Exponential Family PCA**
   * at John Storey's group. Princeton, NJ. April 2017. [[slides]](/assets/epca_talk_apr20.pdf)
   * at Program in Applied and Computational Mathematics Certificate Program Oral Presentations. Princeton, NJ. April 2017. *Best Project*
+  
+## Featured in
+
+* Talking Machines podcast, [Long Term Fairness](https://www.thetalkingmachines.com/episodes/long-term-fairness).
+
+* Bloomberg Opinion, [How to Teach a Computer What ‘Fair’ Means](https://www.bloomberg.com/view/articles/2018-03-15/computer-algorithms-need-to-know-what-fair-means).
+
