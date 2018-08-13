@@ -29,8 +29,7 @@ title: Research
   
   
 
-&nbsp;  
-
+### Other links  
 Our work has been featured in:
 * Talking Machines podcast, [Long Term Fairness](https://www.thetalkingmachines.com/episodes/long-term-fairness).
 * Bloomberg Opinion, [How to Teach a Computer What ‘Fair’ Means](https://www.bloomberg.com/view/articles/2018-03-15/computer-algorithms-need-to-know-what-fair-means).
