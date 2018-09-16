@@ -7,7 +7,7 @@ title: Research
 
 * Lydia T. Liu<sup>\*</sup>, Max Simchowitz<sup>\*</sup>, Moritz Hardt. **Group calibration is a byproduct of unconstrained learning.** *arXiv preprint arXiv:1808.10013*, 2018. [[arxiv]](https://arxiv.org/abs/1808.10013) 
 
-* Chi Jin<sup>\*</sup>, Lydia T. Liu<sup>\*</sup>, Rong Ge, Michael I. Jordan. **Minimizing Nonconvex Population Risk from Rough Empirical Risk.** *arXiv preprint arXiv:1803.09357*, 2018. [[arxiv]](https://arxiv.org/abs/1803.09357) 
+* Chi Jin<sup>\*</sup>, Lydia T. Liu<sup>\*</sup>, Rong Ge, Michael I. Jordan. **On the Local Minima of the Empirical Risk.** *Advances in Neural Information Processing Systems (NIPS) 32, to appear.* ***Spotlight.*** [[arxiv]](https://arxiv.org/abs/1803.09357) 
 
 * Lydia T. Liu, Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt. **Delayed Impact of Fair Machine Learning.** *Proceedings of the 35th International Conference on Machine Learning (ICML)*, Stockholm, Sweden, 2018. ***Best Paper Award.*** [[arxiv]](https://arxiv.org/abs/1803.04383) 
 
