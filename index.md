@@ -9,7 +9,7 @@ title: Lydia T. Liu | University of California, Berkeley
 <img src="img/francis.jpg" alt="Photo" class="leftside_image">
 
 I am a PhD student in [Computer Science](https://eecs.berkeley.edu/) at University of California, Berkeley, advised by [Moritz Hardt](http://www.moritzhardt.com/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/) <sup>&alpha;</sup>. I am affiliated with [RISELab](http://rise.cs.berkeley.edu/) and [BAIR](http://bair.berkeley.edu/).
-I recently obtained my BSE in [Operations Research and Financial Engineering](https://orfe.princeton.edu/) from Princeton University, where I was fortunate to work with [Amit Singer](https://web.math.princeton.edu/~amits/), [Han Liu](https://www.princeton.edu/~hanliu/), and [Barbara Engelhardt](https://www.cs.princeton.edu/~bee/). Before that, I spent a wonderful summer at Microsoft Research, Cambridge, with the [Reinforcement Learning Group](https://www.microsoft.com/en-us/research/group/reinforcement-learning-group/).
+I obtained my BSE in [Operations Research and Financial Engineering](https://orfe.princeton.edu/) from Princeton University, where I was fortunate to work with [Amit Singer](https://web.math.princeton.edu/~amits/), [Han Liu](https://www.princeton.edu/~hanliu/), and [Barbara Engelhardt](https://www.cs.princeton.edu/~bee/). Before that, I spent a wonderful summer at Microsoft Research, Cambridge, with the [Reinforcement Learning Group](https://www.microsoft.com/en-us/research/group/reinforcement-learning-group/).
 
 My research interest is designing **machine learning** algorithms that have **reliable and robust performance guarantees**, and **positive long-term societal impact**. Read about my [research](/projects).
 			
