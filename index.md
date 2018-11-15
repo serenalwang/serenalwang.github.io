@@ -13,7 +13,7 @@ I obtained my BSE in [Operations Research and Financial Engineering](https://orf
 
 I'm interested in designing **machine learning** algorithms that have **reliable and robust performance guarantees**, and **positive long-term societal impact**. Read about my [research](/projects).
 
-Outside of research, I like to write <a href="/writing">poems</a>.
+Outside of research, I also write <a href="/writing">poems</a>.
 			
 Email: `lydiatliu_at_berkeley_dot_edu`
 
