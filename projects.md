@@ -3,9 +3,11 @@ layout: default
 title: Research
 ---
 
-### Publications
+### Preprints
 
 * Lydia T. Liu<sup>\*</sup>, Max Simchowitz<sup>\*</sup>, Moritz Hardt. **Group calibration is a byproduct of unconstrained learning.** *arXiv preprint arXiv:1808.10013*, 2018. [[arxiv]](https://arxiv.org/abs/1808.10013) 
+
+### Peer-reviewed publications
 
 * Chi Jin<sup>\*</sup>, Lydia T. Liu<sup>\*</sup>, Rong Ge, Michael I. Jordan. **On the Local Minima of the Empirical Risk.** *Advances in Neural Information Processing Systems (NIPS) 32, to appear.* ***Spotlight.*** [[arxiv]](https://arxiv.org/abs/1803.09357) 
 
@@ -13,7 +15,8 @@ title: Research
 
 * Lydia T. Liu<sup>\*</sup>, Edgar Dobriban<sup>\*</sup>, and Amit Singer. ***e*****PCA: High Dimensional Exponential Family PCA.** *Annals of Applied Statistics 2018, Vol. 12, No. 4, 2121-2150.* [[doi]](https://dx.doi.org/10.1214/18-AOAS1146) [[arxiv]](https://arxiv.org/abs/1611.05550) [[software]](http://github.com/lydiatliu/epca/)
 
-* Lydia T. Liu, Urun Dogan, and Katja Hofmann. **Decoding multitask DQN in the world of Minecraft.** *Presented at the 13th European Workshop on Reinforcement Learning, the 11th Women in Machine Learning Workshop, and the NIPS Deep Reinforcement Learning Workshop*, 2016. [[EWRL version]](https://ewrl.files.wordpress.com/2016/11/ewrl13-2016-submission-29.pdf) [[DRL@NIPS version]](https://drive.google.com/file/d/0B1PUpk7kwWu-bDd2djhqNEx2S2J4UURTUE1sVjVnS2tXZG9r/view)
+* Lydia T. Liu, Urun Dogan, and Katja Hofmann. **Decoding multitask DQN in the world of Minecraft.** *Proceedings of the 13th European Workshop on Reinforcement Learning, 2016.* [[EWRL version]](https://ewrl.files.wordpress.com/2016/11/ewrl13-2016-submission-29.pdf) 
+  * Also presented at the *11th Women in Machine Learning Workshop and the NIPS Deep Reinforcement Learning Workshop*, 2016.  [[DRL@NIPS version]](https://drive.google.com/file/d/0B1PUpk7kwWu-bDd2djhqNEx2S2J4UURTUE1sVjVnS2tXZG9r/view)
 
 *<sup>\*</sup>equal contribution*
 
