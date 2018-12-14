@@ -27,16 +27,16 @@ title: Research
 ### Invited Talks
 
 * **Delayed Impact of Fair Machine Learning** 
-  * at MSR AI Seminar, Redmond, WA. November 2018. [[video]](https://youtu.be/8cDVtXjvq9s)
-  * at MPI for Software Systems, Saarbrucken, Germany. October 2018.
-  * at MPI for Intelligent Systems, Tuebingen, Germany. October 2018.
-  * at ICML, Stockholm, Sweden. July 2018. [[slides]](/assets/icml_talk_2018.pdf)
+  * MSR AI Seminar, Redmond, WA. November 2018. [[video]](https://youtu.be/8cDVtXjvq9s)
+  * MPI for Software Systems, Saarbrucken, Germany. October 2018.
+  * MPI for Intelligent Systems, Tuebingen, Germany. October 2018.
+  * ICML plenary talk, Stockholm, Sweden. July 2018. [[slides]](/assets/icml_talk_2018.pdf)
 
   
   
 * ***e*****PCA: High Dimensional Exponential Family PCA**
-  * at John Storey's group. Princeton, NJ. April 2017. [[slides]](/assets/epca_talk_apr20.pdf)
-  * at Program in Applied and Computational Mathematics Certificate Program Oral Presentations. Princeton, NJ. April 2017. *Best Project*
+  * John Storey's group. Princeton, NJ. April 2017. [[slides]](/assets/epca_talk_apr20.pdf)
+  * Program in Applied and Computational Mathematics Certificate Program Oral Presentations. Princeton, NJ. April 2017. *Best Project*
   
   
 
