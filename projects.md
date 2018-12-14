@@ -9,7 +9,7 @@ title: Research
 
 ### Publications
 
-* Chi Jin<sup>\*</sup>, Lydia T. Liu<sup>\*</sup>, Rong Ge, Michael I. Jordan. **On the Local Minima of the Empirical Risk.** *Advances in Neural Information Processing Systems (NIPS) 32*, Montréal, Canada, 2018. ***Spotlight.*** [[arxiv]](https://arxiv.org/abs/1803.09357) 
+* Chi Jin<sup>\*</sup>, Lydia T. Liu<sup>\*</sup>, Rong Ge, Michael I. Jordan. **On the Local Minima of the Empirical Risk.** *Advances in Neural Information Processing Systems (NeurIPS) 32*, Montréal, Canada, 2018. ***Spotlight.*** [[arxiv]](https://arxiv.org/abs/1803.09357) 
 
 * Lydia T. Liu, Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt. **Delayed Impact of Fair Machine Learning.** *Proceedings of the 35th International Conference on Machine Learning (ICML)*, Stockholm, Sweden, 2018. ***Best Paper Award.*** [[arxiv]](https://arxiv.org/abs/1803.04383) [[code]](https://github.com/lydiatliu/delayedimpact)
 
