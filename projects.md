@@ -27,8 +27,11 @@ title: Research
 ### Invited Talks
 
 * **Delayed Impact of Fair Machine Learning** 
-  * at ICML, Stockholm, Sweden. July 2018. [[slides]](/assets/icml_talk_2018.pdf)
   * at MSR AI Seminar, Redmond, WA. November 2018. [[video]](https://youtu.be/8cDVtXjvq9s)
+  * at MPI for Software Systems, Saarbrucken, Germany. October 2018.
+  * at MPI for Intelligent Systems, Tuebingen, Germany. October 2018.
+  * at ICML, Stockholm, Sweden. July 2018. [[slides]](/assets/icml_talk_2018.pdf)
+
   
   
 * ***e*****PCA: High Dimensional Exponential Family PCA**
