@@ -16,7 +16,7 @@ title: Research
 * Lydia T. Liu<sup>\*</sup>, Edgar Dobriban<sup>\*</sup>, and Amit Singer. ***e*****PCA: High Dimensional Exponential Family PCA.** *Annals of Applied Statistics 2018, Vol. 12, No. 4, 2121-2150.* [[doi]](https://dx.doi.org/10.1214/18-AOAS1146) [[arxiv]](https://arxiv.org/abs/1611.05550) [[software]](http://github.com/lydiatliu/epca/)
 
 * Lydia T. Liu, Urun Dogan, and Katja Hofmann. **Decoding multitask DQN in the world of Minecraft.** *[The 13th European Workshop on Reinforcement Learning](https://ewrl.files.wordpress.com/2016/11/ewrl13-2016-submission-29.pdf), 2016.*
-  * Also presented at the *11th Women in Machine Learning Workshop* and [*the NIPS Deep Reinforcement Learning Workshop*](https://drive.google.com/file/d/0B1PUpk7kwWu-bDd2djhqNEx2S2J4UURTUE1sVjVnS2tXZG9r/view), 2016.
+  * Also presented at the *11th Women in Machine Learning Workshop* and [*the Deep Reinforcement Learning Workshop at NeurIPS 2016*](https://drive.google.com/file/d/0B1PUpk7kwWu-bDd2djhqNEx2S2J4UURTUE1sVjVnS2tXZG9r/view), 2016.
   
 *<sup>\*</sup>equal contribution*
 
