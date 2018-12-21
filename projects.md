@@ -7,6 +7,8 @@ title: Research
 
 * Lydia T. Liu<sup>\*</sup>, Max Simchowitz<sup>\*</sup>, Moritz Hardt. **Group calibration is a byproduct of unconstrained learning.** *arXiv preprint arXiv:1808.10013*, 2018. [[arxiv]](https://arxiv.org/abs/1808.10013) 
 
+* Zhizhen Zhao, Lydia T. Liu, Amit Singer. **Steerable *e*PCA.** *arXiv preprint arXiv:1812.08789*, 2018. [[arxiv]](https://arxiv.org/abs/1812.08789) 
+
 ### Publications
 
 * Chi Jin<sup>\*</sup>, Lydia T. Liu<sup>\*</sup>, Rong Ge, Michael I. Jordan. **On the Local Minima of the Empirical Risk.** *Advances in Neural Information Processing Systems (NeurIPS) 32*, Montréal, Canada, 2018. ***Spotlight.*** [[arxiv]](https://arxiv.org/abs/1803.09357) 
