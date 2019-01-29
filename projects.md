@@ -5,7 +5,7 @@ title: Research
 
 ### Preprints
 
-* Lydia T. Liu<sup>\*</sup>, Max Simchowitz<sup>\*</sup>, Moritz Hardt. **Group calibration is a byproduct of unconstrained learning.** *arXiv preprint arXiv:1808.10013*, 2018. [[arxiv]](https://arxiv.org/abs/1808.10013) 
+* Lydia T. Liu<sup>\*</sup>, Max Simchowitz<sup>\*</sup>, Moritz Hardt. **The implicit fairness criterion of unconstrained learning.** *arXiv preprint arXiv:1808.10013*, 2018. [[arxiv]](https://arxiv.org/abs/1808.10013) 
 
 * Zhizhen Zhao, Lydia T. Liu, Amit Singer. **Steerable *e*PCA.** *arXiv preprint arXiv:1812.08789*, 2018. [[arxiv]](https://arxiv.org/abs/1812.08789) 
 
