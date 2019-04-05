@@ -32,7 +32,7 @@ title: Research
   * MSR AI Seminar, Redmond, WA. November 2018. [[video]](https://youtu.be/8cDVtXjvq9s)
   * MPI for Software Systems, Saarbrucken, Germany. October 2018.
   * MPI for Intelligent Systems, Tuebingen, Germany. October 2018.
-  * ICML plenary talk, Stockholm, Sweden. July 2018. [[slides]](/assets/icml_talk_2018.pdf)
+  * ICML plenary talk, Stockholm, Sweden. July 2018. [[slides]](/assets/icml_talk_2018.pdf) [[video]](https://vimeo.com/295742898)
 
   
   
