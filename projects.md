@@ -5,11 +5,12 @@ title: Research
 
 ### Preprints
 
-* Lydia T. Liu<sup>\*</sup>, Max Simchowitz<sup>\*</sup>, Moritz Hardt. **The implicit fairness criterion of unconstrained learning.** *Proceedings of the 36th International Conference on Machine Learning (ICML)*, to appear. [[arxiv]](https://arxiv.org/abs/1808.10013) 
 
 * Zhizhen Zhao, Lydia T. Liu, Amit Singer. **Steerable *e*PCA.** *arXiv preprint arXiv:1812.08789*, 2018. [[arxiv]](https://arxiv.org/abs/1812.08789) 
 
 ### Publications
+
+* Lydia T. Liu<sup>\*</sup>, Max Simchowitz<sup>\*</sup>, Moritz Hardt. **The implicit fairness criterion of unconstrained learning.** *Proceedings of the 36th International Conference on Machine Learning (ICML)*, to appear. [[arxiv]](https://arxiv.org/abs/1808.10013) 
 
 * Chi Jin<sup>\*</sup>, Lydia T. Liu<sup>\*</sup>, Rong Ge, Michael I. Jordan. **On the Local Minima of the Empirical Risk.** *Advances in Neural Information Processing Systems (NeurIPS) 32*, Montréal, Canada, 2018. ***Spotlight.*** [[arxiv]](https://arxiv.org/abs/1803.09357) 
 
