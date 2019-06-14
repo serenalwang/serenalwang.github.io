@@ -5,12 +5,13 @@ title: Research
 
 ### Preprints
 
+* Lydia T. Liu<sup>\*</sup>, Horia Mania<sup>\*</sup>, Michael I. Jordan. **Competing Bandits in Matching Markets.** *arXiv preprint arXiv:1906.05363*, 2019. [[arxiv]](https://arxiv.org/abs/1906.05363)
 
 * Zhizhen Zhao, Lydia T. Liu, Amit Singer. **Steerable *e*PCA.** *arXiv preprint arXiv:1812.08789*, 2018. [[arxiv]](https://arxiv.org/abs/1812.08789) 
 
 ### Publications
 
-* Lydia T. Liu<sup>\*</sup>, Max Simchowitz<sup>\*</sup>, Moritz Hardt. **The implicit fairness criterion of unconstrained learning.** *Proceedings of the 36th International Conference on Machine Learning (ICML)*, Long Beach, CA, USA, 2019. *To appear*. [[arxiv]](https://arxiv.org/abs/1808.10013) 
+* Lydia T. Liu<sup>\*</sup>, Max Simchowitz<sup>\*</sup>, Moritz Hardt. **The implicit fairness criterion of unconstrained learning.** *Proceedings of the 36th International Conference on Machine Learning (ICML)*, Long Beach, CA, USA, 2019. [[arxiv]](https://arxiv.org/abs/1808.10013) [[code]](https://github.com/lydiatliu/unconstrainedml) 
 
 * Chi Jin<sup>\*</sup>, Lydia T. Liu<sup>\*</sup>, Rong Ge, Michael I. Jordan. **On the Local Minima of the Empirical Risk.** *Advances in Neural Information Processing Systems (NeurIPS) 32*, Montréal, Canada, 2018. ***Spotlight.*** [[arxiv]](https://arxiv.org/abs/1803.09357) 
 
@@ -27,7 +28,10 @@ title: Research
 
 * [**Delayed Impact of Fair Machine Learning.**](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/) Co-authored with Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt. May 2018.
 
-### Invited Talks
+### Talks
+
+* **The Implicit Fairness Criterion of Unconstrained Learning**
+  * ICML, Long Beach, CA, USA. June 2019. [[slides]](/assets/icml_talk_2019.pdf)
 
 * **Delayed Impact of Fair Machine Learning** 
   * MSR AI Seminar, Redmond, WA. November 2018. [[video]](https://youtu.be/8cDVtXjvq9s)
