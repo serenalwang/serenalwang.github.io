@@ -34,7 +34,7 @@ title: Research
   * EC 2019 Workshop on Learning in Presence of Strategic Behavior, Phoenix, AZ, USA. June 2019. [[slides]](/assets/markets_bandits_v2.pdf)
 
 * **The Implicit Fairness Criterion of Unconstrained Learning**
-  * ICML, Long Beach, CA, USA. June 2019. [[slides]](/assets/icml_talk_2019.pdf)
+  * ICML, Long Beach, CA, USA. June 2019. [[slides]](/assets/icml_talk_2019.pdf) [[video, starts at 34:50]](https://slideslive.com/38917650/statistical-learning-theory)
 
 * **Delayed Impact of Fair Machine Learning** 
   * MSR AI Seminar, Redmond, WA. November 2018. [[video]](https://youtu.be/8cDVtXjvq9s)
