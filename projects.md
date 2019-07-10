@@ -30,6 +30,9 @@ title: Research
 
 ### Talks
 
+* **Competing Bandits in Matching Markets**
+  * EC 2019 Workshop on Learning in Presence of Strategic Behavior, Phoenix, AZ, USA. June 2019. [[slides]](/assets/markets_bandits_v2.pdf)
+
 * **The Implicit Fairness Criterion of Unconstrained Learning**
   * ICML, Long Beach, CA, USA. June 2019. [[slides]](/assets/icml_talk_2019.pdf)
 
