@@ -13,7 +13,7 @@ Previously, I obtained my BSE in [Operations Research and Financial Engineering]
 
 In 2019-20, I am supported by a [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) and an [Open Philanthropy AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/open-phil-ai-fellowship-2019-class).
 
-I am interested in designing **machine learning** algorithms that have **reliable performance guarantees**, and **positive long-term societal impact**. Read about my [research](/projects).
+I am interested in developing **machine learning** algorithms that have **reliable performance guarantees**, and **positive long-term societal impact**. Read about my [research](/projects).
 
 Outside of research, I enjoy photography, music, and <a href="/writing">poetry</a>.
 			
