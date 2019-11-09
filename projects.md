@@ -43,14 +43,19 @@ title: Research
   
 *<sup>\*</sup>equal contribution*
 
+
+
 ### Blog Posts
 
 * [**Delayed Impact of Fair Machine Learning.**](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/) Co-authored with Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt. May 2018.
+
 
 ### Talks
 
 * **Competing Bandits in Matching Markets**
   * EC 2019 Workshop on Learning in Presence of Strategic Behavior, Phoenix, AZ, USA. June 2019. [[slides]](/assets/markets_bandits_v2.pdf)
+  * Simons Institute Program on Online and Matching-Based Market Design, Deep Dive Seminar. Oct 2019.
+  * Third Annual Berkeley-Stanford Econometrics Jamboree. Nov 2019.
 
 * **The Implicit Fairness Criterion of Unconstrained Learning**
   * ICML, Long Beach, CA, USA. June 2019. [[slides]](/assets/icml_talk_2019.pdf) [[video, starts at 34:50]](https://slideslive.com/38917650/statistical-learning-theory)
@@ -66,7 +71,6 @@ title: Research
 * ***e*****PCA: High Dimensional Exponential Family PCA**
   * John Storey's group. Princeton, NJ. April 2017. [[slides]](/assets/epca_talk_apr20.pdf)
   * Program in Applied and Computational Mathematics Certificate Program Oral Presentations. Princeton, NJ. April 2017. *Best Project*
-  
   
 
 ### Other links  
