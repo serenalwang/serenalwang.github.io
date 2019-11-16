@@ -53,9 +53,10 @@ title: Research
 ### Talks
 
 * **Competing Bandits in Matching Markets**
-  * EC 2019 Workshop on Learning in Presence of Strategic Behavior, Phoenix, AZ, USA. June 2019. [[slides]](/assets/markets_bandits_v2.pdf)
-  * Simons Institute Program on Online and Matching-Based Market Design, Deep Dive Seminar. Oct 2019.
+  * DS102 "Data, Inference, and Decisions" Lecture, Berkeley, CA, USA. Nov 2019. [[video]](https://youtu.be/jjbN67XosqU?t=273)
   * Third Annual Berkeley-Stanford Econometrics Jamboree. Nov 2019.
+  * Simons Institute Program on Online and Matching-Based Market Design, Deep Dive Seminar. Oct 2019.
+  * EC 2019 Workshop on Learning in Presence of Strategic Behavior, Phoenix, AZ, USA. June 2019. [[slides]](/assets/markets_bandits_v2.pdf)
 
 * **The Implicit Fairness Criterion of Unconstrained Learning**
   * ICML, Long Beach, CA, USA. June 2019. [[slides]](/assets/icml_talk_2019.pdf) [[video, starts at 34:50]](https://slideslive.com/38917650/statistical-learning-theory)
