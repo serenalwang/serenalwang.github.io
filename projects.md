@@ -54,6 +54,7 @@ title: Research
 ### Talks
 
 * **Competing Bandits in Matching Markets**
+  * BAIR/CPAR/BDD seminar, Berkeley, CA, USA. Nov 2019.
   * DS102 "Data, Inference, and Decisions" Lecture, Berkeley, CA, USA. Nov 2019. [[video]](https://youtu.be/jjbN67XosqU?t=273)
   * Third Annual Berkeley-Stanford Econometrics Jamboree. Nov 2019.
   * Simons Institute Program on Online and Matching-Based Market Design, Deep Dive Seminar. Oct 2019.
