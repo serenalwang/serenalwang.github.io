@@ -57,7 +57,7 @@ title: Research
 
 ### Blog Posts
 
-* [**Delayed Impact of Fair Machine Learning.**](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/) Co-authored with Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt. Berkeley AI Research Blog. May 2018.
+* [**Delayed Impact of Fair Machine Learning.**](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/) Co-authored with Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt. *Berkeley AI Research Blog.* May 2018.
 
 
 ### Talks
