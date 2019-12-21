@@ -23,7 +23,7 @@ title: Research
 [[arxiv]](https://arxiv.org/abs/1910.04123)
 
 * Lydia T. Liu<sup>\*</sup>, Max Simchowitz<sup>\*</sup>, Moritz Hardt.  
-**The implicit fairness criterion of unconstrained learning.**  
+**The Implicit Fairness Criterion of Unconstrained Learning.**  
 *Proceedings of the 36th International Conference on Machine Learning (ICML)*, Long Beach, CA, USA, 2019. [[arxiv]](https://arxiv.org/abs/1808.10013) [[code]](https://github.com/lydiatliu/unconstrainedml) 
 
 * Chi Jin<sup>\*</sup>, Lydia T. Liu<sup>\*</sup>, Rong Ge, Michael I. Jordan.  
