@@ -5,10 +5,6 @@ title: Research
 
 ### Preprints
 
-* Lydia T. Liu<sup>\*</sup>, Horia Mania<sup>\*</sup>, Michael I. Jordan.  
-**Competing Bandits in Matching Markets.**  
-*arXiv preprint arXiv:1906.05363*, 2019. [[arxiv]](https://arxiv.org/abs/1906.05363)
-
 * Zhizhen Zhao, Lydia T. Liu, Amit Singer.  
 **Steerable *e*PCA.**  
 *arXiv preprint arXiv:1812.08789*, 2018. [[arxiv]](https://arxiv.org/abs/1812.08789) 
@@ -16,6 +12,10 @@ title: Research
 ### Publications
 
 #### Conferences and Journals
+
+* Lydia T. Liu<sup>\*</sup>, Horia Mania<sup>\*</sup>, Michael I. Jordan.  
+**Competing Bandits in Matching Markets.**  
+*Proceedings of The 23nd International Conference on Artificial Intelligence and Statistics, Palermo, Sicily, Italy, 2020. To appear.* [[arxiv]](https://arxiv.org/abs/1906.05363)
 
 * Lydia T. Liu, Ashia Wilson, Nika Haghtalab, Adam Tauman Kalai, Christian Borgs, Jennifer Chayes.  
 **The Disparate Equilibria of Algorithmic Decision Making when Individuals Invest Rationally.**  
