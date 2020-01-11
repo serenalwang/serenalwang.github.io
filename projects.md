@@ -15,16 +15,16 @@ title: Research
 
 * Lydia T. Liu<sup>\*</sup>, Horia Mania<sup>\*</sup>, Michael I. Jordan.  
 **Competing Bandits in Matching Markets.**  
-*Proceedings of The 23nd International Conference on Artificial Intelligence and Statistics, Palermo, Sicily, Italy, 2020. To appear.* [[arxiv]](https://arxiv.org/abs/1906.05363)
+*Proceedings of The 23nd International Conference on Artificial Intelligence and Statistics*, Palermo, Sicily, Italy, 2020. To appear. [[arxiv]](https://arxiv.org/abs/1906.05363)
 
 * Lydia T. Liu, Ashia Wilson, Nika Haghtalab, Adam Tauman Kalai, Christian Borgs, Jennifer Chayes.  
 **The Disparate Equilibria of Algorithmic Decision Making when Individuals Invest Rationally.**  
-*Proceedings of the ACM Conference on Fairness, Accountability, and Transparency, ACM FAT\* 2020, Barcelona, Spain. To Appear.*
+*Proceedings of the ACM Conference on Fairness, Accountability, and Transparency, ACM FAT\* 2020*, Barcelona, Spain. To Appear.
 [[arxiv]](https://arxiv.org/abs/1910.04123)
 
 * Lydia T. Liu<sup>\*</sup>, Max Simchowitz<sup>\*</sup>, Moritz Hardt.  
 **The Implicit Fairness Criterion of Unconstrained Learning.**  
-*Proceedings of the 36th International Conference on Machine Learning (ICML)*, Long Beach, CA, USA, 2019. [[arxiv]](https://arxiv.org/abs/1808.10013) [[code]](https://github.com/lydiatliu/unconstrainedml) 
+*Proceedings of the 36th International Conference on Machine Learning (ICML)*, Long Beach, California, USA, 2019. [[arxiv]](https://arxiv.org/abs/1808.10013) [[code]](https://github.com/lydiatliu/unconstrainedml) 
 
 * Chi Jin<sup>\*</sup>, Lydia T. Liu<sup>\*</sup>, Rong Ge, Michael I. Jordan.  
 **On the Local Minima of the Empirical Risk.**  
@@ -43,11 +43,11 @@ title: Research
 
 * Esther Rolf, Max Simchowitz, Sarah Dean, Lydia T. Liu, Daniel Björkegren, Moritz Hardt, Joshua Blumenstock.  
 **Balancing Competing Objectives for Welfare-Aware Machine Learning with Imperfect Data.**  
-*[NeurIPS Joint Workshop on AI for Social Good](https://aiforsocialgood.github.io/neurips2019/accepted/track1/pdfs/74_aisg_neurips2019.pdf), 2019.* ***Best Paper Award.***
+*[NeurIPS Joint Workshop on AI for Social Good](https://aiforsocialgood.github.io/neurips2019/accepted/track1/pdfs/74_aisg_neurips2019.pdf)*, Vancouver, Canada, 2019. ***Best Paper Award.***
 
 * Lydia T. Liu, Urun Dogan, and Katja Hofmann.  
 **Decoding multitask DQN in the world of Minecraft.**  
-*[The 13th European Workshop on Reinforcement Learning](https://ewrl.files.wordpress.com/2016/11/ewrl13-2016-submission-29.pdf), 2016.*
+*[The 13th European Workshop on Reinforcement Learning](https://ewrl.files.wordpress.com/2016/11/ewrl13-2016-submission-29.pdf)*, Barcelona, Spain, 2016.
   * Also presented at the *11th Women in Machine Learning Workshop* and [*the Deep Reinforcement Learning Workshop at NeurIPS 2016*](https://drive.google.com/file/d/0B1PUpk7kwWu-bDd2djhqNEx2S2J4UURTUE1sVjVnS2tXZG9r/view).
 
 
