@@ -15,7 +15,7 @@ title: Research
 
 * Lydia T. Liu<sup>\*</sup>, Horia Mania<sup>\*</sup>, Michael I. Jordan.  
 **Competing Bandits in Matching Markets.**  
-*Proceedings of The 23nd International Conference on Artificial Intelligence and Statistics*, Palermo, Sicily, Italy, 2020. To appear. [[arxiv]](https://arxiv.org/abs/1906.05363)
+*Proceedings of The 23nd International Conference on Artificial Intelligence and Statistics (AISTATS)*, Palermo, Sicily, Italy, 2020. To appear. [[arxiv]](https://arxiv.org/abs/1906.05363)
 
 * Lydia T. Liu, Ashia Wilson, Nika Haghtalab, Adam Tauman Kalai, Christian Borgs, Jennifer Chayes.  
 **The Disparate Equilibria of Algorithmic Decision Making when Individuals Invest Rationally.**  
