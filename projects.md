@@ -11,7 +11,7 @@ title: Research
 
 ### Publications
 
-#### Conferences and Journals
+#### Conferences and journals
 
 * Lydia T. Liu<sup>\*</sup>, Horia Mania<sup>\*</sup>, Michael I. Jordan.  
 **Competing Bandits in Matching Markets.**  
@@ -55,7 +55,7 @@ title: Research
 
 
 
-### Blog Posts
+### Blog posts
 
 * [**When bias begets bias: A source of negative feedback loops in AI systems.**](https://www.microsoft.com/en-us/research/blog/when-bias-begets-bias-a-source-of-negative-feedback-loops-in-ai-systems/) *Microsoft Research Blog.* Jan 2020. 
 
