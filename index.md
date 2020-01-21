@@ -16,6 +16,9 @@ In 2019-20, I am supported by a [Microsoft Ada Lovelace Fellowship](https://www.
 I am interested in developing **machine learning** algorithms that have **reliable performance guarantees**, and **positive long-term societal impact**. Read about my [research](/projects).
 
 Outside of research, I enjoy photography, music, and <a href="/writing">poetry</a>.
+
+**News**
+* I wrote a blog post for the Microsoft Research Blog! [**When bias begets bias: A source of negative feedback loops in AI systems.**](https://www.microsoft.com/en-us/research/blog/when-bias-begets-bias-a-source-of-negative-feedback-loops-in-ai-systems/) 
 			
 Email: `lydiatliu_at_berkeley_dot_edu`
 
