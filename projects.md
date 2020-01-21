@@ -57,6 +57,8 @@ title: Research
 
 ### Blog Posts
 
+* [**When bias begets bias: A source of negative feedback loops in AI systems.**](https://www.microsoft.com/en-us/research/blog/when-bias-begets-bias-a-source-of-negative-feedback-loops-in-ai-systems/) *Microsoft Research Blog.* Jan 2020. 
+
 * [**Delayed Impact of Fair Machine Learning.**](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/) Co-authored with Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt. *Berkeley AI Research Blog.* May 2018.
 
 
