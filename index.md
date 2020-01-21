@@ -18,7 +18,7 @@ I am interested in developing **machine learning** algorithms that have **reliab
 Outside of research, I enjoy photography, music, and <a href="/writing">poetry</a>.
 
 **What's new?**
-* I wrote a blog post on recent work! Check out [**When bias begets bias: A source of negative feedback loops in AI systems.**](https://www.microsoft.com/en-us/research/blog/when-bias-begets-bias-a-source-of-negative-feedback-loops-in-ai-systems/) on the Microsoft Research Blog.
+* I wrote a blog post! [**When bias begets bias: A source of negative feedback loops in AI systems.**](https://www.microsoft.com/en-us/research/blog/when-bias-begets-bias-a-source-of-negative-feedback-loops-in-ai-systems/) 
 			
 Email: `lydiatliu_at_berkeley_dot_edu`
 
