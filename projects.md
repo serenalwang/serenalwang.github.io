@@ -19,7 +19,7 @@ title: Research
 
 * Lydia T. Liu, Ashia Wilson, Nika Haghtalab, Adam Tauman Kalai, Christian Borgs, Jennifer Chayes.  
 **The Disparate Equilibria of Algorithmic Decision Making when Individuals Invest Rationally.**  
-*Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (ACM FAT\* 2020)*, Barcelona, Spain. To Appear.
+*Proceedings of the ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT)*, Barcelona, Spain, 2020. [[doi]](https://dl.acm.org/doi/abs/10.1145/3351095.3372861)
 [[arxiv]](https://arxiv.org/abs/1910.04123)
 
 * Lydia T. Liu<sup>\*</sup>, Max Simchowitz<sup>\*</sup>, Moritz Hardt.  
@@ -63,6 +63,9 @@ title: Research
 
 
 ### Talks
+
+* **The Disparate Equilibria of Algorithmic Decision Making when Individuals Invest Rationally.**  
+  * ACM FAccT, Barcelona, Spain. Jan 2020. [[slides]](/assets/slides-541.pdf)
 
 * **Competing Bandits in Matching Markets**
   * BAIR/CPAR/BDD seminar, Berkeley, CA, USA. Nov 2019.
