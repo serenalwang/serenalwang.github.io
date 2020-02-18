@@ -15,7 +15,7 @@ In 2019-20, I am supported by a [Microsoft Ada Lovelace Fellowship](https://www.
 
 I am interested in developing **machine learning** algorithms that have **reliable performance guarantees**, and **positive long-term societal impact**. Read about my [research](/projects).
 
-Outside of research, I enjoy photography, music, and <a href="/writing">poetry</a>.
+Outside of research, I enjoy [photography](https://www.flickr.com/photos/158535173@N08/), music, and <a href="/writing">poetry</a>.
 
 **What's new?** | Blog post: [**When bias begets bias: A source of negative feedback loops in AI systems.**](https://www.microsoft.com/en-us/research/blog/when-bias-begets-bias-a-source-of-negative-feedback-loops-in-ai-systems/) 
 			
