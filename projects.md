@@ -5,6 +5,10 @@ title: Research
 
 ### Preprints
 
+* Esther Rolf, Max Simchowitz, Sarah Dean, Lydia T. Liu, Daniel Björkegren, Moritz Hardt, Joshua Blumenstock.
+**Balancing Competing Objectives with Noisy Data: Score-Based Classifiers for Welfare-Aware Machine Learning.**  
+*arXiv preprint arXiv:2003.06740*, 2020. [[arxiv]](https://arxiv.org/abs/2003.06740)
+
 * Zhizhen Zhao, Lydia T. Liu, Amit Singer.  
 **Steerable *e*PCA.**  
 *arXiv preprint arXiv:1812.08789*, 2018. [[arxiv]](https://arxiv.org/abs/1812.08789) 
