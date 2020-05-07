@@ -17,7 +17,7 @@ My current research investigates the theoretical foundations of machine learning
 
 Outside of research, I enjoy [photography](https://www.flickr.com/photos/158535173@N08/), music, and <a href="/writing">poetry</a>.
 
-**What's new?** | Blog post: [**When bias begets bias: A source of negative feedback loops in AI systems.**](https://www.microsoft.com/en-us/research/blog/when-bias-begets-bias-a-source-of-negative-feedback-loops-in-ai-systems/) 
+<!--**What's new?** | Blog post: [**When bias begets bias: A source of negative feedback loops in AI systems.**](https://www.microsoft.com/en-us/research/blog/when-bias-begets-bias-a-source-of-negative-feedback-loops-in-ai-systems/) -->
 			
 Email: `lydiatliu_at_berkeley_dot_edu`
 
