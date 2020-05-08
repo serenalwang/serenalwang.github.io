@@ -15,7 +15,7 @@ title: Research
 
 * Zhizhen Zhao, Lydia T. Liu, Amit Singer.  
 **Steerable *e*PCA: Rotationally Invariant Exponential Family PCA.**  
-*IEEE Transactions on Image Processing, 2020.* To appear. [[arxiv]](https://arxiv.org/abs/1812.08789) 
+*IEEE Transactions on Image Processing, vol. 29, pp. 6069-6081, 2020.* [[doi]](https://doi.org/10.1109/TIP.2020.2988139) [[arxiv]](https://arxiv.org/abs/1812.08789) 
 
 * Lydia T. Liu<sup>\*</sup>, Horia Mania<sup>\*</sup>, Michael I. Jordan.  
 **Competing Bandits in Matching Markets.**  
