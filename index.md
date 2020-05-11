@@ -13,7 +13,7 @@ Previously, I obtained my BSE in [Operations Research and Financial Engineering]
 
 In 2019-20, I am supported by a [Microsoft Ada Lovelace Fellowship](https://www.microsoft.com/en-us/research/academic-program/ada-lovelace-fellowship/) and an [Open Philanthropy AI Fellowship](https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-artificial-intelligence/open-phil-ai-fellowship-2019-class).
 
-My current research investigates the theoretical foundations of machine learning and algorithmic decision-making, with a focus on societal impact. Other interests include microeconomic theory and high dimensional statistics. 
+My current research investigates the theoretical foundations of machine learning and algorithmic decision-making, with a focus on societal impact and welfare. Other interests include microeconomic theory and high-dimensional statistics. 
 
 I also enjoy [photography](https://www.flickr.com/photos/158535173@N08/), music, and <a href="/writing">poetry</a>.
 
