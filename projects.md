@@ -54,8 +54,7 @@ title: Research
 
 * Lydia T. Liu, Urun Dogan, and Katja Hofmann.  
 **Decoding multitask DQN in the world of Minecraft.**  
-*[The 13th European Workshop on Reinforcement Learning](https://ewrl.files.wordpress.com/2016/11/ewrl13-2016-submission-29.pdf)*, Barcelona, Spain, 2016.
-  * Also presented at the *11th Women in Machine Learning Workshop* and [*the Deep Reinforcement Learning Workshop at NeurIPS 2016*](https://drive.google.com/file/d/0B1PUpk7kwWu-bDd2djhqNEx2S2J4UURTUE1sVjVnS2tXZG9r/view).
+*[The 13th European Workshop on Reinforcement Learning](https://ewrl.files.wordpress.com/2016/11/ewrl13-2016-submission-29.pdf)*, Barcelona, Spain, 2016. Also presented at the *11th Women in Machine Learning Workshop* and [*the Deep Reinforcement Learning Workshop at NeurIPS 2016*](https://drive.google.com/file/d/0B1PUpk7kwWu-bDd2djhqNEx2S2J4UURTUE1sVjVnS2tXZG9r/view).
 
 
 *<sup>\*</sup>equal contribution*
