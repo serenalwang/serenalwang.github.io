@@ -8,7 +8,17 @@ title: Research
 
 ### Publications
 
-#### Conferences and journals
+#### Journals
+
+* Zhizhen Zhao, Lydia T. Liu, Amit Singer.  
+**Steerable *e*PCA: Rotationally Invariant Exponential Family PCA.**  
+*IEEE Transactions on Image Processing, vol. 29, pp. 6069-6081, 2020.* [[doi]](https://doi.org/10.1109/TIP.2020.2988139) [[arxiv]](https://arxiv.org/abs/1812.08789) 
+
+* Lydia T. Liu<sup>\*</sup>, Edgar Dobriban<sup>\*</sup>, and Amit Singer.  
+***e*****PCA: High Dimensional Exponential Family PCA.**  
+*Annals of Applied Statistics 2018, Vol. 12, No. 4, 2121-2150.* [[doi]](https://dx.doi.org/10.1214/18-AOAS1146) [[arxiv]](https://arxiv.org/abs/1611.05550) [[software]](http://github.com/lydiatliu/epca/)
+
+#### Conference proceedings
 
 * Esther Rolf, Max Simchowitz, Sarah Dean, Lydia T. Liu, Daniel Björkegren, Moritz Hardt, Joshua Blumenstock.  
 **Balancing Competing Objectives with Noisy Data: Score-Based Classifiers for Welfare-Aware Machine Learning.**  
@@ -17,10 +27,6 @@ title: Research
 * Lydia T. Liu<sup>\*</sup>, Horia Mania<sup>\*</sup>, Michael I. Jordan.  
 **Competing Bandits in Matching Markets.**  
 *Proceedings of The 23nd International Conference on Artificial Intelligence and Statistics (AISTATS)*, Palermo, Sicily, Italy, 2020. To appear. [[arxiv]](https://arxiv.org/abs/1906.05363)
-
-* Zhizhen Zhao, Lydia T. Liu, Amit Singer.  
-**Steerable *e*PCA: Rotationally Invariant Exponential Family PCA.**  
-*IEEE Transactions on Image Processing, vol. 29, pp. 6069-6081, 2020.* [[doi]](https://doi.org/10.1109/TIP.2020.2988139) [[arxiv]](https://arxiv.org/abs/1812.08789) 
 
 * Lydia T. Liu, Ashia Wilson, Nika Haghtalab, Adam Tauman Kalai, Christian Borgs, Jennifer Chayes.  
 **The Disparate Equilibria of Algorithmic Decision Making when Individuals Invest Rationally.**  
@@ -38,10 +44,6 @@ title: Research
 * Lydia T. Liu, Sarah Dean, Esther Rolf, Max Simchowitz, Moritz Hardt.  
 **Delayed Impact of Fair Machine Learning.**  
 *Proceedings of the 35th International Conference on Machine Learning (ICML)*, Stockholm, Sweden, 2018. ***Best Paper Award.*** [[arxiv]](https://arxiv.org/abs/1803.04383) [[code]](https://github.com/lydiatliu/delayedimpact)
-
-* Lydia T. Liu<sup>\*</sup>, Edgar Dobriban<sup>\*</sup>, and Amit Singer.  
-***e*****PCA: High Dimensional Exponential Family PCA.**  
-*Annals of Applied Statistics 2018, Vol. 12, No. 4, 2121-2150.* [[doi]](https://dx.doi.org/10.1214/18-AOAS1146) [[arxiv]](https://arxiv.org/abs/1611.05550) [[software]](http://github.com/lydiatliu/epca/)
 
 
 #### Workshops
