@@ -38,8 +38,13 @@ p {
 }
 
 
-.cat_image {
+.cat_image_tall {
   max-width: 25%;
+  height: auto;
+}
+
+.cat_image_wide {
+  max-width: 50%;
   height: auto;
 }
 
