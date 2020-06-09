@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: 'Verdana', 'Helvetica' , 'Sans-Serif';
+    font-family: 'Avenir', 'Helvetica' , 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -22,21 +22,21 @@ a:hover {
 
 h1 {
     font-size: 3em;
-    font-family:'Georgia', 'Times', 'Serif';
+    font-family:'Avenir', 'Times', 'Serif';
 }
 
-h1 {
+h2 {
     font-size: 2em;
-    font-family: 'Verdana', 'Helvetica' , 'Sans-Serif';
+    font-family: 'Avenir', 'Helvetica' , 'Sans-Serif';
 }
 
 h3 {
     font-size: 1.5em;
-    font-family: 'Verdana', 'Helvetica' , 'Sans-Serif';
+    font-family: 'Avenir', 'Helvetica' , 'Sans-Serif';
 }
 
 p {
-    font-family: 'Verdana', 'Helvetica' , 'Sans-Serif';
+    font-family: 'Avenir', 'Helvetica' , 'Sans-Serif';
     font-weight: lighter;
     font-size: 1em;
     line-height: 1.4em;
@@ -53,7 +53,7 @@ p {
   font-size: 0.8em;
   font-style: italic;
   border-radius: 15%;
-  max-width: 20%;
+  max-width: 30%;
   height: auto;
 }
 
@@ -80,7 +80,7 @@ footer {
 }
 
 ul li{
-    font-family: 'Verdana', 'Helvetica' , 'Sans-Serif';
+    font-family: 'Avenir', 'Helvetica' , 'Sans-Serif';
     font-weight: lighter;
     font-size:1em;
     line-height: 1.5em;
