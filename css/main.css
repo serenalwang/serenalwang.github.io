@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Verdana', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -21,16 +21,16 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Verdana', 'Sans-Serif';
 }
 
 h3 {
     font-size: 1.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Verdana', 'Sans-Serif';
 }
 
 p {
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Helvetica', 'Verdana', 'Sans-Serif';
     font-weight: lighter;
     font-size: 1em;
     line-height: 1.4em;
@@ -65,7 +65,7 @@ footer {
 }
 
 ul li{
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Verdana', 'Sans-Serif';
     font-weight: lighter;
     font-size:1em;
     line-height: 1.5em;
