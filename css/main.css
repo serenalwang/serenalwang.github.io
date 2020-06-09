@@ -37,17 +37,10 @@ p {
     color: #333;
 }
 
-
-.cat_image_tall {
+.cat_image {
   max-width: 25%;
   height: auto;
 }
-
-.cat_image_wide {
-  max-width: 50%;
-  height: auto;
-}
-
 
 .leftside_image {
   float: left;
