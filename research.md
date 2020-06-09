@@ -17,7 +17,7 @@ title: Research
 
 * Serena L. Wang, Maya R. Gupta.
 **Deontological Ethics By Monotonicity Shape Constraints.**  
-*Proceedings of The 23nd International Conference on Artificial Intelligence and Statistics (AISTATS) 2020.* To appear. [[link]](https://arxiv.org/abs/2001.11990) 
+*Proceedings of The 23nd International Conference on Artificial Intelligence and Statistics (AISTATS) 2020.* To appear. [[link]](https://arxiv.org/abs/2001.11990) [[tensorflow tutorial]](https://www.tensorflow.org/lattice/tutorials/shape_constraints_for_ethics)
 
 * Harikrishna Narasimhan, Andrew Cotter,  Maya R. Gupta, Serena L. Wang.
 **Pairwise Fairness for Ranking and Regression.**  

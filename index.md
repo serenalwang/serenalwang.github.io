@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Serena L. Wang | University of California, Berkeley
+title: Serena L. Wang | UC Berkeley
 ---
 	
 	
