@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Verdana', 'Sans-Serif';
+    font-family: 'Verdana', 'Helvetica' , 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -14,23 +14,29 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #6f5ecc;
+    color: #AC96DC;
 }
 a:hover {
     text-decoration: underline;
 }
+
 h1 {
     font-size: 3em;
     font-family:'Georgia', 'Times', 'Serif';
 }
 
+h1 {
+    font-size: 2em;
+    font-family: 'Verdana', 'Helvetica' , 'Sans-Serif';
+}
+
 h3 {
     font-size: 1.5em;
-    font-family:'Helvetica', 'Verdana', 'Sans-Serif';
+    font-family: 'Verdana', 'Helvetica' , 'Sans-Serif';
 }
 
 p {
-    font-family: 'Helvetica', 'Verdana', 'Sans-Serif';
+    font-family: 'Verdana', 'Helvetica' , 'Sans-Serif';
     font-weight: lighter;
     font-size: 1em;
     line-height: 1.4em;
@@ -40,8 +46,8 @@ p {
 .rightside_image {
   float: right;
   margin-top:0px;
-  margin-right: 30px;
-  margin-left: 10px;
+  margin-right: 10px;
+  margin-left: 30px;
   margin-bottom: 10px;
   text-align: center;
   font-size: 0.8em;
@@ -74,7 +80,7 @@ footer {
 }
 
 ul li{
-    font-family:'Helvetica', 'Verdana', 'Sans-Serif';
+    font-family: 'Verdana', 'Helvetica' , 'Sans-Serif';
     font-weight: lighter;
     font-size:1em;
     line-height: 1.5em;

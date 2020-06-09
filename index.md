@@ -4,7 +4,7 @@ title: Serena L. Wang | UC Berkeley
 ---
 	
 	
-# Serena L. Wang # 
+# Serena L. Wang
 
 <img src="img/serena.jpg" alt="Photo" class="rightside_image">
 
