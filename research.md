@@ -17,23 +17,23 @@ title: Research
 
 * Serena L. Wang, Maya R. Gupta.
 **Deontological Ethics By Monotonicity Shape Constraints.**  
-*Proceedings of The 23nd International Conference on Artificial Intelligence and Statistics (AISTATS),* 2020. [[link]](https://arxiv.org/abs/2001.11990) [[tensorflow tutorial]](https://www.tensorflow.org/lattice/tutorials/shape_constraints_for_ethics)
+*Proceedings of The 23nd International Conference on Artificial Intelligence and Statistics (AISTATS),* 2020. [[paper]](http://proceedings.mlr.press/v108/wang20e.html) [[tensorflow tutorial]](https://www.tensorflow.org/lattice/tutorials/shape_constraints_for_ethics)
 
 * Harikrishna Narasimhan, Andrew Cotter,  Maya R. Gupta, Serena L. Wang.
 **Pairwise Fairness for Ranking and Regression.**  
-*Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI),* 2020. [[link]](https://arxiv.org/abs/1906.05330) 
+*Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI),* 2020. [[paper]](https://arxiv.org/abs/1906.05330) 
 
 * Andrew Cotter, Heinrich Jiang, Maya R. Gupta, Serena L. Wang, Taman Narayan, Seungil You, Karthik Sridharan.
 **Optimization with Non-Differentiable Constraints with Applications to Fairness, Recall, Churn, and Other Goals.**  
-*Journal of Machine Learning Research (JMLR),* 2019. [[link]](http://jmlr.csail.mit.edu/papers/volume20/18-616/18-616.pdf) 
+*Journal of Machine Learning Research (JMLR),* 2019. [[paper]](http://jmlr.csail.mit.edu/papers/volume20/18-616/18-616.pdf) 
 
 * Andrew Cotter, Maya R. Gupta, Heinrich Jiang, Nathan Srebro, Karthik Sridharan, Serena L. Wang, Blake Woodworth, Seungil You.
 **Training Well-Generalizing Classifiers for Fairness Metrics and Other Data-Dependent Constraints.**  
-*Proceedings of the 36th International Conference on Machine Learning (ICML),* 2019. [[link]](http://proceedings.mlr.press/v97/cotter19b/cotter19b.pdf) 
+*Proceedings of the 36th International Conference on Machine Learning (ICML),* 2019. [[paper]](http://proceedings.mlr.press/v97/cotter19b/cotter19b.pdf) 
 
 * Andrew Cotter, Maya R. Gupta, Heinrich Jiang, Erez Louidor, James Muller, Taman Narayan, Serena L. Wang, Tao Zhu.
 **Shape Constraints for Set Functions.**  
-*Proceedings of the 36th International Conference on Machine Learning (ICML),* 2019. [[link]](http://proceedings.mlr.press/v97/cotter19a/cotter19a.pdf) 
+*Proceedings of the 36th International Conference on Machine Learning (ICML),* 2019. [[paper]](http://proceedings.mlr.press/v97/cotter19a/cotter19a.pdf) 
 
 
 
