@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Serena L. Wang | UC Berkeley
+title: Serena L. Wang - EECS at UC Berkeley
 ---
 	
 	
