@@ -6,7 +6,7 @@ title: Research
 ### Preprints
 * Serena L. Wang<sup>\*</sup>, Wenshuo Guo<sup>\*</sup>, Harikrishna Narasimhan, Andrew Cotter, Maya R. Gupta, Michael I. Jordan.
 **Robust Optimization for Fairness with Noisy Protected Groups.**  
-*Manuscript,* 2020. [[arXiv]](https://arxiv.org/abs/2002.09343) 
+*4th Workshop on Mechanism Design for Social Good (MD4SG),* 2020. [[arXiv]](https://arxiv.org/abs/2002.09343) 
 *<sup>\*</sup>equal contribution*
 
 * Serena L. Wang, Maya R. Gupta, Seungil You.
