@@ -40,3 +40,4 @@ title: Research
 **Shape Constraints for Set Functions.**  
 *Proceedings of the 36th International Conference on Machine Learning (ICML),* 2019. [[paper]](http://proceedings.mlr.press/v97/cotter19a/cotter19a.pdf) 
 
+* Serena L. Wang. Predicting the Performance of Automatically Scalable Computation (ASC). Harvard University Undergraduate Thesis, 2016. [[paper]](https://dash.harvard.edu/handle/1/38811450) 
