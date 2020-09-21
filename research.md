@@ -44,8 +44,8 @@ title: Research
 
 ### Talks
 
-**Constrained Optimization for Policy Goals.** [Google International Women's Day Summit](https://buildyourfuture.withgoogle.com/programs/iwd-event-series/), 2018.
+* **Constrained Optimization for Policy Goals.** [Google International Women's Day Summit](https://buildyourfuture.withgoogle.com/programs/iwd-event-series/), 2018.
 
-**The Power of Monotonicity to make ML make sense: Tensorflow Lattice.** [Grace Hopper Celebration](https://ghc.anitab.org/), 2018. 60 minute workshop, co-presented with Maya Gupta.
+* **The Power of Monotonicity to make ML make sense: Tensorflow Lattice.** [Grace Hopper Celebration](https://ghc.anitab.org/), 2018. 60 minute workshop, co-presented with Maya Gupta.
 
-**The Power of Monotonicity to make ML make sense: Tensorflow Lattice.** [Open Data Science Conference (ODSC) West](https://odsc.com/california/), 2017. 90 minute workshop, co-presented with Maya Gupta.
+* **The Power of Monotonicity to make ML make sense: Tensorflow Lattice.** [Open Data Science Conference (ODSC) West](https://odsc.com/california/), 2017. 90 minute workshop, co-presented with Maya Gupta and Seungil You.
