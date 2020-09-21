@@ -40,6 +40,3 @@ title: Research
 **Shape Constraints for Set Functions.**  
 *Proceedings of the 36th International Conference on Machine Learning (ICML),* 2019. [[paper]](http://proceedings.mlr.press/v97/cotter19a/cotter19a.pdf) 
 
-
-
-
