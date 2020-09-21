@@ -41,3 +41,11 @@ title: Research
 *Proceedings of the 36th International Conference on Machine Learning (ICML),* 2019. [[paper]](http://proceedings.mlr.press/v97/cotter19a/cotter19a.pdf) 
 
 * Serena L. Wang. **Predicting the Performance of Automatically Scalable Computation (ASC).** *Harvard University Undergraduate Thesis,* 2016. [[paper]](https://dash.harvard.edu/handle/1/38811450) 
+
+### Talks
+
+**Constrained Optimization for Policy Goals.** [Google International Women's Day Summit](https://buildyourfuture.withgoogle.com/programs/iwd-event-series/), 2018.
+
+**The Power of Monotonicity to make ML make sense: Tensorflow Lattice.** [Grace Hopper Celebration](https://ghc.anitab.org/), 2018. 60 minute workshop, co-presented with Maya Gupta.
+
+**The Power of Monotonicity to make ML make sense: Tensorflow Lattice.** [Open Data Science Conference (ODSC) West](https://odsc.com/california/), 2017. 90 minute workshop, co-presented with Maya Gupta.
