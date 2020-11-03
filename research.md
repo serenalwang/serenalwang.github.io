@@ -4,21 +4,23 @@ title: Research
 ---
 
 ### Preprints
-* Serena L. Wang<sup>\*</sup>, Wenshuo Guo<sup>\*</sup>, Harikrishna Narasimhan, Andrew Cotter, Maya R. Gupta, Michael I. Jordan.
-**Robust Optimization for Fairness with Noisy Protected Groups.**  
-*4th Workshop on Mechanism Design for Social Good (MD4SG),* 2020. [[arXiv]](https://arxiv.org/abs/2002.09343) 
-*<sup>\*</sup>equal contribution*
+* Wenshuo Guo, Mihaela Curmei, Serena L. Wang, Benjamin Recht, Michael I. Jordan.
+**Finding Equilibrium in Multi-Agent Games with Payoff Uncertainty.**  
+*ICML Workshop on Theoretical Foundations of Reinforcement Learning,* 2020. [[arXiv]](https://arxiv.org/abs/2007.05647) [[video]](https://www.youtube.com/watch?v=Gyen7CMiRHo&feature=youtu.be) 
 
 * Serena L. Wang, Maya R. Gupta, Seungil You.
 **Quit When You Can: Efficient Evaluation of Ensembles with Ordering Optimization.**  
 *Manuscript,* 2020. [[arXiv]](https://arxiv.org/abs/1806.11202) 
 
-* Wenshuo Guo, Mihaela Curmei, Serena L. Wang, Benjamin Recht, Michael I. Jordan.
-**Finding Equilibrium in Multi-Agent Games with Payoff Uncertainty.**  
-*ICML Workshop on Theoretical Foundations of Reinforcement Learning,* 2020. [[arXiv]](https://arxiv.org/abs/2007.05647) [[video]](https://www.youtube.com/watch?v=Gyen7CMiRHo&feature=youtu.be) 
-
-
 ### Publications
+* Serena L. Wang<sup>\*</sup>, Wenshuo Guo<sup>\*</sup>, Harikrishna Narasimhan, Andrew Cotter, Maya R. Gupta, Michael I. Jordan.
+**Robust Optimization for Fairness with Noisy Protected Groups.**  
+*34th Conference on Neural Information Processing Systems (NeurIPS),* 2020. [[arXiv]](https://arxiv.org/abs/2002.09343) 
+*<sup>\*</sup>equal contribution*
+
+* Harikrishna Narasimhan, Andrew Cotter, Yichen Zhou, Serena L. Wang, Wenshuo Guo.
+**Approximate Heavily-Constrained Learning withLagrange Multiplier Models.**  
+*34th Conference on Neural Information Processing Systems (NeurIPS),* 2020. 
 
 * Serena L. Wang, Maya R. Gupta.
 **Deontological Ethics By Monotonicity Shape Constraints.**  
