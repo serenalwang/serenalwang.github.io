@@ -19,7 +19,7 @@ title: Research
 *<sup>\*</sup>equal contribution*
 
 * Harikrishna Narasimhan, Andrew Cotter, Yichen Zhou, Serena L. Wang, Wenshuo Guo.
-**Approximate Heavily-Constrained Learning withLagrange Multiplier Models.**  
+**Approximate Heavily-Constrained Learning with Lagrange Multiplier Models.**  
 *34th Conference on Neural Information Processing Systems (NeurIPS),* 2020. 
 
 * Serena L. Wang, Maya R. Gupta.
