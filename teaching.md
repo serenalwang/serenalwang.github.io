@@ -23,4 +23,4 @@ title: Teaching & Service
 
 Co-president of UC Berkeley's Women in Computer Science and Engineering ([WICSE](https://www-inst.eecs.berkeley.edu//~wicse/)), 2020-2021.
 
-Reviewer for JMLR, FAccT 2021, ICLR 2021, NeurIPS 2020, ICML 2020 (Top 33% reviewer), NeurIPS 2019 (Top 400 reviewer), NeurIPS 2018. 
+Reviewer for ICML 2021 (expert reviewer), FAccT 2021, ICLR 2021, NeurIPS 2020, ICML 2020 (top 33% reviewer), NeurIPS 2019 (top 400 reviewer), NeurIPS 2018, JMLR. 
