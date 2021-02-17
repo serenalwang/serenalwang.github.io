@@ -4,6 +4,9 @@ title: Research
 ---
 
 ### Preprints
+* Ghassen Jerfel<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Clara Wong-Fannjiang, Katherine A. Heller, Yian Ma, Michael I. Jordan
+**Variational Refinement for Importance Sampling Using the Forward Kullback-Leibler Divergence.** *3rd Symposium on Advances in Approximate Bayesian Inference (AABI),* 2021. [[paper]](https://openreview.net/pdf?id=67p4Qb3fe4k)
+
 * Wenshuo Guo, Mihaela Curmei, Serena L. Wang, Benjamin Recht, Michael I. Jordan.
 **Finding Equilibrium in Multi-Agent Games with Payoff Uncertainty.** *ICML Workshop on Theoretical Foundations of Reinforcement Learning,* 2020. [[arXiv]](https://arxiv.org/abs/2007.05647) [[video]](https://www.youtube.com/watch?v=Gyen7CMiRHo&feature=youtu.be) 
 

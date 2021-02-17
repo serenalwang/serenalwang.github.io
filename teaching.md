@@ -7,6 +7,8 @@ title: Teaching & Service
 
 ### UC Berkeley
 
+* Graduate Student Instructor, [Stat 240: Robust and Nonparametric Statistics](https://www.stat.berkeley.edu/~jsteinhardt/stat240/index.html) (Spring 2021).
+
 * Graduate Student Instructor, [Data 102: Data, Inference, and Decisions](https://classes.berkeley.edu/content/2020-spring-stat-102-001-lec-001) (Spring 2020).
 
 ### Harvard
@@ -21,4 +23,4 @@ title: Teaching & Service
 
 Co-president of UC Berkeley's Women in Computer Science and Engineering ([WICSE](https://www-inst.eecs.berkeley.edu//~wicse/)), 2020-2021.
 
-Reviewer for JMLR, ICLR 2021, NeurIPS 2020, ICML 2020 (Top 33% reviewer), NeurIPS 2019 (Top 400 reviewer), NeurIPS 2018. 
+Reviewer for JMLR, FAccT 2021, ICLR 2021, NeurIPS 2020, ICML 2020 (Top 33% reviewer), NeurIPS 2019 (Top 400 reviewer), NeurIPS 2018. 
