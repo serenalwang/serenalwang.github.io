@@ -7,11 +7,11 @@ title: Research
 * Ghassen Jerfel<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Clara Wong-Fannjiang, Katherine A. Heller, Yian Ma, Michael I. Jordan
 **Variational Refinement for Importance Sampling Using the Forward Kullback-Leibler Divergence.** *3rd Symposium on Advances in Approximate Bayesian Inference (AABI),* 2021. [[paper]](https://openreview.net/pdf?id=67p4Qb3fe4k)
 
-* Wenshuo Guo, Mihaela Curmei, Serena L. Wang, Benjamin Recht, Michael I. Jordan.
-**Finding Equilibrium in Multi-Agent Games with Payoff Uncertainty.** *ICML Workshop on Theoretical Foundations of Reinforcement Learning,* 2020. [[arXiv]](https://arxiv.org/abs/2007.05647) [[video]](https://www.youtube.com/watch?v=Gyen7CMiRHo&feature=youtu.be) 
+* Taman Narayan, Serena L. Wang, Kevin Canini, Maya R. Gupta.
+**Regularization Strategies for Quantile Regression.** *Manuscript in submission,* 2021. [[arXiv]](https://arxiv.org/abs/2102.05135)
 
 * Serena L. Wang, Maya R. Gupta, Seungil You.
-**Quit When You Can: Efficient Evaluation of Ensembles with Ordering Optimization.** *Manuscript,* 2020. [[arXiv]](https://arxiv.org/abs/1806.11202) 
+**Quit When You Can: Efficient Evaluation of Ensembles with Ordering Optimization.** *Manuscript in submission,* 2021. [[arXiv]](https://arxiv.org/abs/1806.11202) 
 
 ### Publications
 * Serena L. Wang<sup>\*</sup>, Wenshuo Guo<sup>\*</sup>, Harikrishna Narasimhan, Andrew Cotter, Maya R. Gupta, Michael I. Jordan.
@@ -35,6 +35,10 @@ title: Research
 
 * Andrew Cotter, Maya R. Gupta, Heinrich Jiang, Erez Louidor, James Muller, Taman Narayan, Serena L. Wang, Tao Zhu.
 **Shape Constraints for Set Functions.** *Proceedings of the 36th International Conference on Machine Learning (ICML),* 2019. [[paper]](http://proceedings.mlr.press/v97/cotter19a/cotter19a.pdf) 
+
+### Workshops and Technical Reports
+* Wenshuo Guo, Mihaela Curmei, Serena L. Wang, Benjamin Recht, Michael I. Jordan.
+**Finding Equilibrium in Multi-Agent Games with Payoff Uncertainty.** *ICML Workshop on Theoretical Foundations of Reinforcement Learning,* 2020. [[arXiv]](https://arxiv.org/abs/2007.05647) [[video]](https://www.youtube.com/watch?v=Gyen7CMiRHo&feature=youtu.be) 
 
 * Serena L. Wang. **Predicting the Performance of Automatically Scalable Computation (ASC).** *Harvard University Undergraduate Thesis,* 2016. [[paper]](https://dash.harvard.edu/handle/1/38811450) 
 
