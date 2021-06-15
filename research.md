@@ -4,8 +4,8 @@ title: Research
 ---
 
 ### Preprints
-* Ghassen Jerfel<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Clara Wong-Fannjiang, Katherine A. Heller, Yian Ma, Michael I. Jordan
-**Variational Refinement for Importance Sampling Using the Forward Kullback-Leibler Divergence.** *3rd Symposium on Advances in Approximate Bayesian Inference (AABI),* 2021. [[paper]](https://openreview.net/pdf?id=67p4Qb3fe4k)
+* Wenshuo Guo<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Peng Ding, Yixin Wang, Michael I. Jordan.
+**Multi-source causal inference using control variates.** *Manuscript in submission,* 2021. [[arXiv]](https://arxiv.org/abs/2103.16689)  
 
 * Taman Narayan, Serena L. Wang, Kevin Canini, Maya R. Gupta.
 **Regularization Strategies for Quantile Regression.** *Manuscript in submission,* 2021. [[arXiv]](https://arxiv.org/abs/2102.05135)
@@ -14,6 +14,9 @@ title: Research
 **Quit When You Can: Efficient Evaluation of Ensembles with Ordering Optimization.** *Manuscript in submission,* 2021. [[arXiv]](https://arxiv.org/abs/1806.11202) 
 
 ### Publications
+* Ghassen Jerfel<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Clara Wong-Fannjiang, Katherine A. Heller, Yian Ma, Michael I. Jordan
+**Variational Refinement for Importance Sampling Using the Forward Kullback-Leibler Divergence.** *Conference on Uncertainty in Artificial Intelligence (UAI)* 2021. [[paper]](https://openreview.net/pdf?id=67p4Qb3fe4k)
+
 * Serena L. Wang<sup>\*</sup>, Wenshuo Guo<sup>\*</sup>, Harikrishna Narasimhan, Andrew Cotter, Maya R. Gupta, Michael I. Jordan.
 **Robust Optimization for Fairness with Noisy Protected Groups.** *34th Conference on Neural Information Processing Systems (NeurIPS),* 2020. [[arXiv]](https://arxiv.org/abs/2002.09343) 
 *<sup>\*</sup>equal contribution*
