@@ -8,7 +8,7 @@ title: Research
 **Multi-source causal inference using control variates.** *Manuscript in submission,* 2021. (*<sup>\*</sup>equal contribution*) [[arXiv]](https://arxiv.org/abs/2103.16689)  
 
 * Taman Narayan, Serena L. Wang, Kevin Canini, Maya R. Gupta.
-**Regularization Strategies for Quantile Regression.** *Manuscript in submission,* 2021. [[arXiv]](https://arxiv.org/abs/2102.05135)
+**Quantile Regression: Buy One, Get The Inverse CDF Free.** *Manuscript in submission,* 2021. [[arXiv]](https://arxiv.org/abs/2102.05135)
 
 ### Publications
 * Ghassen Jerfel<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Clara Wong-Fannjiang, Katherine A. Heller, Yian Ma, Michael I. Jordan.

@@ -16,13 +16,13 @@ Email: `serenalwang (at) berkeley.edu`
 
 ## Upcoming/Recent Talks
 
-BIDS Machine Learning and Science Forum [registration link](https://bids.berkeley.edu/events/machine-learning-and-science-forum-2021-1025). Invited Speaker.
-*ML for Social Good in Practice: from Robust Optimization to Broader Impacts in Education*
-October 25, 2021
+Berkeley Institute of Data Science Machine Learning and Science Forum, Invited Speaker. [[registration link]](https://bids.berkeley.edu/events/machine-learning-and-science-forum-2021-1025)
+<br>*ML for Social Good in Practice: from Robust Optimization to Broader Impacts in Education*.
+<br>October 25, 2021
 
-UNC Charlotte Ethics Center Series on Biased AI [registration link](https://ethics.charlotte.edu/news-events/serena-wang-promises-and-pitfalls-machine-learning-education). Invited Speaker.
-*Promises and Pitfalls of Machine Learning for Education*
-October 28, 2021
+UNC Charlotte Ethics Center Series on Biased AI, Invited Speaker. [[registration link]](https://ethics.charlotte.edu/news-events/serena-wang-promises-and-pitfalls-machine-learning-education). 
+<br>*Promises and Pitfalls of Machine Learning for Education*.
+<br>October 28, 2021
 
 
 
