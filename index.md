@@ -10,7 +10,7 @@ title: Serena L. Wang - EECS at UC Berkeley
 
 I am a fourth-year PhD student in Computer Science at [University of California, Berkeley](https://eecs.berkeley.edu/), advised by [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/) and [Rediet Abebe](https://www.redietabebe.com/). I am supported by the NSF Graduate Research Fellowship. I have also concurrently held a 20% collaboration with [Google Research](https://research.google/people/SerenaLutongWang/) for the last five years, where I worked with [Maya Gupta](https://mayagupta.org/) as a member of the [Glassbox Machine Learning Research team](https://www.technologyreview.com/2015/11/05/165175/google-tries-to-make-machine-learning-a-little-more-human/) on making machine learning models more interpretable and controllable using constrained optimization. I received a B.A. in Computer Science from Harvard University in 2016, where I completed an undergraduate thesis in operating systems and machine learning with [Margo Seltzer](https://www.seltzer.com/margo/).
 
-My research interests include ensuring positive long term societal impact of machine learning by rethinking ML algorithms and practices. On the algorithmic side, I employ tools from robust optimization, constrained optimization, and statistical learning theory.
+My research interests include fostering positive long term societal impact of machine learning by rethinking ML algorithms and practices. On the algorithmic side, I employ tools from robust optimization, constrained optimization, and statistical learning theory.
 			
 Email: `serenalwang (at) berkeley.edu`
 
