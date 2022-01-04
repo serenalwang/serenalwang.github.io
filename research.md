@@ -4,6 +4,8 @@ title: Research
 ---
 
 ### Preprints
+* Lydia Liu<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Tolani Britton<sup><span>&#8224;</span></sup>,  Rediet Abebe<sup><span>&#8224;</span></sup>. **Intended and unintended impacts of machine learning for education.** *Poster presentation at Research Conference on Communications, Information, and Internet Policy (TPRC),* 2021. (*<sup>\*</sup>equal contribution, <sup><span>&#8224;</span></sup>equal contribution*) **Poster competition 2nd place award.**
+
 * Wenshuo Guo<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Peng Ding, Yixin Wang, Michael I. Jordan.
 **Multi-source causal inference using control variates.** *Manuscript in submission,* 2021. (*<sup>\*</sup>equal contribution*) [[arXiv]](https://arxiv.org/abs/2103.16689)  
 
