@@ -50,12 +50,12 @@ title: Research
 
 ### Talks
 
-* Berkeley Institute of Data Science Machine Learning and Science Forum, Invited Speaker. **ML for Social Good in Practice: from Robust Optimization to Broader Impacts in Education**. October 25, 2021. [[link]](https://bids.berkeley.edu/events/machine-learning-and-science-forum-2021-1025)
+* Berkeley Institute of Data Science Machine Learning and Science Forum, Invited Speaker. *ML for Social Good in Practice: from Robust Optimization to Broader Impacts in Education*. October 25, 2021. [[link]](https://bids.berkeley.edu/events/machine-learning-and-science-forum-2021-1025)
 
-* UNC Charlotte Ethics Center Series on Biased AI, Invited Speaker. **Promises and Pitfalls of Machine Learning for Education**. October 28, 2021. [[link]](https://ethics.charlotte.edu/news-events/serena-wang-promises-and-pitfalls-machine-learning-education) 
+* UNC Charlotte Ethics Center Series on Biased AI, Invited Speaker. *Promises and Pitfalls of Machine Learning for Education*. October 28, 2021. [[link]](https://ethics.charlotte.edu/news-events/serena-wang-promises-and-pitfalls-machine-learning-education) 
 
-* Google International Women's Day Summit, Invited Speaker. **Constrained Optimization for Policy Goals**. 2019. [[link]](https://buildyourfuture.withgoogle.com/programs/iwd-event-series/)
+* Google International Women's Day Summit, Invited Speaker. *Constrained Optimization for Policy Goals*. 2019. [[link]](https://buildyourfuture.withgoogle.com/programs/iwd-event-series/)
 
-* Grace Hopper Celebration, Workshop Co-presenter with Maya Gupta. **The Power of Monotonicity to make ML make sense: Tensorflow Lattice.** 2018. [[link]](https://ghc.anitab.org/)
+* Grace Hopper Celebration, Workshop Co-presenter with Maya Gupta. *The Power of Monotonicity to make ML make sense: Tensorflow Lattice.* 2018. [[link]](https://ghc.anitab.org/)
 
-* Open Data Science Conference (ODSC) West, Workshop Co-presenter with Maya Gupta and Seungil You. **The Power of Monotonicity to make ML make sense: Tensorflow Lattice.** 2017. [[link]](https://odsc.com/speakers/deep-learning-3/)
+* Open Data Science Conference (ODSC) West, Workshop Co-presenter with Maya Gupta and Seungil You. *The Power of Monotonicity to make ML make sense: Tensorflow Lattice.* 2017. [[link]](https://odsc.com/speakers/deep-learning-3/)

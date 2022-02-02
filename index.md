@@ -18,7 +18,7 @@ Email: `serenalwang (at) berkeley.edu`
 
 * University of Oxford Algorithms at Work Discussion Group, Invited Talk. *Exploring the Limitations of Group-Based Fairness in Machine Learning*. February 17, 2022.
 
-University of Cambridge Ethics in Maths Society, Invited Talk. *Exploring the Limitations of Group-Based Fairness in Machine Learning*. February 18, 2022.
+* University of Cambridge Ethics in Maths Society, Invited Talk. *Exploring the Limitations of Group-Based Fairness in Machine Learning*. February 18, 2022.
 
 * University of Chicago Computational Social Science Workshop, Invited Talk. TBD, April, 2022
 
