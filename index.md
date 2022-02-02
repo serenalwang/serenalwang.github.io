@@ -16,14 +16,9 @@ Email: `serenalwang (at) berkeley.edu`
 
 ## Upcoming/Recent Talks
 
-Berkeley Institute of Data Science Machine Learning and Science Forum, Invited Speaker. [[registration link]](https://bids.berkeley.edu/events/machine-learning-and-science-forum-2021-1025)
-<br>*ML for Social Good in Practice: from Robust Optimization to Broader Impacts in Education*.
-<br>October 25, 2021
+* University of Oxford Algorithms at Work Discussion Group, Invited Talk. *Exploring the Limitations of Group-Based Fairness in Machine Learning*. February 17, 2022.
 
-UNC Charlotte Ethics Center Series on Biased AI, Invited Speaker. [[registration link]](https://ethics.charlotte.edu/news-events/serena-wang-promises-and-pitfalls-machine-learning-education). 
-<br>*Promises and Pitfalls of Machine Learning for Education*.
-<br>October 28, 2021
+University of Cambridge Ethics in Maths Society, Invited Talk. *Exploring the Limitations of Group-Based Fairness in Machine Learning*. February 18, 2022.
 
-
-
+* University of Chicago Computational Social Science Workshop, Invited Talk. TBD, April, 2022
 

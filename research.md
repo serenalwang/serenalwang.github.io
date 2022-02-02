@@ -25,7 +25,7 @@ title: Research
 
 
 * Harikrishna Narasimhan, Andrew Cotter, Yichen Zhou, Serena L. Wang, Wenshuo Guo.
-**Approximate Heavily-Constrained Learning with Lagrange Multiplier Models.** *34th Conference on Neural Information Processing Systems (NeurIPS),* 2020. 
+**Approximate Heavily-Constrained Learning with Lagrange Multiplier Models.** *34th Conference on Neural Information Processing Systems (NeurIPS),* 2020. [[paper]] (https://proceedings.neurips.cc/paper/2020/hash/62db9e3397c76207a687c360e0243317-Abstract.html)
 
 * Serena L. Wang, Maya R. Gupta.
 **Deontological Ethics By Monotonicity Shape Constraints.** *Proceedings of The 23nd International Conference on Artificial Intelligence and Statistics (AISTATS),* 2020. [[paper]](http://proceedings.mlr.press/v108/wang20e.html) [[tensorflow tutorial]](https://www.tensorflow.org/lattice/tutorials/shape_constraints_for_ethics) [[video]](https://slideslive.com/38930135/deontological-ethics-by-monotonicity-shape-constraints)
@@ -50,8 +50,12 @@ title: Research
 
 ### Talks
 
-* **Constrained Optimization for Policy Goals.** [Google International Women's Day Summit](https://buildyourfuture.withgoogle.com/programs/iwd-event-series/), 2019.
+* Berkeley Institute of Data Science Machine Learning and Science Forum, Invited Speaker. **ML for Social Good in Practice: from Robust Optimization to Broader Impacts in Education**. October 25, 2021. [[link]](https://bids.berkeley.edu/events/machine-learning-and-science-forum-2021-1025)
 
-* **The Power of Monotonicity to make ML make sense: Tensorflow Lattice.** [Grace Hopper Celebration](https://ghc.anitab.org/), 2018. 60 minute workshop, co-presented with Maya Gupta.
+* UNC Charlotte Ethics Center Series on Biased AI, Invited Speaker. **Promises and Pitfalls of Machine Learning for Education**. October 28, 2021. [[link]](https://ethics.charlotte.edu/news-events/serena-wang-promises-and-pitfalls-machine-learning-education) 
 
-* **The Power of Monotonicity to make ML make sense: Tensorflow Lattice.** [Open Data Science Conference (ODSC) West](https://odsc.com/california/), 2017. 90 minute workshop, co-presented with Maya Gupta and Seungil You.
+* Google International Women's Day Summit, Invited Speaker. **Constrained Optimization for Policy Goals**. 2019. [[link]](https://buildyourfuture.withgoogle.com/programs/iwd-event-series/)
+
+* Grace Hopper Celebration, Workshop Co-presenter with Maya Gupta. **The Power of Monotonicity to make ML make sense: Tensorflow Lattice.** 2018. [[link]](https://ghc.anitab.org/)
+
+* Open Data Science Conference (ODSC) West, Workshop Co-presenter with Maya Gupta and Seungil You. **The Power of Monotonicity to make ML make sense: Tensorflow Lattice.** 2017. [[link]](https://odsc.com/speakers/deep-learning-3/)
