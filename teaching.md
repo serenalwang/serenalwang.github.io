@@ -21,6 +21,33 @@ title: Teaching & Service
 
 ## Service
 
+### University Service
+
 Co-president of UC Berkeley's Women in Computer Science and Engineering ([WICSE](https://www-inst.eecs.berkeley.edu//~wicse/)), 2020-2021.
 
-Reviewer for ICML 2021 (expert reviewer), FAccT 2021, ICLR 2021, NeurIPS 2020, ICML 2020 (top 33% reviewer), NeurIPS 2019 (top 400 reviewer), NeurIPS 2018, JMLR. 
+### Reviewing
+
+* Neural Information Processing Systems (NeurIPS): 2018, 2019 (top 400 reviewer),
+2020, 2021
+
+* International Conference on Machine Learning (ICML): 2020 (top 33% reviewer),
+2021 (expert reviewer), 2022
+
+* International Conference on Learning Representations (ICLR): 2021 (reviewer
+award)
+
+* ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT):
+2021, 2022
+
+* ACM conference on Equity and Access in Algorithms, Mechanisms, and Opti-
+mization (EAAMO): 2021
+
+* Journal of Machine Learning Research (JMLR): reviewer since 2018
+
+* ICML Workshop on the Neglected Assumptions in Causal Inference: 2021
+
+* NeurIPS Workshop on Consequential Decision Making in Dynamic Environments:
+2020
+
+* NeurIPS workshop on ML Retrospectives, Surveys & Meta-analyses: 2020
+ 
