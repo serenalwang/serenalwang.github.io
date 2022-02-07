@@ -25,7 +25,7 @@ title: Research
 
 
 * Harikrishna Narasimhan, Andrew Cotter, Yichen Zhou, Serena L. Wang, Wenshuo Guo.
-**Approximate Heavily-Constrained Learning with Lagrange Multiplier Models.** *34th Conference on Neural Information Processing Systems (NeurIPS),* 2020. [[paper]] (https://proceedings.neurips.cc/paper/2020/hash/62db9e3397c76207a687c360e0243317-Abstract.html)
+**Approximate Heavily-Constrained Learning with Lagrange Multiplier Models.** *34th Conference on Neural Information Processing Systems (NeurIPS),* 2020. [[paper]](https://proceedings.neurips.cc/paper/2020/hash/62db9e3397c76207a687c360e0243317-Abstract.html)
 
 * Serena L. Wang, Maya R. Gupta.
 **Deontological Ethics By Monotonicity Shape Constraints.** *Proceedings of The 23nd International Conference on Artificial Intelligence and Statistics (AISTATS),* 2020. [[paper]](http://proceedings.mlr.press/v108/wang20e.html) [[tensorflow tutorial]](https://www.tensorflow.org/lattice/tutorials/shape_constraints_for_ethics) [[video]](https://slideslive.com/38930135/deontological-ethics-by-monotonicity-shape-constraints)
