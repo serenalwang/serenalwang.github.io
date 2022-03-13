@@ -50,6 +50,10 @@ title: Research
 
 ### Talks
 
+* University of Cambridge Ethics in Maths Society, Invited Talk. *Out of Scope, Out of Mind: Expanding Frontiers for Fairness Paradigms in ML*. February 18, 2022.
+
+* University of Oxford Algorithms at Work Discussion Group, Invited Talk. *Out of Scope, Out of Mind: Expanding Frontiers for Fairness Paradigms in ML*. February 17, 2022.
+
 * Berkeley Institute of Data Science Machine Learning and Science Forum, Invited Speaker. *ML for Social Good in Practice: from Robust Optimization to Broader Impacts in Education*. October 25, 2021. [[link]](https://bids.berkeley.edu/events/machine-learning-and-science-forum-2021-1025)
 
 * UNC Charlotte Ethics Center Series on Biased AI, Invited Speaker. *Promises and Pitfalls of Machine Learning for Education*. October 28, 2021. [[link]](https://ethics.charlotte.edu/news-events/serena-wang-promises-and-pitfalls-machine-learning-education) 
