@@ -8,7 +8,7 @@ title: Serena L. Wang - EECS at UC Berkeley
 
 <img src="img/serena.jpg" alt="Photo" class="rightside_image">
 
-I am a fourth-year PhD student in Computer Science at [University of California, Berkeley](https://eecs.berkeley.edu/), advised by [Rediet Abebe](https://www.redietabebe.com/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). I am supported by the NSF Graduate Research Fellowship. I have also concurrently held a 20% collaboration with [Google Research](https://research.google/people/SerenaLutongWang/) for the last five years, where I worked with [Maya Gupta](https://mayagupta.org/) as a member of the [Glassbox Machine Learning Research team](https://www.technologyreview.com/2015/11/05/165175/google-tries-to-make-machine-learning-a-little-more-human/) on making machine learning models more interpretable and controllable using constrained optimization. I received a B.A. in Computer Science from Harvard University in 2016, where I completed an undergraduate thesis in operating systems and machine learning with [Margo Seltzer](https://www.seltzer.com/margo/).
+I am a fourth-year PhD student in Computer Science at [University of California, Berkeley](https://eecs.berkeley.edu/), advised by [Rediet Abebe](https://www.redietabebe.com/) and [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). I am generously supported by the NSF Graduate Research Fellowship and the Apple Scholars in AI/ML PhD fellowship. I have also concurrently held a 20% collaboration with [Google Research](https://research.google/people/SerenaLutongWang/) for the last five years, where I worked with [Maya Gupta](https://mayagupta.org/) as a member of the [Glassbox Machine Learning Research team](https://www.technologyreview.com/2015/11/05/165175/google-tries-to-make-machine-learning-a-little-more-human/) on making machine learning models more interpretable and controllable using constrained optimization. I received a B.A. in Computer Science from Harvard University in 2016, where I completed an undergraduate thesis in operating systems and machine learning with [Margo Seltzer](https://www.seltzer.com/margo/).
 
 My research focuses on understanding and improving the long term societal impacts of machine learning by rethinking ML algorithms and practices. On the algorithmic side, I employ tools from robust optimization, constrained optimization, and statistical learning theory.
 			
@@ -20,13 +20,13 @@ Email: `serenalwang (at) berkeley.edu`
 
 * UC Berkeley EE290: Design of Societal Scale Systems: Games, Incentives, Adaptation and Learning, Joint Guest Lecture with [Lydia T. Liu](https://www.lydiatliu.com/). *Lost in Translation: Reimagining the Machine Learning Life Cycle in Education*, April 4, 2022
 
-* Stanford Biomedical Data Science Seminar, Invited Talk. *Out of Scope, Out of Mind: Expanding Frontiers for Fair ML*, April 7, 2022
-
 * MIT 6.882: Ethical Machine Learning in Human Deployments, Joint Guest Lecture with [Lydia T. Liu](https://www.lydiatliu.com/). *Lost in Translation: Reimagining the Machine Learning Life Cycle in Education*, April 15, 2022
 
 * Torrance Festival of Ideas, University of Georgia, Invited Talk. *Lost in Translation: Reimagining the Machine Learning Life Cycle in Education*, April 19, 2022 [[link]](https://calendar.uga.edu/event/2022_torrance_festival_of_ideas#.Yi2CShPMKdZ)
 
 * University of Chicago Computational Social Science Workshop, Invited Talk. *Out of Scope, Out of Mind: Expanding Frontiers for Fair ML*, April 21, 2022
+
+* Stanford Biomedical Data Science Seminar, Invited Talk. *Out of Scope, Out of Mind: Expanding Frontiers for Fair ML*, April 28, 2022
 
 
 
