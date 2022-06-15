@@ -4,13 +4,16 @@ title: Research
 ---
 
 ### Preprints
+* Serena L. Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, Michal Lukasik, Aditya Krishna Menon.
+**Robust Distillation for Worst-class Performance.** *Manuscript in submission,* 2022. (*<sup>\*</sup>equal contribution*) [[arXiv]](https://arxiv.org/abs/2206.06479)  
+
 * Lydia Liu<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Tolani Britton<sup><span>&#8224;</span></sup>,  Rediet Abebe<sup><span>&#8224;</span></sup>. **Intended and unintended impacts of machine learning for education.** *Poster presentation at Research Conference on Communications, Information, and Internet Policy (TPRC),* 2021. (*<sup>\*</sup>equal contribution, <sup><span>&#8224;</span></sup>equal contribution*) **Poster competition 2nd place award.**
 
 * Wenshuo Guo<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Peng Ding, Yixin Wang, Michael I. Jordan.
-**Multi-source causal inference using control variates.** *Manuscript in submission,* 2021. (*<sup>\*</sup>equal contribution*) [[arXiv]](https://arxiv.org/abs/2103.16689)  
+**Multi-source causal inference using control variates.** *Manuscript in submission,* 2022. (*<sup>\*</sup>equal contribution*) [[arXiv]](https://arxiv.org/abs/2103.16689)  
 
 * Taman Narayan, Serena L. Wang, Kevin Canini, Maya R. Gupta.
-**Quantile Regression: Buy One, Get The Inverse CDF Free.** *Manuscript in submission,* 2021. [[arXiv]](https://arxiv.org/abs/2102.05135)
+**Regularization Strategies for Quantile Regression.** *Manuscript in submission,* 2022. [[arXiv]](https://arxiv.org/abs/2102.05135)
 
 ### Publications
 * Ghassen Jerfel<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Clara Wong-Fannjiang, Katherine A. Heller, Yian Ma, Michael I. Jordan.
