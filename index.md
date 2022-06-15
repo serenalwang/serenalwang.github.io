@@ -14,19 +14,4 @@ My research focuses on understanding and improving the long term societal impact
 			
 Email: `serenalwang (at) berkeley.edu`
 
-## Upcoming/Recent Talks
-
-* MIT Everyday AI Make-a-Thon, Joint Workshop with [Lydia T. Liu](https://www.lydiatliu.com/). *Reimagining the Machine Learning Life Cycle in Education*, March 25, 2022
-
-* UC Berkeley EE290: Design of Societal Scale Systems: Games, Incentives, Adaptation and Learning, Joint Guest Lecture with [Lydia T. Liu](https://www.lydiatliu.com/). *Lost in Translation: Reimagining the Machine Learning Life Cycle in Education*, April 4, 2022
-
-* MIT 6.882: Ethical Machine Learning in Human Deployments, Joint Guest Lecture with [Lydia T. Liu](https://www.lydiatliu.com/). *Lost in Translation: Reimagining the Machine Learning Life Cycle in Education*, April 15, 2022
-
-* Torrance Festival of Ideas, University of Georgia, Invited Talk. *Lost in Translation: Reimagining the Machine Learning Life Cycle in Education*, April 19, 2022 [[link]](https://calendar.uga.edu/event/2022_torrance_festival_of_ideas#.Yi2CShPMKdZ)
-
-* University of Chicago Computational Social Science Workshop, Invited Talk. *Out of Scope, Out of Mind: Expanding Frontiers for Fair ML*, April 21, 2022
-
-* Stanford Biomedical Data Science Seminar, Invited Talk. *Out of Scope, Out of Mind: Expanding Frontiers for Fair ML*, April 28, 2022
-
-
 
