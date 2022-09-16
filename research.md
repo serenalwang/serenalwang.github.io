@@ -7,7 +7,7 @@ title: Research
 * Serena L. Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, Michal Lukasik, Aditya Krishna Menon.
 **Robust Distillation for Worst-class Performance.** *Manuscript in submission,* 2022. [[arXiv]](https://arxiv.org/abs/2206.06479)  
 
-* Lydia Liu<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Tolani Britton<sup><span>&#8224;</span></sup>,  Rediet Abebe<sup><span>&#8224;</span></sup>. **Intended and unintended impacts of machine learning for education.** *Poster presentation at Research Conference on Communications, Information, and Internet Policy (TPRC),* 2021. (*<sup>\*</sup>equal contribution, <sup><span>&#8224;</span></sup>equal contribution*) **Poster competition 2nd place award.**
+* Lydia Liu<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Tolani Britton<sup><span>&#8224;</span></sup>,  Rediet Abebe<sup><span>&#8224;</span></sup>. **Lost in Translation: Reimagining the Machine Learning Life Cycle in Education** *Manuscript in submission,* 2022, *Previously presented as poster at Research Conference on Communications, Information, and Internet Policy (TPRC),* 2021. (*<sup>\*</sup>equal contribution, <sup><span>&#8224;</span></sup>equal contribution*) **Poster competition 2nd place award.** [[arXiv]](https://arxiv.org/abs/2209.03929)
 
 * Wenshuo Guo<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Peng Ding, Yixin Wang, Michael I. Jordan.
 **Multi-source causal inference using control variates.** *Manuscript in submission,* 2022. (*<sup>\*</sup>equal contribution*) [[arXiv]](https://arxiv.org/abs/2103.16689)  
