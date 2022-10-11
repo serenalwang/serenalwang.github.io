@@ -17,7 +17,7 @@ title: Research
 
 ### Publications
 * Ghassen Jerfel<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Clara Wong-Fannjiang, Katherine A. Heller, Yian Ma, Michael I. Jordan.
-**Variational Refinement for Importance Sampling Using the Forward Kullback-Leibler Divergence.** *Conference on Uncertainty in Artificial Intelligence (UAI),* 2021. (*<sup>\*</sup>equal contribution*) [[paper]](https://openreview.net/pdf?id=67p4Qb3fe4k)
+**Variational Refinement for Importance Sampling Using the Forward Kullback-Leibler Divergence.** *Conference on Uncertainty in Artificial Intelligence (UAI),* 2021. (*<sup>\*</sup>equal contribution*) [[paper]](https://proceedings.mlr.press/v161/jerfel21a/jerfel21a.pdf)
 
 
 * Serena L. Wang, Maya R. Gupta, Seungil You.
