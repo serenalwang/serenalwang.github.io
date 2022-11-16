@@ -5,17 +5,18 @@ title: Research
 
 ### Preprints
 * Serena L. Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, Michal Lukasik, Aditya Krishna Menon.
-**Robust Distillation for Worst-class Performance.** *Manuscript in submission,* 2022. [[arXiv]](https://arxiv.org/abs/2206.06479)  
+**Do Robust Teachers Train Robust Students? Combining Distillation Objectives for Worst-class Performance.** *Manuscript in submission,* 2022. [[arXiv]](https://arxiv.org/abs/2206.06479)  
 
-* Lydia Liu<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Tolani Britton<sup><span>&#8224;</span></sup>,  Rediet Abebe<sup><span>&#8224;</span></sup>. **Lost in Translation: Reimagining the Machine Learning Life Cycle in Education** *Manuscript in submission,* 2022, *Previously presented as poster at Research Conference on Communications, Information, and Internet Policy (TPRC),* 2021. (*<sup>\*</sup>equal contribution, <sup><span>&#8224;</span></sup>equal contribution*) **Poster competition 2nd place award.** [[arXiv]](https://arxiv.org/abs/2209.03929)
-
-* Wenshuo Guo<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Peng Ding, Yixin Wang, Michael I. Jordan.
-**Multi-source causal inference using control variates.** *Manuscript in submission,* 2022. (*<sup>\*</sup>equal contribution*) [[arXiv]](https://arxiv.org/abs/2103.16689)  
+* Lydia Liu<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Tolani Britton<sup><span>&#8224;</span></sup>,  Rediet Abebe<sup><span>&#8224;</span></sup>. **Reimagining the Machine Learning Life Cycle to Improve Educational Outcomes of Students** *In press, PNAS,* 2022, *Previously presented as poster at Research Conference on Communications, Information, and Internet Policy (TPRC), 2021, received poster competition 2nd place award.* (*<sup>\*</sup>equal contribution, <sup><span>&#8224;</span></sup>equal contribution*)[[arXiv]](https://arxiv.org/abs/2209.03929)
 
 * Taman Narayan, Serena L. Wang, Kevin Canini, Maya R. Gupta.
 **Regularization Strategies for Quantile Regression.** *Manuscript in submission,* 2022. [[arXiv]](https://arxiv.org/abs/2102.05135)
 
 ### Publications
+* Wenshuo Guo<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Peng Ding, Yixin Wang, Michael I. Jordan.
+**Multi-source causal inference using control variates.** *Transactions on Machine Learning Research (TMLR),* 2022. (*<sup>\*</sup>equal contribution*) [[paper]](https://openreview.net/pdf?id=CrimIjBa64)[[arXiv]](https://arxiv.org/abs/2103.16689)  
+
+
 * Ghassen Jerfel<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Clara Wong-Fannjiang, Katherine A. Heller, Yian Ma, Michael I. Jordan.
 **Variational Refinement for Importance Sampling Using the Forward Kullback-Leibler Divergence.** *Conference on Uncertainty in Artificial Intelligence (UAI),* 2021. (*<sup>\*</sup>equal contribution*) [[paper]](https://proceedings.mlr.press/v161/jerfel21a/jerfel21a.pdf)
 
@@ -52,6 +53,8 @@ title: Research
 * Serena L. Wang. **Predicting the Performance of Automatically Scalable Computation (ASC).** *Harvard University Undergraduate Thesis,* 2016. [[paper]](https://dash.harvard.edu/handle/1/38811450) 
 
 ### Talks
+* Simons Institute, AI and Humanity Summer Cluster Talk. *Reimagining the Machine Learning Life Cycle in Education*, July 15, 2022 [[link]](https://simons.berkeley.edu/talks/tbd-454)
+
 * Stanford Biomedical Data Science Seminar, Invited Talk. *Out of Scope, Out of Mind: Expanding Frontiers for Fair ML*, April 28, 2022
 
 * University of Chicago Computational Social Science Workshop, Invited Talk. *Out of Scope, Out of Mind: Expanding Frontiers for Fair ML*, April 21, 2022
