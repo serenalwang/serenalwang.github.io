@@ -7,14 +7,14 @@ title: Research
 * Serena L. Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, Michal Lukasik, Aditya Krishna Menon.
 **Do Robust Teachers Train Robust Students? Combining Distillation Objectives for Worst-class Performance.** *Manuscript in submission,* 2022. [[arXiv]](https://arxiv.org/abs/2206.06479)  
 
-* Lydia Liu<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Tolani Britton<sup><span>&#8224;</span></sup>,  Rediet Abebe<sup><span>&#8224;</span></sup>. **Reimagining the Machine Learning Life Cycle to Improve Educational Outcomes of Students** *In press, PNAS,* 2022, *Previously presented as poster at Research Conference on Communications, Information, and Internet Policy (TPRC), 2021, received poster competition 2nd place award.* (*<sup>\*</sup>equal contribution, <sup><span>&#8224;</span></sup>equal contribution*)[[arXiv]](https://arxiv.org/abs/2209.03929)
-
 * Taman Narayan, Serena L. Wang, Kevin Canini, Maya R. Gupta.
 **Regularization Strategies for Quantile Regression.** *Manuscript in submission,* 2022. [[arXiv]](https://arxiv.org/abs/2102.05135)
 
 ### Publications
+* Lydia Liu<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Tolani Britton<sup><span>&#8224;</span></sup>,  Rediet Abebe<sup><span>&#8224;</span></sup>. **Reimagining the Machine Learning Life Cycle to Improve Educational Outcomes of Students** *Proceedings of the National Academy of Sciences (PNAS),* 2023.  (*<sup>\*</sup>equal contribution, <sup><span>&#8224;</span></sup>equal contribution*)[[paper]](https://www.pnas.org/doi/10.1073/pnas.2204781120)[[arXiv]](https://arxiv.org/abs/2209.03929)
+
 * Wenshuo Guo<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Peng Ding, Yixin Wang, Michael I. Jordan.
-**Multi-source causal inference using control variates.** *Transactions on Machine Learning Research (TMLR),* 2022. (*<sup>\*</sup>equal contribution*) [[paper]](https://openreview.net/pdf?id=CrimIjBa64)[[arXiv]](https://arxiv.org/abs/2103.16689)  
+**Multi-Source Causal Inference Using Control Variates under Outcome Selection Bias.** *Transactions on Machine Learning Research (TMLR),* 2022. (*<sup>\*</sup>equal contribution*) [[paper]](https://openreview.net/pdf?id=CrimIjBa64)[[arXiv]](https://arxiv.org/abs/2103.16689)  
 
 
 * Ghassen Jerfel<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Clara Wong-Fannjiang, Katherine A. Heller, Yian Ma, Michael I. Jordan.
