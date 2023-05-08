@@ -4,13 +4,13 @@ title: Research
 ---
 
 ### Preprints
-* Serena L. Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, Michal Lukasik, Aditya Krishna Menon.
-**Do Robust Teachers Train Robust Students? Combining Distillation Objectives for Worst-class Performance.** *Manuscript in submission,* 2022. [[arXiv]](https://arxiv.org/abs/2206.06479)  
-
 * Taman Narayan, Serena L. Wang, Kevin Canini, Maya R. Gupta.
 **Regularization Strategies for Quantile Regression.** *Manuscript in submission,* 2022. [[arXiv]](https://arxiv.org/abs/2102.05135)
 
 ### Publications
+* Serena L. Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, Michal Lukasik, Aditya Krishna Menon.
+**Robust Distillation for Worst-class Performance: On the Interplay Between Teacher and Student Objectives** *Conference on Uncertainty in Artificial Intelligence (UAI),* 2023. [[arXiv]](https://arxiv.org/abs/2206.06479)  
+
 * Lydia Liu<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Tolani Britton<sup><span>&#8224;</span></sup>,  Rediet Abebe<sup><span>&#8224;</span></sup>. **Reimagining the Machine Learning Life Cycle to Improve Educational Outcomes of Students** *Proceedings of the National Academy of Sciences (PNAS),* 2023.  (*<sup>\*</sup>equal contribution, <sup><span>&#8224;</span></sup>equal contribution*)[[paper]](https://www.pnas.org/doi/10.1073/pnas.2204781120)[[arXiv]](https://arxiv.org/abs/2209.03929)
 
 * Wenshuo Guo<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Peng Ding, Yixin Wang, Michael I. Jordan.
