@@ -4,53 +4,56 @@ title: Research
 ---
 
 ### Preprints
-* Taman Narayan, Serena L. Wang, Kevin Canini, Maya R. Gupta.
-**Regularization Strategies for Quantile Regression.** *Manuscript in submission,* 2022. [[arXiv]](https://arxiv.org/abs/2102.05135)
+* Serena Wang, Stephen Bates, P. M. Aronow, Michael I. Jordan.
+**Operationalizing Counterfactual Metrics: Incentives, Ranking, and Information Asymmetry.** *Manuscript in submission,* 2023. [[arXiv]](https://arxiv.org/abs/2305.14595)
+
+* Taman Narayan, Serena Wang, Kevin Canini, Maya R. Gupta.
+**Regularization Strategies for Quantile Regression.** *Manuscript in submission,* 2023. [[arXiv]](https://arxiv.org/abs/2102.05135)
 
 ### Publications
-* Serena L. Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, Michal Lukasik, Aditya Krishna Menon.
+* Serena Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, Michal Lukasik, Aditya Krishna Menon.
 **Robust Distillation for Worst-class Performance: On the Interplay Between Teacher and Student Objectives** *Conference on Uncertainty in Artificial Intelligence (UAI),* 2023. [[arXiv]](https://arxiv.org/abs/2206.06479)  
 
-* Lydia Liu<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Tolani Britton<sup><span>&#8224;</span></sup>,  Rediet Abebe<sup><span>&#8224;</span></sup>. **Reimagining the Machine Learning Life Cycle to Improve Educational Outcomes of Students** *Proceedings of the National Academy of Sciences (PNAS),* 2023.  (*<sup>\*</sup>equal contribution, <sup><span>&#8224;</span></sup>equal contribution*)[[paper]](https://www.pnas.org/doi/10.1073/pnas.2204781120)[[arXiv]](https://arxiv.org/abs/2209.03929)
+* Lydia Liu<sup>\*</sup>, Serena Wang<sup>\*</sup>, Tolani Britton<sup><span>&#8224;</span></sup>,  Rediet Abebe<sup><span>&#8224;</span></sup>. **Reimagining the Machine Learning Life Cycle to Improve Educational Outcomes of Students** *Proceedings of the National Academy of Sciences (PNAS),* 2023.  (*<sup>\*</sup>equal contribution, <sup><span>&#8224;</span></sup>equal contribution*)[[paper]](https://www.pnas.org/doi/10.1073/pnas.2204781120)[[arXiv]](https://arxiv.org/abs/2209.03929)
 
-* Wenshuo Guo<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Peng Ding, Yixin Wang, Michael I. Jordan.
+* Wenshuo Guo<sup>\*</sup>, Serena Wang<sup>\*</sup>, Peng Ding, Yixin Wang, Michael I. Jordan.
 **Multi-Source Causal Inference Using Control Variates under Outcome Selection Bias.** *Transactions on Machine Learning Research (TMLR),* 2022. (*<sup>\*</sup>equal contribution*) [[paper]](https://openreview.net/pdf?id=CrimIjBa64)[[arXiv]](https://arxiv.org/abs/2103.16689)  
 
 
-* Ghassen Jerfel<sup>\*</sup>, Serena L. Wang<sup>\*</sup>, Clara Wong-Fannjiang, Katherine A. Heller, Yian Ma, Michael I. Jordan.
+* Ghassen Jerfel<sup>\*</sup>, Serena Wang<sup>\*</sup>, Clara Wong-Fannjiang, Katherine A. Heller, Yian Ma, Michael I. Jordan.
 **Variational Refinement for Importance Sampling Using the Forward Kullback-Leibler Divergence.** *Conference on Uncertainty in Artificial Intelligence (UAI),* 2021. (*<sup>\*</sup>equal contribution*) [[paper]](https://proceedings.mlr.press/v161/jerfel21a/jerfel21a.pdf)
 
 
-* Serena L. Wang, Maya R. Gupta, Seungil You.
+* Serena Wang, Maya R. Gupta, Seungil You.
 **Quit When You Can: Efficient Evaluation of Ensembles with Ordering Optimization.** *ACM Journal on Emerging Technologies in Computing Systems (JETC),* 2021. [[paper]](https://dl.acm.org/doi/10.1145/3451209)
 
-* Serena L. Wang<sup>\*</sup>, Wenshuo Guo<sup>\*</sup>, Harikrishna Narasimhan, Andrew Cotter, Maya R. Gupta, Michael I. Jordan.
+* Serena Wang<sup>\*</sup>, Wenshuo Guo<sup>\*</sup>, Harikrishna Narasimhan, Andrew Cotter, Maya R. Gupta, Michael I. Jordan.
 **Robust Optimization for Fairness with Noisy Protected Groups.** *34th Conference on Neural Information Processing Systems (NeurIPS),* 2020. (*<sup>\*</sup>equal contribution*) [[paper]](https://proceedings.neurips.cc//paper/2020/file/37d097caf1299d9aa79c2c2b843d2d78-Paper.pdf) 
 
 
-* Harikrishna Narasimhan, Andrew Cotter, Yichen Zhou, Serena L. Wang, Wenshuo Guo.
+* Harikrishna Narasimhan, Andrew Cotter, Yichen Zhou, Serena Wang, Wenshuo Guo.
 **Approximate Heavily-Constrained Learning with Lagrange Multiplier Models.** *34th Conference on Neural Information Processing Systems (NeurIPS),* 2020. [[paper]](https://proceedings.neurips.cc/paper/2020/hash/62db9e3397c76207a687c360e0243317-Abstract.html)
 
-* Serena L. Wang, Maya R. Gupta.
+* Serena Wang, Maya R. Gupta.
 **Deontological Ethics By Monotonicity Shape Constraints.** *Proceedings of The 23nd International Conference on Artificial Intelligence and Statistics (AISTATS),* 2020. [[paper]](http://proceedings.mlr.press/v108/wang20e.html) [[tensorflow tutorial]](https://www.tensorflow.org/lattice/tutorials/shape_constraints_for_ethics) [[video]](https://slideslive.com/38930135/deontological-ethics-by-monotonicity-shape-constraints)
 
-* Harikrishna Narasimhan, Andrew Cotter,  Maya R. Gupta, Serena L. Wang.
+* Harikrishna Narasimhan, Andrew Cotter,  Maya R. Gupta, Serena Wang.
 **Pairwise Fairness for Ranking and Regression.** *Proceedings of the 34th AAAI Conference on Artificial Intelligence (AAAI),* 2020. [[paper]](https://arxiv.org/abs/1906.05330) 
 
-* Andrew Cotter, Heinrich Jiang, Maya R. Gupta, Serena L. Wang, Taman Narayan, Seungil You, Karthik Sridharan.
+* Andrew Cotter, Heinrich Jiang, Maya R. Gupta, Serena Wang, Taman Narayan, Seungil You, Karthik Sridharan.
 **Optimization with Non-Differentiable Constraints with Applications to Fairness, Recall, Churn, and Other Goals.** *Journal of Machine Learning Research (JMLR),* 2019. [[paper]](http://jmlr.csail.mit.edu/papers/volume20/18-616/18-616.pdf) 
 
-* Andrew Cotter, Maya R. Gupta, Heinrich Jiang, Nathan Srebro, Karthik Sridharan, Serena L. Wang, Blake Woodworth, Seungil You.
+* Andrew Cotter, Maya R. Gupta, Heinrich Jiang, Nathan Srebro, Karthik Sridharan, Serena Wang, Blake Woodworth, Seungil You.
 **Training Well-Generalizing Classifiers for Fairness Metrics and Other Data-Dependent Constraints.** *Proceedings of the 36th International Conference on Machine Learning (ICML),* 2019. [[paper]](http://proceedings.mlr.press/v97/cotter19b/cotter19b.pdf) 
 
-* Andrew Cotter, Maya R. Gupta, Heinrich Jiang, Erez Louidor, James Muller, Taman Narayan, Serena L. Wang, Tao Zhu.
+* Andrew Cotter, Maya R. Gupta, Heinrich Jiang, Erez Louidor, James Muller, Taman Narayan, Serena Wang, Tao Zhu.
 **Shape Constraints for Set Functions.** *Proceedings of the 36th International Conference on Machine Learning (ICML),* 2019. [[paper]](http://proceedings.mlr.press/v97/cotter19a/cotter19a.pdf) 
 
 ### Workshops and Technical Reports
-* Wenshuo Guo, Mihaela Curmei, Serena L. Wang, Benjamin Recht, Michael I. Jordan.
+* Wenshuo Guo, Mihaela Curmei, Serena Wang, Benjamin Recht, Michael I. Jordan.
 **Finding Equilibrium in Multi-Agent Games with Payoff Uncertainty.** *ICML Workshop on Theoretical Foundations of Reinforcement Learning,* 2020. [[arXiv]](https://arxiv.org/abs/2007.05647) [[video]](https://www.youtube.com/watch?v=Gyen7CMiRHo&feature=youtu.be) 
 
-* Serena L. Wang. **Predicting the Performance of Automatically Scalable Computation (ASC).** *Harvard University Undergraduate Thesis,* 2016. [[paper]](https://dash.harvard.edu/handle/1/38811450) 
+* Serena Wang. **Predicting the Performance of Automatically Scalable Computation (ASC).** *Harvard University Undergraduate Thesis,* 2016. [[paper]](https://dash.harvard.edu/handle/1/38811450) 
 
 ### Talks
 * Simons Institute, AI and Humanity Summer Cluster Talk. *Reimagining the Machine Learning Life Cycle in Education*, July 15, 2022 [[link]](https://simons.berkeley.edu/talks/tbd-454)
