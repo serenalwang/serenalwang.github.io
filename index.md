@@ -13,3 +13,8 @@ I am a final-year PhD student in Computer Science at [University of California, 
 My research focuses on understanding and improving the long term societal impacts of machine learning by rethinking ML algorithms and their surrounding incentives and practices. I'm particularly interested in gaps between metrics and goals, and how those gaps may be bridged through algorithmic improvements, analysis of multi-agent incentives, and better qualitative understanding of problem formulation. I employ tools from robust optimization, statistics, learning theory, and most recently, microeconomics.
 			
 Email: `serenalwang (at) berkeley.edu`
+
+### News
+- I will be presenting our work on [*Robust Distillation for Worst-class Performance: On the Interplay Between Teacher and Student Objectives*](https://arxiv.org/abs/2206.06479) as a poster at UAI 2023 -- come say hi!
+
+- Super grateful to have had the opportunity to present our work on [*Holding Accountability Metrics Accountable: How Counterfactuals Can Improve Incentives*](https://arxiv.org/abs/2305.14595) as a Rising Star talk at the Gender Inclusion Workshop at EC 2023!

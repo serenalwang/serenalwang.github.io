@@ -75,6 +75,8 @@ title: Research
 
 * MIT Everyday AI Make-a-Thon, Joint Workshop with [Lydia T. Liu](https://www.lydiatliu.com/). *Reimagining the Machine Learning Life Cycle in Education*, March 25, 2022
 
+* Apple Fairness Reading Group, Invited Talk. *Out of Scope, Out of Mind: Expanding Frontiers for Fair ML*, March 23, 2022
+
 * University of Cambridge Ethics in Maths Society, Invited Talk. *Out of Scope, Out of Mind: Expanding Frontiers for Fairness Paradigms in ML*. February 18, 2022.
 
 * University of Oxford Algorithms at Work Discussion Group, Invited Talk. *Out of Scope, Out of Mind: Expanding Frontiers for Fairness Paradigms in ML*. February 17, 2022.
@@ -85,6 +87,6 @@ title: Research
 
 * Google International Women's Day Summit, Invited Speaker. *Constrained Optimization for Policy Goals*. 2019. [[link]](https://buildyourfuture.withgoogle.com/programs/iwd-event-series/)
 
-* Grace Hopper Celebration, Workshop Co-presenter with Maya Gupta. *The Power of Monotonicity to make ML make sense: Tensorflow Lattice.* 2018. [[link]](https://ghc.anitab.org/)
+* Grace Hopper Celebration, Workshop Co-presenter with Maya Gupta. *The Power of Monotonicity to Make ML Make Sense: Tensorflow Lattice.* 2018. [[link]](https://ghc.anitab.org/)
 
-* Open Data Science Conference (ODSC) West, Workshop Co-presenter with Maya Gupta and Seungil You. *The Power of Monotonicity to make ML make sense: Tensorflow Lattice.* 2017. [[link]](https://odsc.com/speakers/deep-learning-3/)
+* Open Data Science Conference (ODSC) West, Workshop Co-presenter with Maya Gupta and Seungil You. *The Power of Monotonicity to Make ML Make Sense: Tensorflow Lattice.* 2017. [[link]](https://odsc.com/speakers/deep-learning-3/)

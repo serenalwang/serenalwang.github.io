@@ -23,7 +23,7 @@ title: Teaching & Service
 
 ### UC Berkeley
 
-Former Co-President of UC Berkeley's Women in Computer Science and Engineering ([WICSE](https://www-inst.eecs.berkeley.edu//~wicse/)), 2020-2021.
+Co-President of UC Berkeley's Women in Computer Science and Engineering ([WICSE](https://www-inst.eecs.berkeley.edu//~wicse/)), 2020-2021.
 
 ### Reviewing
 
@@ -36,12 +36,12 @@ Former Co-President of UC Berkeley's Women in Computer Science and Engineering (
 * International Conference on Learning Representations (ICLR): 2021 (**reviewer
 award**)
 
+* Journal of Machine Learning Research (JMLR): reviewer 2018 - present
+
 * ACM Conference on Fairness, Accountability, and Transparency (ACM FAccT):
-2021, 2022
+2021, 2022, 2023
 
-* ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO): 2021
-
-* Journal of Machine Learning Research (JMLR): reviewer since 2018
+* ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO): 2021, 2022
 
 * ICML Workshop on the Neglected Assumptions in Causal Inference: 2021
 
