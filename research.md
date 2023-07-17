@@ -2,7 +2,6 @@
 layout: default
 title: Research
 ---
-
 ### Preprints
 * Serena Wang, Stephen Bates, P. M. Aronow, Michael I. Jordan.
 **Operationalizing Counterfactual Metrics: Incentives, Ranking, and Information Asymmetry.** *Poster at EC'23, Manuscript in submission,* 2023. [[arXiv]](https://arxiv.org/abs/2305.14595)
@@ -15,7 +14,7 @@ title: Research
 
 ### Publications
 * Serena Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, Michal Lukasik, Aditya Krishna Menon.
-**Robust Distillation for Worst-class Performance: On the Interplay Between Teacher and Student Objectives.** *Conference on Uncertainty in Artificial Intelligence (UAI),* 2023. [[arXiv]](https://arxiv.org/abs/2206.06479)  
+**Robust Distillation for Worst-class Performance: On the Interplay Between Teacher and Student Objectives.** *Conference on Uncertainty in Artificial Intelligence (UAI),* 2023. [[paper]](https://proceedings.mlr.press/v216/wang23e.html)[[arXiv]](https://arxiv.org/abs/2206.06479)  
 
 * Lydia Liu<sup>\*</sup>, Serena Wang<sup>\*</sup>, Tolani Britton<sup><span>&#8224;</span></sup>,  Rediet Abebe<sup><span>&#8224;</span></sup>. **Reimagining the Machine Learning Life Cycle to Improve Educational Outcomes of Students** *Proceedings of the National Academy of Sciences (PNAS),* 2023.  (*<sup>\*</sup>equal contribution, <sup><span>&#8224;</span></sup>equal contribution*)[[paper]](https://www.pnas.org/doi/10.1073/pnas.2204781120)[[arXiv]](https://arxiv.org/abs/2209.03929)
 

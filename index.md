@@ -15,6 +15,6 @@ My research focuses on understanding and improving the long term societal impact
 Email: `serenalwang (at) berkeley.edu`
 
 ### News
-- I will be presenting our work on [*Robust Distillation for Worst-class Performance: On the Interplay Between Teacher and Student Objectives*](https://arxiv.org/abs/2206.06479) as a poster at UAI 2023 -- come say hi!
+- I will be presenting our work on [*Robust Distillation for Worst-class Performance: On the Interplay Between Teacher and Student Objectives*](https://proceedings.mlr.press/v216/wang23e.html) as a poster at UAI 2023 -- come say hi!
 
 - Super grateful to have had the opportunity to present our work on [*Holding Accountability Metrics Accountable: How Counterfactuals Can Improve Incentives*](https://arxiv.org/abs/2305.14595) as a Rising Star talk at the Gender Inclusion Workshop at EC 2023!
