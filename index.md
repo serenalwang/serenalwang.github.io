@@ -15,8 +15,8 @@ My research focuses on understanding and improving the long term societal impact
 Email: `serenalwang (at) berkeley.edu`
 
 ### News
-- **August 3, MIT**: Excited to present our work on [*Operationalizing Counterfactual Metrics: Incentives, Ranking, and Information Asymmetry*](https://arxiv.org/abs/2305.14595) for Ashia Wilson's group!
+- **August 3, MIT**: Grateful to have had the opportunity to present our work on [*Operationalizing Counterfactual Metrics: Incentives, Ranking, and Information Asymmetry*](https://arxiv.org/abs/2305.14595) for Ashia Wilson's group at MIT!
 
-- **August 1, UAI 2023**: I will be presenting our work on [*Robust Distillation for Worst-class Performance: On the Interplay Between Teacher and Student Objectives*](https://proceedings.mlr.press/v216/wang23e.html) as a poster at UAI 2023 -- come say hi!
+- **August 1, UAI 2023**: Presented our work on [*Robust Distillation for Worst-class Performance: On the Interplay Between Teacher and Student Objectives*](https://proceedings.mlr.press/v216/wang23e.html) at UAI 2023!
 
-- Super grateful to have had the opportunity to present our work on [*Holding Accountability Metrics Accountable: How Counterfactuals Can Improve Incentives*](https://arxiv.org/abs/2305.14595) as a Rising Star talk at the Gender Inclusion Workshop at EC 2023!
+- **EC, 2023** Presented our work on [*Holding Accountability Metrics Accountable: How Counterfactuals Can Improve Incentives*](https://arxiv.org/abs/2305.14595) as a Rising Star talk at the Gender Inclusion Workshop at EC 2023!
