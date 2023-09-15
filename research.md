@@ -9,14 +9,15 @@ title: Research
 * Serena Wang, Michael I. Jordan, Katrina Ligett, Preston McAfee.
 **Information Elicitation in Agency Games.** *Poster at EC'23,* 2023. 
 
-* Taman Narayan, Serena Wang, Kevin Canini, Maya R. Gupta.
-**Regularization Strategies for Quantile Regression.** *Manuscript in submission,* 2023. [[arXiv]](https://arxiv.org/abs/2102.05135)
-
 ### Publications
 * Serena Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, Michal Lukasik, Aditya Krishna Menon.
 **Robust Distillation for Worst-class Performance: On the Interplay Between Teacher and Student Objectives.** *Conference on Uncertainty in Artificial Intelligence (UAI),* 2023. [[paper]](https://proceedings.mlr.press/v216/wang23e.html)[[arXiv]](https://arxiv.org/abs/2206.06479)  
 
 * Lydia Liu<sup>\*</sup>, Serena Wang<sup>\*</sup>, Tolani Britton<sup><span>&#8224;</span></sup>,  Rediet Abebe<sup><span>&#8224;</span></sup>. **Reimagining the Machine Learning Life Cycle to Improve Educational Outcomes of Students** *Proceedings of the National Academy of Sciences (PNAS),* 2023.  (*<sup>\*</sup>equal contribution, <sup><span>&#8224;</span></sup>equal contribution*)[[paper]](https://www.pnas.org/doi/10.1073/pnas.2204781120)[[arXiv]](https://arxiv.org/abs/2209.03929)
+
+
+* Taman Narayan, Serena Wang, Kevin Canini, Maya R. Gupta.
+**Expected Pinball Loss For Quantile Regression And Inverse CDF Estimation.** *To appear, Transactions on Machine Learning Research (TMLR)* 2023. [[arXiv]](https://arxiv.org/abs/2102.05135)
 
 * Wenshuo Guo<sup>\*</sup>, Serena Wang<sup>\*</sup>, Peng Ding, Yixin Wang, Michael I. Jordan.
 **Multi-Source Causal Inference Using Control Variates under Outcome Selection Bias.** *Transactions on Machine Learning Research (TMLR),* 2022. (*<sup>\*</sup>equal contribution*) [[paper]](https://openreview.net/pdf?id=CrimIjBa64)[[arXiv]](https://arxiv.org/abs/2103.16689)  
