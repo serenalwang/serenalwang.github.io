@@ -15,7 +15,7 @@ My research focuses on understanding and improving the long term societal impact
 Email: `serenalwang (at) berkeley.edu`
 
 ### News
-- **September 21, Yale**: Excited to be presenting at the Causal Inference and Research Design Seminar at Yale led by [P Aronow](https://politicalscience.yale.edu/people/p-aronow). 
+- **September 21, Yale**: Guest lectured for the Causal Inference and Research Design Seminar at Yale taught by [P Aronow](https://politicalscience.yale.edu/people/p-aronow). 
 
 - **August 3, MIT**: Grateful to have had the opportunity to present our work on [*Operationalizing Counterfactual Metrics: Incentives, Ranking, and Information Asymmetry*](https://arxiv.org/abs/2305.14595) for Ashia Wilson's group at MIT!
 
