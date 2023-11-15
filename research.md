@@ -20,8 +20,7 @@ title: Research
 **Expected Pinball Loss For Quantile Regression And Inverse CDF Estimation.** *To appear, Transactions on Machine Learning Research (TMLR)* 2023. [[arXiv]](https://arxiv.org/abs/2102.05135)
 
 * Wenshuo Guo<sup>\*</sup>, Serena Wang<sup>\*</sup>, Peng Ding, Yixin Wang, Michael I. Jordan.
-**Multi-Source Causal Inference Using Control Variates under Outcome Selection Bias.** *Transactions on Machine Learning Research (TMLR),* 2022. (*<sup>\*</sup>equal contribution*) [[paper]](https://openreview.net/pdf?id=CrimIjBa64)[[arXiv]](https://arxiv.org/abs/2103.16689)  
-
+**Multi-Source Causal Inference Using Control Variates under Outcome Selection Bias.** *Transactions on Machine Learning Research (TMLR),* 2022. (*<sup>\*</sup>equal contribution*) [[paper]](https://openreview.net/pdf?id=CrimIjBa64)[[arXiv]](https://arxiv.org/abs/2103.16689) [[code]](https://github.com/serenalwang/multisource-causal-public)
 
 * Ghassen Jerfel<sup>\*</sup>, Serena Wang<sup>\*</sup>, Clara Wong-Fannjiang, Katherine A. Heller, Yian Ma, Michael I. Jordan.
 **Variational Refinement for Importance Sampling Using the Forward Kullback-Leibler Divergence.** *Conference on Uncertainty in Artificial Intelligence (UAI),* 2021. (*<sup>\*</sup>equal contribution*) [[paper]](https://proceedings.mlr.press/v161/jerfel21a/jerfel21a.pdf)
