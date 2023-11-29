@@ -15,6 +15,8 @@ My research focuses on understanding and improving the long term societal impact
 Email: `serenalwang (at) berkeley.edu`
 
 ### News
+- **November 30, UBC**: Excited to be giving a seminar talk at UBC's Centre for Artificial Intelligence Decision-making and Action [CAIDA](https://caida.ubc.ca/event/operationalizing-counterfactual-metrics-incentives-ranking-and-information-asymmetry-serena)! 
+
 - **September 21, Yale**: Guest lectured for the Causal Inference and Research Design Seminar at Yale taught by [P Aronow](https://politicalscience.yale.edu/people/p-aronow). 
 
 - **August 3, MIT**: Grateful to have had the opportunity to present our work on [*Operationalizing Counterfactual Metrics: Incentives, Ranking, and Information Asymmetry*](https://arxiv.org/abs/2305.14595) for Ashia Wilson's group at MIT!
