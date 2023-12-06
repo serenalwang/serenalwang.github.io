@@ -15,7 +15,9 @@ My research focuses on understanding and improving the long term societal impact
 Email: `serenalwang (at) berkeley.edu`
 
 ### News
-- **November 30, UBC**: Excited to be giving a seminar talk at UBC's Centre for Artificial Intelligence Decision-making and Action [CAIDA](https://caida.ubc.ca/event/operationalizing-counterfactual-metrics-incentives-ranking-and-information-asymmetry-serena)! 
+- **December 14, CIRM**: Excited to be speaking at the Centre International de Rencontres Mathematiques (CIRM) as part of their conference, (From Matchings to Markets. A tale of Mathematics, Economics and Computer Science)[https://conferences.cirm-math.fr/2879.html]! 
+
+- **November 30, UBC**: Grateful to have had the opportunity to give a seminar talk at UBC's Centre for Artificial Intelligence Decision-making and Action [CAIDA](https://caida.ubc.ca/event/operationalizing-counterfactual-metrics-incentives-ranking-and-information-asymmetry-serena) [video](https://caida.ubc.ca/videos)! 
 
 - **September 21, Yale**: Guest lectured for the Causal Inference and Research Design Seminar at Yale taught by [P Aronow](https://politicalscience.yale.edu/people/p-aronow). 
 
@@ -23,4 +25,3 @@ Email: `serenalwang (at) berkeley.edu`
 
 - **August 1, UAI 2023**: Presented our work on [*Robust Distillation for Worst-class Performance: On the Interplay Between Teacher and Student Objectives*](https://proceedings.mlr.press/v216/wang23e.html) at UAI 2023.
 
-- **EC, 2023** Presented our work on [*Holding Accountability Metrics Accountable: How Counterfactuals Can Improve Incentives*](https://arxiv.org/abs/2305.14595) as a Rising Star talk at the Gender Inclusion Workshop at EC 2023.
