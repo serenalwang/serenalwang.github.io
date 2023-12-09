@@ -15,9 +15,9 @@ My research focuses on understanding and improving the long term societal impact
 Email: `serenalwang (at) berkeley.edu`
 
 ### News
-- **December 14, CIRM**: Excited to be speaking at the Centre International de Rencontres Mathematiques (CIRM) as part of their conference, [From Matchings to Markets. A tale of Mathematics, Economics and Computer Science](https://conferences.cirm-math.fr/2879.html)! 
+- **December 14, CIRM**: Excited to be speaking at the Centre International de Rencontres Mathematiques (CIRM) as part of the conference, [From Matchings to Markets. A tale of Mathematics, Economics and Computer Science](https://conferences.cirm-math.fr/2879.html)! 
 
-- **November 30, UBC**: Grateful to have had the opportunity to give a seminar talk at UBC's Centre for Artificial Intelligence Decision-making and Action [CAIDA](https://caida.ubc.ca/event/operationalizing-counterfactual-metrics-incentives-ranking-and-information-asymmetry-serena) [video](https://caida.ubc.ca/videos)! 
+- **November 30, UBC**: Grateful to have had the opportunity to give a seminar talk at UBC's Centre for Artificial Intelligence Decision-making and Action [(CAIDA)](https://caida.ubc.ca/event/operationalizing-counterfactual-metrics-incentives-ranking-and-information-asymmetry-serena)! [[video]](https://caida.ubc.ca/videos)
 
 - **September 21, Yale**: Guest lectured for the Causal Inference and Research Design Seminar at Yale taught by [P Aronow](https://politicalscience.yale.edu/people/p-aronow). 
 
