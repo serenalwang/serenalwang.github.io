@@ -15,15 +15,15 @@ My research focuses on understanding and improving the long term societal impact
 Email: `serenalwang (at) berkeley.edu`
 
 ### News
-- **February 26-27, AAAI 2024** I am excited to be co-organizing the [Workshop on AI for Education: Bridging Innovation and Responsibility](https://ai4ed.cc/workshops/aaai2024) to be held at AAAI 2024 in Vancouver!
+- **February 26-27, AAAI 2024**: Co-organizing the [Workshop on AI for Education: Bridging Innovation and Responsibility](https://ai4ed.cc/workshops/aaai2024) to be held at AAAI 2024 in Vancouver!
 
 - **December 14, CIRM**: Presented at the Centre International de Rencontres Mathematiques (CIRM) as part of the conference, [From Matchings to Markets. A tale of Mathematics, Economics and Computer Science](https://conferences.cirm-math.fr/2879.html)! 
 
-- **November 30, UBC**: Grateful to have had the opportunity to give a seminar talk at UBC's Centre for Artificial Intelligence Decision-making and Action [(CAIDA)](https://caida.ubc.ca/event/operationalizing-counterfactual-metrics-incentives-ranking-and-information-asymmetry-serena)! [[video]](https://caida.ubc.ca/videos)
+- **November 30, UBC**: Gave a seminar talk at UBC's Centre for Artificial Intelligence Decision-making and Action [(CAIDA)](https://caida.ubc.ca/event/operationalizing-counterfactual-metrics-incentives-ranking-and-information-asymmetry-serena)! [[video]](https://caida.ubc.ca/videos)
 
 - **September 21, Yale**: Guest lectured for the Causal Inference and Research Design Seminar at Yale taught by [P Aronow](https://politicalscience.yale.edu/people/p-aronow). 
 
-- **August 3, MIT**: Grateful to have had the opportunity to present our work on [*Operationalizing Counterfactual Metrics: Incentives, Ranking, and Information Asymmetry*](https://arxiv.org/abs/2305.14595) for Ashia Wilson's group at MIT!
+- **August 3, MIT**: Presented our work on [*Operationalizing Counterfactual Metrics: Incentives, Ranking, and Information Asymmetry*](https://arxiv.org/abs/2305.14595) for Ashia Wilson's group at MIT!
 
 - **August 1, UAI 2023**: Presented our work on [*Robust Distillation for Worst-class Performance: On the Interplay Between Teacher and Student Objectives*](https://proceedings.mlr.press/v216/wang23e.html) at UAI 2023.
 
