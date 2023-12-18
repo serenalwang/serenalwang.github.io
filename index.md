@@ -15,7 +15,7 @@ My research focuses on understanding and improving the long term societal impact
 Email: `serenalwang (at) berkeley.edu`
 
 ### News
-- **February 26-27, AAAI 2024**: Co-organizing the [Workshop on AI for Education: Bridging Innovation and Responsibility](https://ai4ed.cc/workshops/aaai2024) to be held at AAAI 2024 in Vancouver!
+- **February 26-27, AAAI 2024**: Excited to be co-organizing the [Workshop on AI for Education: Bridging Innovation and Responsibility](https://ai4ed.cc/workshops/aaai2024) to be held at AAAI 2024 in Vancouver!
 
 - **December 14, CIRM**: Presented at the Centre International de Rencontres Mathematiques (CIRM) as part of the conference, [From Matchings to Markets. A tale of Mathematics, Economics and Computer Science](https://conferences.cirm-math.fr/2879.html)! 
 
