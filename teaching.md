@@ -43,6 +43,10 @@ award**)
 
 * ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO): 2021, 2022
 
+* ACM The Web Conference (formerly known as International World Wide Web Conference, abbreviated as WWW): 2023
+
+* International Conference on Artificial Intelligence and Statistics (AISTATS): 2023
+
 * ICML Workshop on the Neglected Assumptions in Causal Inference: 2021
 
 * NeurIPS Workshop on Consequential Decision Making in Dynamic Environments:
