@@ -3,13 +3,13 @@ layout: default
 title: Research
 ---
 ### Preprints
-* Serena Wang, Stephen Bates, P. M. Aronow, Michael I. Jordan.
-**Operationalizing Counterfactual Metrics: Incentives, Ranking, and Information Asymmetry.** *Poster at EC'23, Manuscript in submission,* 2023. [[arXiv]](https://arxiv.org/abs/2305.14595)
-
 * Serena Wang, Michael I. Jordan, Katrina Ligett, Preston McAfee.
 **Information Elicitation in Agency Games.** *Poster at EC'23,* 2023. 
 
 ### Publications
+* Serena Wang, Stephen Bates, P. M. Aronow, Michael I. Jordan.
+**Operationalizing Counterfactual Metrics: Incentives, Ranking, and Information Asymmetry.** *To appear, International Conference on Artificial Intelligence and Statistics (AISTATS), **oral presentation***, 2024. [[arXiv]](https://arxiv.org/abs/2305.14595)
+
 * Serena Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, Michal Lukasik, Aditya Krishna Menon.
 **Robust Distillation for Worst-class Performance: On the Interplay Between Teacher and Student Objectives.** *Conference on Uncertainty in Artificial Intelligence (UAI),* 2023. [[paper]](https://proceedings.mlr.press/v216/wang23e.html)[[arXiv]](https://arxiv.org/abs/2206.06479)  
 
