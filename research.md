@@ -4,7 +4,7 @@ title: Research
 ---
 ### Preprints
 * Serena Wang, Michael I. Jordan, Katrina Ligett, Preston McAfee.
-**Information Elicitation in Agency Games.** *Poster at EC'23,* 2023. 
+**Information Elicitation in Agency Games.** *Manuscript in submission,* 2024. [[arXiv]](https://arxiv.org/abs/2402.14005)
 
 ### Publications
 * Serena Wang, Stephen Bates, P. M. Aronow, Michael I. Jordan.
