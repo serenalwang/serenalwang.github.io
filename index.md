@@ -8,7 +8,7 @@ title: Serena L. Wang - EECS at UC Berkeley
 
 <img src="img/serena.jpg" alt="Photo" class="rightside_image">
 
-I just received my PhD in Computer Science in May 2024 at [University of California, Berkeley](https://eecs.berkeley.edu/), advised by [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). Starting in fall 2024, I will be a postdoctoral fellow at Harvard's Center for Research on Computation and Society (CRCS), hosted by Ariel Procaccia. After that, I am excited to be joining the University of British Columbia as an assistant professor in computer science. 
+I just received my PhD in Electrical Engineering and Computer Science in May 2024 at the [University of California, Berkeley](https://eecs.berkeley.edu/), advised by [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). ** In fall 2024, I will be a postdoctoral fellow at [Harvard's Center for Research on Computation and Society (CRCS)](https://crcs.seas.harvard.edu/), hosted by [Ariel Procaccia](https://procaccia.info/). After that, I am excited to be joining the [University of British Columbia](https://www.cs.ubc.ca/) as an assistant professor of Computer Science. **
 
 I have also concurrently worked with [Google Research](https://research.google/people/SerenaLutongWang/) at 20% time for the last six years, where I have had the privilege of working with amazing mentors including [Ravi Kumar](https://sites.google.com/site/ravik53/), [Preston McAfee](https://mc4f.ee/), and [Maya Gupta](https://mayagupta.org/). My PhD research was supported by the Apple Scholars in AI/ML PhD Fellowship and the NSF Graduate Research Fellowship. 
 
