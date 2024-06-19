@@ -4,11 +4,18 @@ title: Research
 ---
 ### Preprints
 * Serena Wang, Michael I. Jordan, Katrina Ligett, Preston McAfee.
-**Information Elicitation in Agency Games.** *Manuscript in submission,* 2024. [[arXiv]](https://arxiv.org/abs/2402.14005)
+**Information Elicitation in Agency Games.** 2024. [[arXiv]](https://arxiv.org/abs/2402.14005)
 
-### Publications
+* Badih Ghazi, Ravi Kumar, Pasin Manurangsi, Serena Wang.
+**Differential Privacy on Trust Graphs.** *Foundations of Responsible Computing (FORC) (non-archival),* 2024.
+
+
+### Publications (chronological)
+* Anmol Kabra, Mina Karzand, Tosca Lechner, Nati Srebro, Serena Wang.
+**Score Design for Multi-Criteria Incentivization.** *Foundations of Responsible Computing (FORC),* 2024. [[paper]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FORC.2024.8)
+
 * Serena Wang, Stephen Bates, P. M. Aronow, Michael I. Jordan.
-**Operationalizing Counterfactual Metrics: Incentives, Ranking, and Information Asymmetry.** *To appear, International Conference on Artificial Intelligence and Statistics (AISTATS), **oral presentation***, 2024. [[arXiv]](https://arxiv.org/abs/2305.14595)
+**On Counterfactual Metrics for Social Welfare: Incentives, Ranking, and Information Asymmetry.** *International Conference on Artificial Intelligence and Statistics (AISTATS), **oral presentation***, 2024. [[paper]](https://proceedings.mlr.press/v238/wang24b/wang24b.pdf) [[arXiv]](https://arxiv.org/abs/2305.14595)
 
 * Serena Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, Michal Lukasik, Aditya Krishna Menon.
 **Robust Distillation for Worst-class Performance: On the Interplay Between Teacher and Student Objectives.** *Conference on Uncertainty in Artificial Intelligence (UAI),* 2023. [[paper]](https://proceedings.mlr.press/v216/wang23e.html)[[arXiv]](https://arxiv.org/abs/2206.06479)  
@@ -58,6 +65,8 @@ title: Research
 * Serena Wang. **Predicting the Performance of Automatically Scalable Computation (ASC).** *Harvard University Undergraduate Thesis,* 2016. [[paper]](https://dash.harvard.edu/handle/1/38811450) 
 
 ### Talks
+* UBC Centre for Artificial Intelligence Decision-making and Action (CAIDA). *Operationalizing Counterfactual Metrics: Incentives, Ranking, and Information Asymmetry*, November 30, 2023 [[video]](https://www.youtube.com/watch?v=XLgxRtTkB2U&ab_channel=UBCCAIDA)
+
 * Penn State Center for Socially Responsible AI Young Achievers Symposium. *Bridging Gaps Between Metrics and Goals to Improve Societal Impacts of ML*, April 20, 2023 [[link]](https://csrai.psu.edu/initiatives/young-achievers)
 
 * Simons Institute, AI and Humanity Summer Cluster Talk. *Reimagining the Machine Learning Life Cycle in Education*, July 15, 2022 [[link]](https://simons.berkeley.edu/talks/tbd-454)
