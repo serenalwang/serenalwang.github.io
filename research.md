@@ -10,7 +10,7 @@ title: Research
 **Differential Privacy on Trust Graphs.** *Foundations of Responsible Computing (FORC) (non-archival),* 2024.
 
 
-### Publications (chronological)
+### Publications
 * Anmol Kabra, Mina Karzand, Tosca Lechner, Nati Srebro, Serena Wang.
 **Score Design for Multi-Criteria Incentivization.** *Foundations of Responsible Computing (FORC),* 2024. [[paper]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FORC.2024.8)
 
@@ -59,6 +59,8 @@ title: Research
 **Shape Constraints for Set Functions.** *Proceedings of the 36th International Conference on Machine Learning (ICML),* 2019. [[paper]](http://proceedings.mlr.press/v97/cotter19a/cotter19a.pdf) 
 
 ### Workshops and Technical Reports
+* Serena Wang. **Bridging Gaps Between Metrics and Social Outcomes in Multi-Stakeholder Machine Learning.** *PhD Thesis, University of California, Berkeley* 2024. [[paper]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2024/EECS-2024-67.html)
+
 * Wenshuo Guo, Mihaela Curmei, Serena Wang, Benjamin Recht, Michael I. Jordan.
 **Finding Equilibrium in Multi-Agent Games with Payoff Uncertainty.** *ICML Workshop on Theoretical Foundations of Reinforcement Learning,* 2020. [[arXiv]](https://arxiv.org/abs/2007.05647) [[video]](https://www.youtube.com/watch?v=Gyen7CMiRHo&feature=youtu.be) 
 

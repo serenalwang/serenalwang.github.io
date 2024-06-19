@@ -19,4 +19,13 @@ Email: `serenalwang (at) berkeley.edu`
 ### News
 - **February 26-27, AAAI 2024**: Co-organized the [Workshop on AI for Education: Bridging Innovation and Responsibility](https://ai4ed.cc/workshops/aaai2024) at AAAI 2024. Many thanks to the amazing co-organizers, speakers, and participants! 
 
+### Selected Publications
+
+* Serena Wang, Stephen Bates, P. M. Aronow, Michael I. Jordan.
+**On Counterfactual Metrics for Social Welfare: Incentives, Ranking, and Information Asymmetry.** *International Conference on Artificial Intelligence and Statistics (AISTATS), **oral presentation***, 2024. [[paper]](https://proceedings.mlr.press/v238/wang24b/wang24b.pdf) [[arXiv]](https://arxiv.org/abs/2305.14595)
+
+* Lydia Liu<sup>\*</sup>, Serena Wang<sup>\*</sup>, Tolani Britton<sup><span>&#8224;</span></sup>,  Rediet Abebe<sup><span>&#8224;</span></sup>. **Reimagining the Machine Learning Life Cycle to Improve Educational Outcomes of Students.** *Proceedings of the National Academy of Sciences (PNAS),* 2023.  (*<sup>\*</sup>equal contribution, <sup><span>&#8224;</span></sup>equal contribution*)[[paper]](https://www.pnas.org/doi/10.1073/pnas.2204781120)[[arXiv]](https://arxiv.org/abs/2209.03929)
+
+* Serena Wang<sup>\*</sup>, Wenshuo Guo<sup>\*</sup>, Harikrishna Narasimhan, Andrew Cotter, Maya R. Gupta, Michael I. Jordan.
+**Robust Optimization for Fairness with Noisy Protected Groups.** *34th Conference on Neural Information Processing Systems (NeurIPS),* 2020. (*<sup>\*</sup>equal contribution*) [[paper]](https://proceedings.neurips.cc//paper/2020/file/37d097caf1299d9aa79c2c2b843d2d78-Paper.pdf) 
 
