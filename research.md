@@ -4,7 +4,7 @@ title: Research
 ---
 ### Preprints
 * Serena Wang, Michael I. Jordan, Katrina Ligett, Preston McAfee.
-**Information Elicitation in Agency Games.** 2024. [[arXiv]](https://arxiv.org/abs/2402.14005)
+**Relying on the Metrics of Evaluated Agents.** 2024. [[arXiv]](https://arxiv.org/abs/2402.14005)
 
 * Badih Ghazi, Ravi Kumar, Pasin Manurangsi, Serena Wang.
 **Differential Privacy on Trust Graphs.** *Foundations of Responsible Computing (FORC) (non-archival),* 2024.
