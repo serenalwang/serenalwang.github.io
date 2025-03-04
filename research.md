@@ -3,7 +3,7 @@ layout: default
 title: Research
 ---
 ### Preprints
-* Serena Wang, Martino Banchio, Krzysztof Kotowicz, Katrina Ligett, Preston McAfee, Eduardo' Vela" Nava.*
+* Serena Wang, Martino Banchio, Krzysztof Kotowicz, Katrina Ligett, Preston McAfee, Eduardo' Vela" Nava.
 **Incentives and Outcomes in Bug Bounties.** 2025. *In submission.*
 
 ### Publications
