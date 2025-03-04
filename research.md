@@ -3,14 +3,16 @@ layout: default
 title: Research
 ---
 ### Preprints
-* Serena Wang, Michael I. Jordan, Katrina Ligett, Preston McAfee.
-**Relying on the Metrics of Evaluated Agents.** 2024. [[arXiv]](https://arxiv.org/abs/2402.14005)
-
-* Badih Ghazi, Ravi Kumar, Pasin Manurangsi, Serena Wang.
-**Differential Privacy on Trust Graphs.** *Foundations of Responsible Computing (FORC) (non-archival),* 2024.
-
+* Serena Wang, Martino Banchio, Krzysztof Kotowicz, Katrina Ligett, Preston McAfee, Eduardo' Vela" Nava.*
+**Incentives and Outcomes in Bug Bounties.** 2025. *In submission.*
 
 ### Publications
+* Serena Wang, Michael I. Jordan, Katrina Ligett, Preston McAfee.
+**Relying on the Metrics of Evaluated Agents.** *To appear, International World Wide Web Conference (WWW),* 2025. [[arXiv]](https://arxiv.org/abs/2402.14005)
+
+* Badih Ghazi, Ravi Kumar, Pasin Manurangsi, Serena Wang.
+**Differential Privacy on Trust Graphs.** *Innovations in Theoretical Computer Science Conference (ITCS),* 2025. [[paper]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2025.53) [[arXiv]](https://arxiv.org/abs/2410.12045)
+
 * Anmol Kabra, Mina Karzand, Tosca Lechner, Nati Srebro, Serena Wang.
 **Score Design for Multi-Criteria Incentivization.** *Foundations of Responsible Computing (FORC),* 2024. [[paper]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FORC.2024.8)
 
