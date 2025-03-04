@@ -8,7 +8,7 @@ title: Research
 
 ### Publications
 * Serena Wang, Michael I. Jordan, Katrina Ligett, Preston McAfee.
-**Relying on the Metrics of Evaluated Agents.** *To appear, International World Wide Web Conference (WWW),* 2025. [[arXiv]](https://arxiv.org/abs/2402.14005)
+**Relying on the Metrics of Evaluated Agents.** *To appear, The ACM Web Conference (WWW),* 2025. [[arXiv]](https://arxiv.org/abs/2402.14005)
 
 * Badih Ghazi, Ravi Kumar, Pasin Manurangsi, Serena Wang.
 **Differential Privacy on Trust Graphs.** *Innovations in Theoretical Computer Science Conference (ITCS),* 2025. [[paper]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2025.53) [[arXiv]](https://arxiv.org/abs/2410.12045)
