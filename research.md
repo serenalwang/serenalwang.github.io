@@ -26,7 +26,7 @@ title: Research
 
 
 * Taman Narayan, Serena Wang, Kevin Canini, Maya R. Gupta.
-**Expected Pinball Loss For Quantile Regression And Inverse CDF Estimation.** *To appear, Transactions on Machine Learning Research (TMLR)* 2023. [[arXiv]](https://arxiv.org/abs/2102.05135)
+**Expected Pinball Loss For Quantile Regression And Inverse CDF Estimation.** *Transactions on Machine Learning Research (TMLR)* 2023. [[paper]](https://openreview.net/pdf?id=Eg8Rnb0Hdd) [[arXiv]](https://arxiv.org/abs/2102.05135)
 
 * Wenshuo Guo<sup>\*</sup>, Serena Wang<sup>\*</sup>, Peng Ding, Yixin Wang, Michael I. Jordan.
 **Multi-Source Causal Inference Using Control Variates under Outcome Selection Bias.** *Transactions on Machine Learning Research (TMLR),* 2022. (*<sup>\*</sup>equal contribution*) [[paper]](https://openreview.net/pdf?id=CrimIjBa64)[[arXiv]](https://arxiv.org/abs/2103.16689) [[code]](https://github.com/serenalwang/multisource-causal-public)
