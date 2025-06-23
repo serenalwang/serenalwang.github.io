@@ -15,7 +15,7 @@ title: Research
 
 ### Publications
 * Serena Wang, Michael I. Jordan, Katrina Ligett, Preston McAfee.
-**Relying on the Metrics of Evaluated Agents.** *The ACM Web Conference (WWW), **oral presentation**,* 2025. [[paper]](https://dl.acm.org/doi/10.1145/3696410.3714864) [[arXiv]](https://arxiv.org/abs/2402.14005) [[poster]](https://drive.google.com/file/d/1iT8-Nygx1qGs4cQci2wEesXsFOl1X4Vt/view?usp=sharing)
+**Relying on the Metrics of Evaluated Agents.** *The ACM Web Conference (WWW), **oral presentation (8% of submissions)**,* 2025. [[paper]](https://dl.acm.org/doi/10.1145/3696410.3714864) [[arXiv]](https://arxiv.org/abs/2402.14005) [[poster]](https://drive.google.com/file/d/1iT8-Nygx1qGs4cQci2wEesXsFOl1X4Vt/view?usp=sharing)
 
 * Badih Ghazi, Ravi Kumar, Pasin Manurangsi, Serena Wang.
 **Differential Privacy on Trust Graphs.** *Innovations in Theoretical Computer Science Conference (ITCS),* 2025. [[paper]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2025.53) [[arXiv]](https://arxiv.org/abs/2410.12045) [[Google Research blog]](https://research.google/blog/differential-privacy-on-trust-graphs/)
@@ -27,7 +27,7 @@ title: Research
 **Score Design for Multi-Criteria Incentivization.** *Foundations of Responsible Computing (FORC),* 2024. [[paper]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FORC.2024.8)
 
 * Serena Wang, Stephen Bates, P. M. Aronow, Michael I. Jordan.
-**On Counterfactual Metrics for Social Welfare: Incentives, Ranking, and Information Asymmetry.** *International Conference on Artificial Intelligence and Statistics (AISTATS), **oral presentation**,* 2024. [[paper]](https://proceedings.mlr.press/v238/wang24b/wang24b.pdf) [[arXiv]](https://arxiv.org/abs/2305.14595) [[poster]](https://drive.google.com/file/d/1B8TXS7KhXgkqYZC-65ycmnuzegWOhPnV/view?usp=sharing)
+**On Counterfactual Metrics for Social Welfare: Incentives, Ranking, and Information Asymmetry.** *International Conference on Artificial Intelligence and Statistics (AISTATS), **oral presentation (2% of submissions)**,* 2024. [[paper]](https://proceedings.mlr.press/v238/wang24b/wang24b.pdf) [[arXiv]](https://arxiv.org/abs/2305.14595) [[poster]](https://drive.google.com/file/d/1B8TXS7KhXgkqYZC-65ycmnuzegWOhPnV/view?usp=sharing)
 
 * Serena Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, Michal Lukasik, Aditya Krishna Menon.
 **Robust Distillation for Worst-class Performance: On the Interplay Between Teacher and Student Objectives.** *Conference on Uncertainty in Artificial Intelligence (UAI),* 2023. [[paper]](https://proceedings.mlr.press/v216/wang23e.html)[[arXiv]](https://arxiv.org/abs/2206.06479)  
