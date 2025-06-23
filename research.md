@@ -3,21 +3,28 @@ layout: default
 title: Research
 ---
 ### Preprints
+
+* Ariel Procaccia, Benjamin Schiffer, Serena Wang, Shirley Zhang. 
+**Metritocracy: Representative Metrics for Lite Benchmarks.** 2025. *In submission.* [[arXiv]](https://arxiv.org/abs/2506.09813)
+
+* Srikanth Avasarala, Serena Wang, Juba Ziani. 
+**The Disparate Effects of Partial Information in Bayesian Strategic Learning.** 2025. *In submission.* [[arXiv]](https://arxiv.org/abs/2506.00627)
+
 * Serena Wang, Martino Banchio, Krzysztof Kotowicz, Katrina Ligett, Preston McAfee, Eduardo' Vela" Nava.
-**Incentives and Outcomes in Bug Bounties.** 2025. *In submission.*
+**Incentives and Outcomes in Bug Bounties.** 2025.
 
 ### Publications
 * Serena Wang, Michael I. Jordan, Katrina Ligett, Preston McAfee.
-**Relying on the Metrics of Evaluated Agents.** *To appear, The ACM Web Conference (WWW),* 2025. [[arXiv]](https://arxiv.org/abs/2402.14005)
+**Relying on the Metrics of Evaluated Agents.** *The ACM Web Conference (WWW), **oral presentation**,* 2025. [[arXiv]](https://arxiv.org/abs/2402.14005) [[paper]](https://dl.acm.org/doi/10.1145/3696410.3714864) [[poster]](https://drive.google.com/file/d/1iT8-Nygx1qGs4cQci2wEesXsFOl1X4Vt/view?usp=sharing)
 
 * Badih Ghazi, Ravi Kumar, Pasin Manurangsi, Serena Wang.
-**Differential Privacy on Trust Graphs.** *Innovations in Theoretical Computer Science Conference (ITCS),* 2025. [[paper]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2025.53) [[arXiv]](https://arxiv.org/abs/2410.12045)
+**Differential Privacy on Trust Graphs.** *Innovations in Theoretical Computer Science Conference (ITCS),* 2025. [[paper]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2025.53) [[arXiv]](https://arxiv.org/abs/2410.12045) [[Google Research blog]](https://research.google/blog/differential-privacy-on-trust-graphs/)
 
 * Anmol Kabra, Mina Karzand, Tosca Lechner, Nati Srebro, Serena Wang.
 **Score Design for Multi-Criteria Incentivization.** *Foundations of Responsible Computing (FORC),* 2024. [[paper]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FORC.2024.8)
 
 * Serena Wang, Stephen Bates, P. M. Aronow, Michael I. Jordan.
-**On Counterfactual Metrics for Social Welfare: Incentives, Ranking, and Information Asymmetry.** *International Conference on Artificial Intelligence and Statistics (AISTATS), **oral presentation***, 2024. [[paper]](https://proceedings.mlr.press/v238/wang24b/wang24b.pdf) [[arXiv]](https://arxiv.org/abs/2305.14595)
+**On Counterfactual Metrics for Social Welfare: Incentives, Ranking, and Information Asymmetry.** *International Conference on Artificial Intelligence and Statistics (AISTATS), **oral presentation**,* 2024. [[paper]](https://proceedings.mlr.press/v238/wang24b/wang24b.pdf) [[arXiv]](https://arxiv.org/abs/2305.14595) [[poster]](https://drive.google.com/file/d/1B8TXS7KhXgkqYZC-65ycmnuzegWOhPnV/view?usp=sharing)
 
 * Serena Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, Michal Lukasik, Aditya Krishna Menon.
 **Robust Distillation for Worst-class Performance: On the Interplay Between Teacher and Student Objectives.** *Conference on Uncertainty in Artificial Intelligence (UAI),* 2023. [[paper]](https://proceedings.mlr.press/v216/wang23e.html)[[arXiv]](https://arxiv.org/abs/2206.06479)  
