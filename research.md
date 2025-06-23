@@ -15,10 +15,13 @@ title: Research
 
 ### Publications
 * Serena Wang, Michael I. Jordan, Katrina Ligett, Preston McAfee.
-**Relying on the Metrics of Evaluated Agents.** *The ACM Web Conference (WWW), **oral presentation**,* 2025. [[arXiv]](https://arxiv.org/abs/2402.14005) [[paper]](https://dl.acm.org/doi/10.1145/3696410.3714864) [[poster]](https://drive.google.com/file/d/1iT8-Nygx1qGs4cQci2wEesXsFOl1X4Vt/view?usp=sharing)
+**Relying on the Metrics of Evaluated Agents.** *The ACM Web Conference (WWW), **oral presentation**,* 2025. [[paper]](https://dl.acm.org/doi/10.1145/3696410.3714864) [[arXiv]](https://arxiv.org/abs/2402.14005) [[poster]](https://drive.google.com/file/d/1iT8-Nygx1qGs4cQci2wEesXsFOl1X4Vt/view?usp=sharing)
 
 * Badih Ghazi, Ravi Kumar, Pasin Manurangsi, Serena Wang.
 **Differential Privacy on Trust Graphs.** *Innovations in Theoretical Computer Science Conference (ITCS),* 2025. [[paper]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2025.53) [[arXiv]](https://arxiv.org/abs/2410.12045) [[Google Research blog]](https://research.google/blog/differential-privacy-on-trust-graphs/)
+
+* Austin Jang, Molly Offer-Westort, Serena Wang, P. M. Aronow.
+**Gnostic Notes on Temporal Validity.** *Research & Politics,* 2024. [[paper]](https://journals.sagepub.com/doi/10.1177/20531680241307942)
 
 * Anmol Kabra, Mina Karzand, Tosca Lechner, Nati Srebro, Serena Wang.
 **Score Design for Multi-Criteria Incentivization.** *Foundations of Responsible Computing (FORC),* 2024. [[paper]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FORC.2024.8)
@@ -29,14 +32,14 @@ title: Research
 * Serena Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, Michal Lukasik, Aditya Krishna Menon.
 **Robust Distillation for Worst-class Performance: On the Interplay Between Teacher and Student Objectives.** *Conference on Uncertainty in Artificial Intelligence (UAI),* 2023. [[paper]](https://proceedings.mlr.press/v216/wang23e.html)[[arXiv]](https://arxiv.org/abs/2206.06479)  
 
-* Lydia Liu<sup>\*</sup>, Serena Wang<sup>\*</sup>, Tolani Britton<sup><span>&#8224;</span></sup>,  Rediet Abebe<sup><span>&#8224;</span></sup>. **Reimagining the Machine Learning Life Cycle to Improve Educational Outcomes of Students.** *Proceedings of the National Academy of Sciences (PNAS),* 2023.  (*<sup>\*</sup>equal contribution, <sup><span>&#8224;</span></sup>equal contribution*)[[paper]](https://www.pnas.org/doi/10.1073/pnas.2204781120)[[arXiv]](https://arxiv.org/abs/2209.03929)
+* Lydia Liu<sup>\*</sup>, Serena Wang<sup>\*</sup>, Tolani Britton<sup><span>&#8224;</span></sup>,  Rediet Abebe<sup><span>&#8224;</span></sup>. **Reimagining the Machine Learning Life Cycle to Improve Educational Outcomes of Students.** *Proceedings of the National Academy of Sciences (PNAS),* 2023.  (*<sup>\*</sup>equal contribution, <sup><span>&#8224;</span></sup>equal contribution*)[[paper]](https://www.pnas.org/doi/10.1073/pnas.2204781120) [[arXiv]](https://arxiv.org/abs/2209.03929)
 
 
 * Taman Narayan, Serena Wang, Kevin Canini, Maya R. Gupta.
 **Expected Pinball Loss For Quantile Regression And Inverse CDF Estimation.** *Transactions on Machine Learning Research (TMLR)* 2023. [[paper]](https://openreview.net/pdf?id=Eg8Rnb0Hdd) [[arXiv]](https://arxiv.org/abs/2102.05135)
 
 * Wenshuo Guo<sup>\*</sup>, Serena Wang<sup>\*</sup>, Peng Ding, Yixin Wang, Michael I. Jordan.
-**Multi-Source Causal Inference Using Control Variates under Outcome Selection Bias.** *Transactions on Machine Learning Research (TMLR),* 2022. (*<sup>\*</sup>equal contribution*) [[paper]](https://openreview.net/pdf?id=CrimIjBa64)[[arXiv]](https://arxiv.org/abs/2103.16689) [[code]](https://github.com/serenalwang/multisource-causal-public)
+**Multi-Source Causal Inference Using Control Variates under Outcome Selection Bias.** *Transactions on Machine Learning Research (TMLR),* 2022. (*<sup>\*</sup>equal contribution*) [[paper]](https://openreview.net/pdf?id=CrimIjBa64) [[arXiv]](https://arxiv.org/abs/2103.16689) [[code]](https://github.com/serenalwang/multisource-causal-public)
 
 * Ghassen Jerfel<sup>\*</sup>, Serena Wang<sup>\*</sup>, Clara Wong-Fannjiang, Katherine A. Heller, Yian Ma, Michael I. Jordan.
 **Variational Refinement for Importance Sampling Using the Forward Kullback-Leibler Divergence.** *Conference on Uncertainty in Artificial Intelligence (UAI),* 2021. (*<sup>\*</sup>equal contribution*) [[paper]](https://proceedings.mlr.press/v161/jerfel21a/jerfel21a.pdf)
