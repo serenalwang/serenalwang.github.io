@@ -16,7 +16,7 @@ My research focuses on understanding and improving the long term societal impact
 
 <!-- gaps between metrics and goals, and how those gaps may be bridged through algorithmic improvements, analysis of multi-agent incentives and interdependence, and better understanding of intervention context.  -->
 
-<b>I am recuriting PhD and masters students applying in Fall 2025 to start in 2026. </b> If you're interested in working with me, please apply through [UBC Computer Science](https://www.cs.ubc.ca/students/grad/admissions) and list my name in your application (for this year, please write my name in directly under "other faculty"). I'm happy to answer questions about the process by email.
+<b>I am recuriting PhD and masters students applying in Fall 2025 to start in 2026. </b> If you're interested in working with me, please apply through [UBC Computer Science](https://www.cs.ubc.ca/students/grad/admissions) and list my name in your application (for this year, please write my name in directly under "other faculty").
 
 Email: `serenalwang (at) g.harvard.edu`
 
