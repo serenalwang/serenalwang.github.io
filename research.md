@@ -5,7 +5,7 @@ title: Research
 ### Preprints
 
 * Ariel Procaccia, Benjamin Schiffer, Serena Wang, Shirley Zhang. 
-<b>Metritocracy: Representative Metrics for Lite Benchmarks.<b> 2025. *To appear, NeurIPS 2025.* [[arXiv]](https://arxiv.org/abs/2506.09813)
+<b>Metritocracy: Representative Metrics for Lite Benchmarks.</b> 2025. *To appear, NeurIPS 2025.* [[arXiv]](https://arxiv.org/abs/2506.09813)
 
 * Srikanth Avasarala, Serena Wang, Juba Ziani. 
 **The Disparate Effects of Partial Information in Bayesian Strategic Learning.** 2025. *To appear, AIES 2025.* [[arXiv]](https://arxiv.org/abs/2506.00627)
