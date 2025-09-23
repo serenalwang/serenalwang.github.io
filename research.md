@@ -5,13 +5,13 @@ title: Research
 ### Preprints
 
 * Ariel Procaccia, Benjamin Schiffer, Serena Wang, Shirley Zhang. 
-**Metritocracy: Representative Metrics for Lite Benchmarks.** 2025. *To appear, NeurIPS 2025.* [[arXiv]](https://arxiv.org/abs/2506.09813)
+**Metritocracy: Representative Metrics for Lite Benchmarks.** *To appear, NeurIPS,* 2025. [[arXiv]](https://arxiv.org/abs/2506.09813)
 
 * Srikanth Avasarala, Serena Wang, Juba Ziani. 
-**The Disparate Effects of Partial Information in Bayesian Strategic Learning.** 2025. *To appear, AIES 2025.* [[arXiv]](https://arxiv.org/abs/2506.00627)
+**The Disparate Effects of Partial Information in Bayesian Strategic Learning.** *To appear, AIES,* 2025. [[arXiv]](https://arxiv.org/abs/2506.00627)
 
 * Serena Wang, Martino Banchio, Krzysztof Kotowicz, Katrina Ligett, Preston McAfee, Eduardo' Vela" Nava.
-**Incentives and Outcomes in Bug Bounties.** 2025. *In submission.* [[arXiv]](https://arxiv.org/abs/2509.16655)
+**Incentives and Outcomes in Bug Bounties.** *In submission,* 2025. [[arXiv]](https://arxiv.org/abs/2509.16655)
 
 ### Publications
 * Serena Wang, Michael I. Jordan, Katrina Ligett, Preston McAfee.
