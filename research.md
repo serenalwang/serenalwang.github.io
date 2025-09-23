@@ -70,15 +70,17 @@ title: Research
 * Andrew Cotter, Maya R. Gupta, Heinrich Jiang, Erez Louidor, James Muller, Taman Narayan, Serena Wang, Tao Zhu.
 **Shape Constraints for Set Functions.** *Proceedings of the 36th International Conference on Machine Learning (ICML),* 2019. [[paper]](http://proceedings.mlr.press/v97/cotter19a/cotter19a.pdf) 
 
-### Workshops and Technical Reports
+### Technical Reports
 * Serena Wang. **Bridging Gaps Between Metrics and Social Outcomes in Multi-Stakeholder Machine Learning.** *PhD Thesis, University of California, Berkeley* 2024. [[paper]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2024/EECS-2024-67.html)
+
+* Serena Wang. **Predicting the Performance of Automatically Scalable Computation (ASC).** *Harvard University Undergraduate Thesis,* 2016. [[paper]](https://dash.harvard.edu/handle/1/38811450) 
+
+### Workshop Proceedings
 
 * Wenshuo Guo, Mihaela Curmei, Serena Wang, Benjamin Recht, Michael I. Jordan.
 **Finding Equilibrium in Multi-Agent Games with Payoff Uncertainty.** *ICML Workshop on Theoretical Foundations of Reinforcement Learning,* 2020. [[arXiv]](https://arxiv.org/abs/2007.05647) [[video]](https://www.youtube.com/watch?v=Gyen7CMiRHo&feature=youtu.be) 
 
-* Serena Wang. **Predicting the Performance of Automatically Scalable Computation (ASC).** *Harvard University Undergraduate Thesis,* 2016. [[paper]](https://dash.harvard.edu/handle/1/38811450) 
-
-### Talks
+### Selected Talks
 * UBC Centre for Artificial Intelligence Decision-making and Action (CAIDA). *Operationalizing Counterfactual Metrics: Incentives, Ranking, and Information Asymmetry*, November 30, 2023 [[video]](https://www.youtube.com/watch?v=XLgxRtTkB2U&ab_channel=UBCCAIDA)
 
 * Penn State Center for Socially Responsible AI Young Achievers Symposium. *Bridging Gaps Between Metrics and Goals to Improve Societal Impacts of ML*, April 20, 2023 [[link]](https://csrai.psu.edu/initiatives/young-achievers)
