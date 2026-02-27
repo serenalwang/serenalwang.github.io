@@ -8,7 +8,7 @@ title: Research
 
 * Hadi Khalaf, Serena Wang<sup>\*</sup>, Daniel Halpern<sup>\*</sup>, Itai Shapira<sup>\*</sup>, Flavio du Pin Calmon, Ariel D. Procaccia. **Robust AI Evaluation through Maximal Lotteries.** *Working paper,* 2026. (*<sup>\*</sup>randomized order*) [[arXiv]](https://arxiv.org/abs/2602.21297) 
 
-* Nika Haghtalab, Ariel D. Procaccia, Han Shao, Serena Wang, Kunhe Yang. **Pluralistic Leaderboards.** *Working paper,* 2026. (*alphabetical order*) [[pdf]](https://procaccia.info/wp-content/uploads/20) 
+* Nika Haghtalab, Ariel D. Procaccia, Han Shao, Serena Wang, Kunhe Yang. **Pluralistic Leaderboards.** *Working paper,* 2026. (*alphabetical order*) [[pdf]](https://procaccia.info/wp-content/uploads/2026/01/leaderboard.pdf) 
 
 * Serena Wang, Martino Banchio, Krzysztof Kotowicz, Katrina Ligett, Preston McAfee, Eduardo' Vela" Nava.
 **Incentives and Outcomes in Bug Bounties.** *Working paper,* 2026. [[arXiv]](https://arxiv.org/abs/2509.16655)
