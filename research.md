@@ -4,16 +4,18 @@ title: Research
 ---
 ### Preprints
 
-* Ariel Procaccia, Benjamin Schiffer, Serena Wang, Shirley Zhang. 
-**Metritocracy: Representative Metrics for Lite Benchmarks.** *To appear, NeurIPS,* 2025. [[arXiv]](https://arxiv.org/abs/2506.09813)
-
-* Srikanth Avasarala, Serena Wang, Juba Ziani. 
-**The Disparate Effects of Partial Information in Bayesian Strategic Learning.** *To appear, AIES,* 2025. [[arXiv]](https://arxiv.org/abs/2506.00627)
+* Hadi Khalaf, Serena Wang, Daniel Halpern, Itai Shapira, Flavio du Pin Calmon, Ariel D. Procaccia. **Robust AI Evaluation through Maximal Lotteries.** *In submission,* 2026. [[arXiv]](https://arxiv.org/abs/2602.21297)
 
 * Serena Wang, Martino Banchio, Krzysztof Kotowicz, Katrina Ligett, Preston McAfee, Eduardo' Vela" Nava.
-**Incentives and Outcomes in Bug Bounties.** *In submission,* 2025. [[arXiv]](https://arxiv.org/abs/2509.16655)
+**Incentives and Outcomes in Bug Bounties.** *In submission,* 2026. [[arXiv]](https://arxiv.org/abs/2509.16655)
 
 ### Publications
+* Ariel Procaccia, Benjamin Schiffer, Serena Wang, Shirley Zhang. 
+**Metritocracy: Representative Metrics for Lite Benchmarks.** *Advances in Neural Information Processing Systems (NeurIPS),* 2025. [[arXiv]](https://arxiv.org/abs/2506.09813)
+
+* Srikanth Avasarala, Serena Wang, Juba Ziani. 
+**The Disparate Effects of Partial Information in Bayesian Strategic Learning.** *AAAI/ACM Conference on AI, Ethics, and Society (AIES),* 2025. [[arXiv]](https://arxiv.org/abs/2506.00627)
+
 * Serena Wang, Michael I. Jordan, Katrina Ligett, Preston McAfee.
 **Relying on the Metrics of Evaluated Agents.** *The ACM Web Conference (WWW), **oral presentation (8% of submissions)**,* 2025. [[paper]](https://dl.acm.org/doi/10.1145/3696410.3714864) [[arXiv]](https://arxiv.org/abs/2402.14005) [[poster]](https://drive.google.com/file/d/1iT8-Nygx1qGs4cQci2wEesXsFOl1X4Vt/view?usp=sharing)
 
@@ -49,11 +51,11 @@ title: Research
 **Quit When You Can: Efficient Evaluation of Ensembles with Ordering Optimization.** *ACM Journal on Emerging Technologies in Computing Systems (JETC),* 2021. [[paper]](https://dl.acm.org/doi/10.1145/3451209)
 
 * Serena Wang<sup>\*</sup>, Wenshuo Guo<sup>\*</sup>, Harikrishna Narasimhan, Andrew Cotter, Maya R. Gupta, Michael I. Jordan.
-**Robust Optimization for Fairness with Noisy Protected Groups.** *34th Conference on Neural Information Processing Systems (NeurIPS),* 2020. (*<sup>\*</sup>equal contribution*) [[paper]](https://proceedings.neurips.cc//paper/2020/file/37d097caf1299d9aa79c2c2b843d2d78-Paper.pdf) 
+**Robust Optimization for Fairness with Noisy Protected Groups.** *Advances in Neural Information Processing Systems (NeurIPS),* 2020. (*<sup>\*</sup>equal contribution*) [[paper]](https://proceedings.neurips.cc//paper/2020/file/37d097caf1299d9aa79c2c2b843d2d78-Paper.pdf) 
 
 
 * Harikrishna Narasimhan, Andrew Cotter, Yichen Zhou, Serena Wang, Wenshuo Guo.
-**Approximate Heavily-Constrained Learning with Lagrange Multiplier Models.** *34th Conference on Neural Information Processing Systems (NeurIPS),* 2020. [[paper]](https://proceedings.neurips.cc/paper/2020/hash/62db9e3397c76207a687c360e0243317-Abstract.html)
+**Approximate Heavily-Constrained Learning with Lagrange Multiplier Models.** *Advances in Neural Information Processing Systems (NeurIPS),* 2020. [[paper]](https://proceedings.neurips.cc/paper/2020/hash/62db9e3397c76207a687c360e0243317-Abstract.html)
 
 * Serena Wang, Maya R. Gupta.
 **Deontological Ethics By Monotonicity Shape Constraints.** *Proceedings of The 23nd International Conference on Artificial Intelligence and Statistics (AISTATS),* 2020. [[paper]](http://proceedings.mlr.press/v108/wang20e.html) [[tensorflow tutorial]](https://www.tensorflow.org/lattice/tutorials/shape_constraints_for_ethics) [[video]](https://slideslive.com/38930135/deontological-ethics-by-monotonicity-shape-constraints)
