@@ -4,18 +4,18 @@ title: Research
 ---
 ### Preprints
 
-* Carter Blair, Jakob de Raaij, Ariel D. Procaccia, Maxon Rubin-Toles, Nisarg Shah, Michelle Si, Serena Wang. **The Structure of Bridging.** *Working paper,* 2026. (*alphabetal order*) [[pdf]](https://procaccia.info/wp-content/uploads/2026/02/bridging.pdf) 
+* Carter Blair, Jakob de Raaij, Ariel D. Procaccia, Maxon Rubin-Toles, Nisarg Shah, Michelle Si, Serena Wang. **The Structure of Bridging.** *Working paper,* 2026. (*alphabetical order*) [[pdf]](https://procaccia.info/wp-content/uploads/2026/02/bridging.pdf) 
 
 * Hadi Khalaf, Serena Wang<sup>\*</sup>, Daniel Halpern<sup>\*</sup>, Itai Shapira<sup>\*</sup>, Flavio du Pin Calmon, Ariel D. Procaccia. **Robust AI Evaluation through Maximal Lotteries.** *Working paper,* 2026. (*<sup>\*</sup>randomized order*) [[arXiv]](https://arxiv.org/abs/2602.21297) 
 
-* Nika Haghtalab, Ariel D. Procaccia, Han Shao, Serena Wang, Kunhe Yang. **Pluralistic Leaderboards.** *Working paper,* 2026. (*alphabetal order*) [[pdf]](https://procaccia.info/wp-content/uploads/20) 
+* Nika Haghtalab, Ariel D. Procaccia, Han Shao, Serena Wang, Kunhe Yang. **Pluralistic Leaderboards.** *Working paper,* 2026. (*alphabetical order*) [[pdf]](https://procaccia.info/wp-content/uploads/20) 
 
 * Serena Wang, Martino Banchio, Krzysztof Kotowicz, Katrina Ligett, Preston McAfee, Eduardo' Vela" Nava.
 **Incentives and Outcomes in Bug Bounties.** *Working paper,* 2026. [[arXiv]](https://arxiv.org/abs/2509.16655)
 
 ### Publications
 * Ariel D. Procaccia, Benjamin Schiffer, Serena Wang, Shirley Zhang. 
-**Metritocracy: Representative Metrics for Lite Benchmarks.** *Advances in Neural Information Processing Systems (NeurIPS),* 2025. (*alphabetal order*) [[arXiv]](https://arxiv.org/abs/2506.09813)
+**Metritocracy: Representative Metrics for Lite Benchmarks.** *Advances in Neural Information Processing Systems (NeurIPS),* 2025. (*alphabetical order*) [[arXiv]](https://arxiv.org/abs/2506.09813)
 
 * Srikanth Avasarala, Serena Wang, Juba Ziani. 
 **The Disparate Effects of Partial Information in Bayesian Strategic Learning.** *AAAI/ACM Conference on AI, Ethics, and Society (AIES),* 2025. [[arXiv]](https://arxiv.org/abs/2506.00627)
@@ -24,7 +24,7 @@ title: Research
 **Relying on the Metrics of Evaluated Agents.** *The ACM Web Conference (WWW), **oral presentation (8% of submissions)**,* 2025. [[paper]](https://dl.acm.org/doi/10.1145/3696410.3714864) [[arXiv]](https://arxiv.org/abs/2402.14005) [[poster]](https://drive.google.com/file/d/1iT8-Nygx1qGs4cQci2wEesXsFOl1X4Vt/view?usp=sharing)
 
 * Badih Ghazi, Ravi Kumar, Pasin Manurangsi, Serena Wang.
-**Differential Privacy on Trust Graphs.** *Innovations in Theoretical Computer Science Conference (ITCS),* 2025. (*alphabetal order*) [[paper]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2025.53) [[arXiv]](https://arxiv.org/abs/2410.12045) [[Google Research blog]](https://research.google/blog/differential-privacy-on-trust-graphs/)
+**Differential Privacy on Trust Graphs.** *Innovations in Theoretical Computer Science Conference (ITCS),* 2025. (*alphabetical order*) [[paper]](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ITCS.2025.53) [[arXiv]](https://arxiv.org/abs/2410.12045) [[Google Research blog]](https://research.google/blog/differential-privacy-on-trust-graphs/)
 
 * Austin Jang, Molly Offer-Westort, Serena Wang, P. M. Aronow.
 **Gnostic Notes on Temporal Validity.** *Research & Politics,* 2024. [[paper]](https://journals.sagepub.com/doi/10.1177/20531680241307942)
