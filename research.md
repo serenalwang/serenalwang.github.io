@@ -4,16 +4,25 @@ title: Research
 ---
 ### Preprints
 
-* Carter Blair, Jakob de Raaij, Ariel D. Procaccia, Maxon Rubin-Toles, Nisarg Shah, Michelle Si, Serena Wang. **The Structure of Bridging.** *Working paper,* 2026. (*alphabetical order*) [[pdf]](https://procaccia.info/wp-content/uploads/2026/02/bridging.pdf) 
+* Jivat Neet Kaur, Pratik Patil, Divya M Shanmugam, Emma Pierson, Michael I. Jordan, Nika Haghtalab, Meena Jagadeesan, Ahmed Alaa, Serena Wang.
+**Strategic Feature Selection.** *In submission,* 2026. [[arXiv]](https://arxiv.org/abs/2606.18867)
 
-* Hadi Khalaf, Serena Wang<sup>\*</sup>, Daniel Halpern<sup>\*</sup>, Itai Shapira<sup>\*</sup>, Flavio du Pin Calmon, Ariel D. Procaccia. **Robust AI Evaluation through Maximal Lotteries.** *Working paper,* 2026. (*<sup>\*</sup>randomized order*) [[arXiv]](https://arxiv.org/abs/2602.21297) 
+* Sang Truong, Serena Wang, Nick Haber, Sanmi Koyejo.
+**Strategic Evaluation: Incentivizing AI Capability Coverage with Private Benchmarks.** *In submission,* 2026.
 
-* Nika Haghtalab, Ariel D. Procaccia, Han Shao, Serena Wang, Kunhe Yang. **Pluralistic Leaderboards.** *Working paper,* 2026. (*alphabetical order*) [[pdf]](https://procaccia.info/wp-content/uploads/2026/01/leaderboard.pdf) 
+*  Yash Dave, Sang Truong, Serena Wang, Sanmi Koyejo.
+**The AI Evaluation Ecosystem.** *In submission,* 2026.
 
 * Serena Wang, Martino Banchio, Krzysztof Kotowicz, Katrina Ligett, Preston McAfee, Eduardo' Vela" Nava.
 **Incentives and Outcomes in Bug Bounties.** *Working paper,* 2026. [[arXiv]](https://arxiv.org/abs/2509.16655)
 
 ### Publications
+* Carter Blair, Jakob de Raaij, Ariel D. Procaccia, Maxon Rubin-Toles, Nisarg Shah, Michelle Si, Serena Wang. **The Structure of Bridging.** *ACM Conference on Economics and Computation (EC),* 2026. (*alphabetical order*) [[pdf]](https://procaccia.info/wp-content/uploads/2026/02/bridging.pdf) 
+
+* Hadi Khalaf, Serena Wang<sup>\*</sup>, Daniel Halpern<sup>\*</sup>, Itai Shapira<sup>\*</sup>, Flavio du Pin Calmon, Ariel D. Procaccia. **Robust AI Evaluation through Maximal Lotteries.** *International Conference on Machine Learning (ICML),* 2026. (*<sup>\*</sup>randomized order*) [[arXiv]](https://arxiv.org/abs/2602.21297) 
+
+* Nika Haghtalab, Ariel D. Procaccia, Han Shao, Serena Wang, Kunhe Yang. **Pluralistic Leaderboards.** *International Conference on Machine Learning (ICML),* 2026. (*alphabetical order*) [[pdf]](https://procaccia.info/wp-content/uploads/2026/01/leaderboard.pdf) 
+
 * Ariel D. Procaccia, Benjamin Schiffer, Serena Wang, Shirley Zhang. 
 **Metritocracy: Representative Metrics for Lite Benchmarks.** *Advances in Neural Information Processing Systems (NeurIPS),* 2025. (*alphabetical order*) [[arXiv]](https://arxiv.org/abs/2506.09813)
 
