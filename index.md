@@ -21,7 +21,7 @@ My research is motivated by the goal of understanding and improving the long ter
 <!-- My PhD research was supported by the Apple Scholars in AI/ML PhD Fellowship and the NSF Graduate Research Fellowship. -->
 
 <b>I am recruiting PhD and PhD-track Masters students applying in Fall 2026 to start in 2027. </b>
-If you're interested in working with me, please apply through [UBC Computer Science](https://www.cs.ubc.ca/students/grad/admissions) and list my name in your application.
+If you're interested in working with me, please apply through [UBC Computer Science](https://www.cs.ubc.ca/students/grad/admissions) and list my name in your application. I will not be able to respond to individual email inquiries about admissions.
 
 Email: `serenalw (at) cs.ubc.ca`
 

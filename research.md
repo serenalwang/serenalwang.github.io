@@ -5,16 +5,16 @@ title: Research
 ### Preprints
 
 * Jivat Neet Kaur, Pratik Patil, Divya M Shanmugam, Emma Pierson, Michael I. Jordan, Nika Haghtalab, Meena Jagadeesan, Ahmed Alaa, Serena Wang.
-**Strategic Feature Selection.** *In submission,* 2026. [[arXiv]](https://arxiv.org/abs/2606.18867)
+**Strategic Feature Selection.** *To appear, NeurIPS Main Track,* 2026. [[arXiv]](https://arxiv.org/abs/2606.18867)
 
 * Sang Truong, Serena Wang, Nick Haber, Sanmi Koyejo.
-**Strategic Evaluation: Incentivizing AI Capability Coverage with Private Benchmarks.** *In submission,* 2026.
-
-*  Yash Dave, Sang Truong, Serena Wang, Sanmi Koyejo.
-**The AI Evaluation Ecosystem.** *In submission,* 2026.
+**Strategic Evaluation: Incentivizing AI Capability Coverage with Private Benchmarks.** *To appear, NeurIPS Evaluations and Datasets Track,* 2026.
 
 * Serena Wang, Martino Banchio, Krzysztof Kotowicz, Katrina Ligett, Preston McAfee, Eduardo' Vela" Nava.
-**Incentives and Outcomes in Bug Bounties.** *Working paper,* 2026. [[arXiv]](https://arxiv.org/abs/2509.16655)
+**Incentives and Outcomes in Bug Bounties.** *To appear, Conference on Web and Internet Economics (WINE),* 2026. [[arXiv]](https://arxiv.org/abs/2509.16655)
+
+* Yash Dave, Sang Truong, Serena Wang, Sanmi Koyejo.
+**The AI Evaluation Ecosystem.** *Workshop on AI Measurement Science (AIMS) at the Conference on Language Modeling (COLM),* 2026. [[arXiv]](https://arxiv.org/abs/2610.09296)
 
 ### Publications
 * Carter Blair, Jakob de Raaij, Ariel D. Procaccia, Maxon Rubin-Toles, Nisarg Shah, Michelle Si, Serena Wang. **The Structure of Bridging.** *ACM Conference on Economics and Computation (EC),* 2026. (*alphabetical order*) [[pdf]](https://procaccia.info/wp-content/uploads/2026/02/bridging.pdf) 
@@ -96,6 +96,13 @@ title: Research
 **Finding Equilibrium in Multi-Agent Games with Payoff Uncertainty.** *ICML Workshop on Theoretical Foundations of Reinforcement Learning,* 2020. [[arXiv]](https://arxiv.org/abs/2007.05647) [[video]](https://www.youtube.com/watch?v=Gyen7CMiRHo&feature=youtu.be) 
 
 ### Selected Talks
+
+* **Keynote**, Workshop on AI Measurement Science at the Conference on Language Modeling (COLM). *From Metric Selection to Metric Discovery in AI Evaluation*, October 9, 2026. [[link]](https://aims.stanford.edu/workshop)
+
+* Seminar on AI Measurement Science. *From Metric Selection to Metric Discovery in AI Evaluation*, October 16, 2026. [[link]](https://aims.stanford.edu/workshop)
+
+* Harvard Computer Science Colloquium. *Relying on the Metrics of Evaluated Agents*, November 13, 2025. [[link]](https://events.seas.harvard.edu/event/information-design-in-the-llm-era)
+
 * UBC Centre for Artificial Intelligence Decision-making and Action (CAIDA). *Operationalizing Counterfactual Metrics: Incentives, Ranking, and Information Asymmetry*, November 30, 2023 [[video]](https://www.youtube.com/watch?v=XLgxRtTkB2U&ab_channel=UBCCAIDA)
 
 * Penn State Center for Socially Responsible AI Young Achievers Symposium. *Bridging Gaps Between Metrics and Goals to Improve Societal Impacts of ML*, April 20, 2023 [[link]](https://csrai.psu.edu/initiatives/young-achievers)
@@ -129,3 +136,8 @@ title: Research
 * Grace Hopper Celebration, Workshop Co-presenter with Maya Gupta. *The Power of Monotonicity to Make ML Make Sense: Tensorflow Lattice.* 2018. [[link]](https://ghc.anitab.org/)
 
 * Open Data Science Conference (ODSC) West, Workshop Co-presenter with Maya Gupta and Seungil You. *The Power of Monotonicity to Make ML Make Sense: Tensorflow Lattice.* 2017. [[link]](https://odsc.com/speakers/deep-learning-3/)
+
+
+
+
+
