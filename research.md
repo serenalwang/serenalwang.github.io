@@ -99,7 +99,7 @@ title: Research
 
 * **Keynote**, Workshop on AI Measurement Science at the Conference on Language Modeling (COLM). *From Metric Selection to Metric Discovery in AI Evaluation*, October 9, 2026. [[link]](https://aims.stanford.edu/workshop)
 
-* Seminar on AI Measurement Science. *From Metric Selection to Metric Discovery in AI Evaluation*, October 16, 2026. [[link]](https://aims.stanford.edu/workshop)
+* Seminar on AI Measurement Science. *From Metric Selection to Metric Discovery in AI Evaluation*, October 16, 2026. [[link]](https://aims.stanford.edu/seminars)
 
 * Harvard Computer Science Colloquium. *Relying on the Metrics of Evaluated Agents*, November 13, 2025. [[link]](https://events.seas.harvard.edu/event/information-design-in-the-llm-era)
 
